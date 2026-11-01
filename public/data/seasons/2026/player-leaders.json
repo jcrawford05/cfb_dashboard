@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T04:35:02.671Z",
+  "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -12,20 +12,20 @@
   ],
   "data": [
     {
+      "playerId": "5212654",
+      "name": "Braden Atkinson",
+      "teamId": "204",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2956
+    },
+    {
       "playerId": "5219834",
       "name": "Drew Mestemaker",
       "teamId": "197",
       "category": "passing",
       "stat": "YDS",
       "value": 2649
-    },
-    {
-      "playerId": "5212654",
-      "name": "Braden Atkinson",
-      "teamId": "204",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2583
     },
     {
       "playerId": "4801307",
@@ -73,7 +73,7 @@
       "teamId": "2567",
       "category": "passing",
       "stat": "YDS",
-      "value": 2431
+      "value": 2433
     },
     {
       "playerId": "5121169",
@@ -90,6 +90,14 @@
       "category": "passing",
       "stat": "YDS",
       "value": 2244
+    },
+    {
+      "playerId": "5146712",
+      "name": "Dylan Riley",
+      "teamId": "68",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1049
     },
     {
       "playerId": "4911971",
@@ -124,14 +132,6 @@
       "value": 972
     },
     {
-      "playerId": "5146712",
-      "name": "Dylan Riley",
-      "teamId": "68",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 963
-    },
-    {
       "playerId": "4921108",
       "name": "DeSean Bishop",
       "teamId": "2633",
@@ -164,12 +164,20 @@
       "value": 923
     },
     {
-      "playerId": "5258016",
-      "name": "Caleb Hawkins",
-      "teamId": "197",
+      "playerId": "5088888",
+      "name": "Torrance Burgess Jr.",
+      "teamId": "326",
       "category": "rushing",
       "stat": "YDS",
-      "value": 906
+      "value": 922
+    },
+    {
+      "playerId": "5289510",
+      "name": "Jesse Legree",
+      "teamId": "204",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1110
     },
     {
       "playerId": "5079720",
@@ -178,14 +186,6 @@
       "category": "receiving",
       "stat": "YDS",
       "value": 1067
-    },
-    {
-      "playerId": "5289510",
-      "name": "Jesse Legree",
-      "teamId": "204",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 1040
     },
     {
       "playerId": "5159175",
