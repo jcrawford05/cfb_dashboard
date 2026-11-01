@@ -1,22 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "generatedAt": "2026-11-01T04:35:02.671Z",
   "season": 2026,
   "sources": [
-    "fixture"
+    "cfbd"
   ],
-  "mode": "fixture",
+  "mode": "production",
   "status": "available",
-  "notes": [
-    "Synthetic demonstration data. Not actual scores, records, or rankings."
-  ],
+  "notes": [],
   "data": {
     "availableSeasons": [
       2026
     ],
     "coverage": "FBS",
-    "requestCount": 0,
-    "contentHash": "29b8058ab3e71b42e422962c3977af5806aee9ca416db27eb431389ed0943036",
+    "requestCount": 7,
+    "contentHash": "1a2ae2ecd2e27dacac16fc0acd821b06780c8d28697e3b4f6769a5ba2948e372",
     "files": [
       "conferences.json",
       "seasons/2026/derived/playoff-picture.json",

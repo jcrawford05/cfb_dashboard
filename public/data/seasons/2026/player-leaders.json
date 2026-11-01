@@ -1,80 +1,255 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "generatedAt": "2026-11-01T04:35:02.671Z",
   "season": 2026,
   "sources": [
-    "fixture"
+    "cfbd"
   ],
-  "mode": "fixture",
+  "mode": "production",
   "status": "available",
   "notes": [
-    "Synthetic demonstration data. Not actual scores, records, or rankings.",
     "Top 10 per category: passing, rushing, receiving yards. No rate-stat leaders."
   ],
   "data": [
     {
-      "playerId": "demo-194",
-      "name": "Ohio State demo quarterback",
+      "playerId": "5219834",
+      "name": "Drew Mestemaker",
+      "teamId": "197",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2649
+    },
+    {
+      "playerId": "5212654",
+      "name": "Braden Atkinson",
+      "teamId": "204",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2583
+    },
+    {
+      "playerId": "4801307",
+      "name": "Tayven Jackson",
+      "teamId": "249",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2568
+    },
+    {
+      "playerId": "4869991",
+      "name": "Caden Veltkamp",
+      "teamId": "2226",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2534
+    },
+    {
+      "playerId": "5165807",
+      "name": "Marcus Stokes",
+      "teamId": "235",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2532
+    },
+    {
+      "playerId": "4685454",
+      "name": "Jayden Maiava",
+      "teamId": "30",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2525
+    },
+    {
+      "playerId": "4801717",
+      "name": "Noah Fifita",
+      "teamId": "12",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2464
+    },
+    {
+      "playerId": "5084084",
+      "name": "Kevin Jennings",
+      "teamId": "2567",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2431
+    },
+    {
+      "playerId": "5121169",
+      "name": "Darian Mensah",
+      "teamId": "2390",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2425
+    },
+    {
+      "playerId": "5082330",
+      "name": "John Alan Richter",
+      "teamId": "2649",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2244
+    },
+    {
+      "playerId": "4911971",
+      "name": "Jahiem White",
+      "teamId": "249",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1043
+    },
+    {
+      "playerId": "4921116",
+      "name": "Jamal Roberts",
+      "teamId": "142",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1005
+    },
+    {
+      "playerId": "5220473",
+      "name": "Jackson Gutierrez",
+      "teamId": "2426",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 982
+    },
+    {
+      "playerId": "5164332",
+      "name": "Nate Sheppard",
+      "teamId": "150",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 972
+    },
+    {
+      "playerId": "5146712",
+      "name": "Dylan Riley",
+      "teamId": "68",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 963
+    },
+    {
+      "playerId": "4921108",
+      "name": "DeSean Bishop",
+      "teamId": "2633",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 957
+    },
+    {
+      "playerId": "5219258",
+      "name": "Aiden Flora",
+      "teamId": "66",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 937
+    },
+    {
+      "playerId": "5222671",
+      "name": "Jaylin Carter",
+      "teamId": "235",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 929
+    },
+    {
+      "playerId": "4918103",
+      "name": "Cam Cook",
+      "teamId": "277",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 923
+    },
+    {
+      "playerId": "5258016",
+      "name": "Caleb Hawkins",
+      "teamId": "197",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 906
+    },
+    {
+      "playerId": "5079720",
+      "name": "Jeremiah Smith",
       "teamId": "194",
-      "category": "passing",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 264
+      "value": 1067
     },
     {
-      "playerId": "demo-61",
-      "name": "Georgia demo quarterback",
-      "teamId": "61",
-      "category": "passing",
+      "playerId": "5289510",
+      "name": "Jesse Legree",
+      "teamId": "204",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 251
+      "value": 1040
     },
     {
-      "playerId": "demo-254",
-      "name": "Utah demo quarterback",
-      "teamId": "254",
-      "category": "passing",
+      "playerId": "5159175",
+      "name": "Malachi Toney",
+      "teamId": "2390",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 244
+      "value": 1027
     },
     {
-      "playerId": "demo-213",
-      "name": "Penn State demo quarterback",
-      "teamId": "213",
-      "category": "passing",
+      "playerId": "4691315",
+      "name": "Umari Hatcher",
+      "teamId": "183",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 243
+      "value": 952
     },
     {
-      "playerId": "demo-333",
-      "name": "Alabama demo quarterback",
-      "teamId": "333",
-      "category": "passing",
+      "playerId": "4914830",
+      "name": "Easton Messer",
+      "teamId": "2226",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 243
+      "value": 891
     },
     {
-      "playerId": "demo-252",
-      "name": "BYU demo quarterback",
-      "teamId": "252",
-      "category": "passing",
+      "playerId": "5146735",
+      "name": "Charlie Becker",
+      "teamId": "84",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 242
+      "value": 875
     },
     {
-      "playerId": "demo-251",
-      "name": "Texas demo quarterback",
-      "teamId": "251",
-      "category": "passing",
+      "playerId": "5219476",
+      "name": "Isaiah Myers",
+      "teamId": "2623",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 241
+      "value": 873
     },
     {
-      "playerId": "demo-2483",
-      "name": "Oregon demo quarterback",
-      "teamId": "2483",
-      "category": "passing",
+      "playerId": "5153074",
+      "name": "Carlos Hernandez",
+      "teamId": "154",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 233
+      "value": 856
+    },
+    {
+      "playerId": "5031157",
+      "name": "Reed Harris",
+      "teamId": "9",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 804
+    },
+    {
+      "playerId": "4896289",
+      "name": "Gavin Freeman",
+      "teamId": "239",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 792
     }
   ]
 }
