@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "season": 2026,
+  "sources": [
+    "fixture"
+  ],
+  "mode": "fixture",
+  "status": "available",
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings."
+  ],
+  "data": {
+    "availableSeasons": [
+      2026
+    ],
+    "coverage": "FBS",
+    "requestCount": 0,
+    "contentHash": "29b8058ab3e71b42e422962c3977af5806aee9ca416db27eb431389ed0943036",
+    "files": [
+      "conferences.json",
+      "seasons/2026/derived/playoff-picture.json",
+      "seasons/2026/derived/schedule-strength.json",
+      "seasons/2026/derived/team-form.json",
+      "seasons/2026/derived/upset-tracker.json",
+      "seasons/2026/derived/weekly-recap.json",
+      "seasons/2026/games.json",
+      "seasons/2026/player-leaders.json",
+      "seasons/2026/rankings-by-week.json",
+      "seasons/2026/rankings.json",
+      "seasons/2026/records.json",
+      "seasons/2026/team-stats.json",
+      "teams.json"
+    ]
+  }
+}

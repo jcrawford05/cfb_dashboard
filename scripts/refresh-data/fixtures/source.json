@@ -1,0 +1,732 @@
+{
+  "teams": [
+    {
+      "id": 254,
+      "school": "Utah",
+      "abbreviation": "UTAH",
+      "mascot": "Utes",
+      "conference": "Big 12",
+      "classification": "fbs",
+      "color": "#cc0000",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 252,
+      "school": "BYU",
+      "abbreviation": "BYU",
+      "mascot": "Cougars",
+      "conference": "Big 12",
+      "classification": "fbs",
+      "color": "#003da5",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 2483,
+      "school": "Oregon",
+      "abbreviation": "ORE",
+      "mascot": "Ducks",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#154733",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 194,
+      "school": "Ohio State",
+      "abbreviation": "OSU",
+      "mascot": "Buckeyes",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#bb0000",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 251,
+      "school": "Texas",
+      "abbreviation": "TEX",
+      "mascot": "Longhorns",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#bf5700",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 61,
+      "school": "Georgia",
+      "abbreviation": "UGA",
+      "mascot": "Bulldogs",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#ba0c2f",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 333,
+      "school": "Alabama",
+      "abbreviation": "ALA",
+      "mascot": "Crimson Tide",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#9e1b32",
+      "alternateColor": "#ffffff",
+      "logos": []
+    },
+    {
+      "id": 213,
+      "school": "Penn State",
+      "abbreviation": "PSU",
+      "mascot": "Nittany Lions",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#041e42",
+      "alternateColor": "#ffffff",
+      "logos": []
+    }
+  ],
+  "conferences": [
+    {
+      "id": 1,
+      "name": "Big 12",
+      "abbreviation": "B12",
+      "classification": "fbs"
+    },
+    {
+      "id": 2,
+      "name": "Big Ten",
+      "abbreviation": "B1G",
+      "classification": "fbs"
+    },
+    {
+      "id": 3,
+      "name": "SEC",
+      "abbreviation": "SEC",
+      "classification": "fbs"
+    }
+  ],
+  "games": [
+    {
+      "id": 900001,
+      "season": 2026,
+      "week": 8,
+      "seasonType": "regular",
+      "startDate": "2026-10-24T18:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": true,
+      "homeId": 254,
+      "homeTeam": "Utah",
+      "awayId": 252,
+      "awayTeam": "BYU",
+      "homePoints": 27,
+      "awayPoints": 24,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900002,
+      "season": 2026,
+      "week": 8,
+      "seasonType": "regular",
+      "startDate": "2026-10-24T19:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": true,
+      "homeId": 194,
+      "homeTeam": "Ohio State",
+      "awayId": 2483,
+      "awayTeam": "Oregon",
+      "homePoints": 21,
+      "awayPoints": 31,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900003,
+      "season": 2026,
+      "week": 8,
+      "seasonType": "regular",
+      "startDate": "2026-10-24T20:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": true,
+      "homeId": 251,
+      "homeTeam": "Texas",
+      "awayId": 61,
+      "awayTeam": "Georgia",
+      "homePoints": 20,
+      "awayPoints": 24,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900004,
+      "season": 2026,
+      "week": 8,
+      "seasonType": "regular",
+      "startDate": "2026-10-24T21:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": true,
+      "homeId": 213,
+      "homeTeam": "Penn State",
+      "awayId": 333,
+      "awayTeam": "Alabama",
+      "homePoints": 28,
+      "awayPoints": 17,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900005,
+      "season": 2026,
+      "week": 9,
+      "seasonType": "regular",
+      "startDate": "2026-10-31T18:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "homeId": 252,
+      "homeTeam": "BYU",
+      "awayId": 254,
+      "awayTeam": "Utah",
+      "homePoints": null,
+      "awayPoints": null,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900006,
+      "season": 2026,
+      "week": 9,
+      "seasonType": "regular",
+      "startDate": "2026-10-31T19:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "homeId": 2483,
+      "homeTeam": "Oregon",
+      "awayId": 194,
+      "awayTeam": "Ohio State",
+      "homePoints": null,
+      "awayPoints": null,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900007,
+      "season": 2026,
+      "week": 9,
+      "seasonType": "regular",
+      "startDate": "2026-10-31T20:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "homeId": 61,
+      "homeTeam": "Georgia",
+      "awayId": 251,
+      "awayTeam": "Texas",
+      "homePoints": null,
+      "awayPoints": null,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    },
+    {
+      "id": 900008,
+      "season": 2026,
+      "week": 9,
+      "seasonType": "regular",
+      "startDate": "2026-10-31T21:00:00.000Z",
+      "startTimeTBD": false,
+      "completed": false,
+      "homeId": 333,
+      "homeTeam": "Alabama",
+      "awayId": 213,
+      "awayTeam": "Penn State",
+      "homePoints": null,
+      "awayPoints": null,
+      "venue": "Demonstration Stadium",
+      "neutralSite": false
+    }
+  ],
+  "records": [
+    {
+      "year": 2026,
+      "teamId": 254,
+      "total": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 252,
+      "total": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 2483,
+      "total": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 194,
+      "total": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 251,
+      "total": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 61,
+      "total": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 333,
+      "total": {
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "ties": 0
+      }
+    },
+    {
+      "year": 2026,
+      "teamId": 213,
+      "total": {
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "ties": 0
+      }
+    }
+  ],
+  "rankings": [
+    {
+      "season": 2026,
+      "seasonType": "regular",
+      "week": 8,
+      "polls": [
+        {
+          "poll": "AP Top 25",
+          "ranks": [
+            {
+              "rank": 1,
+              "teamId": 194,
+              "school": "Ohio State",
+              "points": 1500
+            },
+            {
+              "rank": 2,
+              "teamId": 61,
+              "school": "Georgia",
+              "points": 1450
+            },
+            {
+              "rank": 3,
+              "teamId": 2483,
+              "school": "Oregon",
+              "points": 1400
+            },
+            {
+              "rank": 4,
+              "teamId": 251,
+              "school": "Texas",
+              "points": 1350
+            },
+            {
+              "rank": 5,
+              "teamId": 213,
+              "school": "Penn State",
+              "points": 1300
+            },
+            {
+              "rank": 6,
+              "teamId": 333,
+              "school": "Alabama",
+              "points": 1250
+            },
+            {
+              "rank": 7,
+              "teamId": 254,
+              "school": "Utah",
+              "points": 1200
+            },
+            {
+              "rank": 8,
+              "teamId": 252,
+              "school": "BYU",
+              "points": 1150
+            }
+          ]
+        },
+        {
+          "poll": "Coaches Poll",
+          "ranks": [
+            {
+              "rank": 1,
+              "teamId": 194,
+              "school": "Ohio State",
+              "points": 1400
+            },
+            {
+              "rank": 2,
+              "teamId": 61,
+              "school": "Georgia",
+              "points": 1350
+            },
+            {
+              "rank": 3,
+              "teamId": 2483,
+              "school": "Oregon",
+              "points": 1300
+            },
+            {
+              "rank": 4,
+              "teamId": 251,
+              "school": "Texas",
+              "points": 1250
+            },
+            {
+              "rank": 5,
+              "teamId": 213,
+              "school": "Penn State",
+              "points": 1200
+            },
+            {
+              "rank": 6,
+              "teamId": 333,
+              "school": "Alabama",
+              "points": 1150
+            },
+            {
+              "rank": 7,
+              "teamId": 254,
+              "school": "Utah",
+              "points": 1100
+            },
+            {
+              "rank": 8,
+              "teamId": 252,
+              "school": "BYU",
+              "points": 1050
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2026,
+      "seasonType": "regular",
+      "week": 9,
+      "polls": [
+        {
+          "poll": "AP Top 25",
+          "ranks": [
+            {
+              "rank": 1,
+              "teamId": 2483,
+              "school": "Oregon",
+              "points": 1500
+            },
+            {
+              "rank": 2,
+              "teamId": 61,
+              "school": "Georgia",
+              "points": 1450
+            },
+            {
+              "rank": 3,
+              "teamId": 194,
+              "school": "Ohio State",
+              "points": 1400
+            },
+            {
+              "rank": 4,
+              "teamId": 213,
+              "school": "Penn State",
+              "points": 1350
+            },
+            {
+              "rank": 5,
+              "teamId": 251,
+              "school": "Texas",
+              "points": 1300
+            },
+            {
+              "rank": 6,
+              "teamId": 254,
+              "school": "Utah",
+              "points": 1250
+            },
+            {
+              "rank": 7,
+              "teamId": 333,
+              "school": "Alabama",
+              "points": 1200
+            },
+            {
+              "rank": 8,
+              "teamId": 252,
+              "school": "BYU",
+              "points": 1150
+            }
+          ]
+        },
+        {
+          "poll": "Coaches Poll",
+          "ranks": [
+            {
+              "rank": 1,
+              "teamId": 2483,
+              "school": "Oregon",
+              "points": 1400
+            },
+            {
+              "rank": 2,
+              "teamId": 61,
+              "school": "Georgia",
+              "points": 1350
+            },
+            {
+              "rank": 3,
+              "teamId": 194,
+              "school": "Ohio State",
+              "points": 1300
+            },
+            {
+              "rank": 4,
+              "teamId": 213,
+              "school": "Penn State",
+              "points": 1250
+            },
+            {
+              "rank": 5,
+              "teamId": 251,
+              "school": "Texas",
+              "points": 1200
+            },
+            {
+              "rank": 6,
+              "teamId": 254,
+              "school": "Utah",
+              "points": 1150
+            },
+            {
+              "rank": 7,
+              "teamId": 333,
+              "school": "Alabama",
+              "points": 1100
+            },
+            {
+              "rank": 8,
+              "teamId": 252,
+              "school": "BYU",
+              "points": 1050
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": [
+    {
+      "season": 2026,
+      "team": "Utah",
+      "statName": "totalYards",
+      "statValue": 414
+    },
+    {
+      "season": 2026,
+      "team": "Utah",
+      "statName": "rushingYards",
+      "statValue": 134
+    },
+    {
+      "season": 2026,
+      "team": "BYU",
+      "statName": "totalYards",
+      "statValue": 412
+    },
+    {
+      "season": 2026,
+      "team": "BYU",
+      "statName": "rushingYards",
+      "statValue": 132
+    },
+    {
+      "season": 2026,
+      "team": "Oregon",
+      "statName": "totalYards",
+      "statValue": 403
+    },
+    {
+      "season": 2026,
+      "team": "Oregon",
+      "statName": "rushingYards",
+      "statValue": 123
+    },
+    {
+      "season": 2026,
+      "team": "Ohio State",
+      "statName": "totalYards",
+      "statValue": 424
+    },
+    {
+      "season": 2026,
+      "team": "Ohio State",
+      "statName": "rushingYards",
+      "statValue": 154
+    },
+    {
+      "season": 2026,
+      "team": "Texas",
+      "statName": "totalYards",
+      "statValue": 411
+    },
+    {
+      "season": 2026,
+      "team": "Texas",
+      "statName": "rushingYards",
+      "statValue": 131
+    },
+    {
+      "season": 2026,
+      "team": "Georgia",
+      "statName": "totalYards",
+      "statValue": 431
+    },
+    {
+      "season": 2026,
+      "team": "Georgia",
+      "statName": "rushingYards",
+      "statValue": 141
+    },
+    {
+      "season": 2026,
+      "team": "Alabama",
+      "statName": "totalYards",
+      "statValue": 423
+    },
+    {
+      "season": 2026,
+      "team": "Alabama",
+      "statName": "rushingYards",
+      "statValue": 133
+    },
+    {
+      "season": 2026,
+      "team": "Penn State",
+      "statName": "totalYards",
+      "statValue": 373
+    },
+    {
+      "season": 2026,
+      "team": "Penn State",
+      "statName": "rushingYards",
+      "statValue": 133
+    }
+  ],
+  "players": [
+    {
+      "season": 2026,
+      "playerId": "demo-254",
+      "player": "Utah demo quarterback",
+      "team": "Utah",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "244"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-252",
+      "player": "BYU demo quarterback",
+      "team": "BYU",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "242"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-2483",
+      "player": "Oregon demo quarterback",
+      "team": "Oregon",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "233"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-194",
+      "player": "Ohio State demo quarterback",
+      "team": "Ohio State",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "264"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-251",
+      "player": "Texas demo quarterback",
+      "team": "Texas",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "241"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-61",
+      "player": "Georgia demo quarterback",
+      "team": "Georgia",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "251"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-333",
+      "player": "Alabama demo quarterback",
+      "team": "Alabama",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "243"
+    },
+    {
+      "season": 2026,
+      "playerId": "demo-213",
+      "player": "Penn State demo quarterback",
+      "team": "Penn State",
+      "category": "passing",
+      "statType": "YDS",
+      "stat": "243"
+    }
+  ]
+}

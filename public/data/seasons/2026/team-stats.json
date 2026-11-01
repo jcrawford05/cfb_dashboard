@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "season": 2026,
+  "sources": [
+    "fixture"
+  ],
+  "mode": "fixture",
+  "status": "available",
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings."
+  ],
+  "data": [
+    {
+      "teamId": "194",
+      "name": "rushingYards",
+      "value": 154
+    },
+    {
+      "teamId": "194",
+      "name": "totalYards",
+      "value": 424
+    },
+    {
+      "teamId": "213",
+      "name": "rushingYards",
+      "value": 133
+    },
+    {
+      "teamId": "213",
+      "name": "totalYards",
+      "value": 373
+    },
+    {
+      "teamId": "2483",
+      "name": "rushingYards",
+      "value": 123
+    },
+    {
+      "teamId": "2483",
+      "name": "totalYards",
+      "value": 403
+    },
+    {
+      "teamId": "251",
+      "name": "rushingYards",
+      "value": 131
+    },
+    {
+      "teamId": "251",
+      "name": "totalYards",
+      "value": 411
+    },
+    {
+      "teamId": "252",
+      "name": "rushingYards",
+      "value": 132
+    },
+    {
+      "teamId": "252",
+      "name": "totalYards",
+      "value": 412
+    },
+    {
+      "teamId": "254",
+      "name": "rushingYards",
+      "value": 134
+    },
+    {
+      "teamId": "254",
+      "name": "totalYards",
+      "value": 414
+    },
+    {
+      "teamId": "333",
+      "name": "rushingYards",
+      "value": 133
+    },
+    {
+      "teamId": "333",
+      "name": "totalYards",
+      "value": 423
+    },
+    {
+      "teamId": "61",
+      "name": "rushingYards",
+      "value": 141
+    },
+    {
+      "teamId": "61",
+      "name": "totalYards",
+      "value": 431
+    }
+  ]
+}

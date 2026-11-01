@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "season": 2026,
+  "sources": [
+    "fixture"
+  ],
+  "mode": "fixture",
+  "status": "available",
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Top 10 per category: passing, rushing, receiving yards. No rate-stat leaders."
+  ],
+  "data": [
+    {
+      "playerId": "demo-194",
+      "name": "Ohio State demo quarterback",
+      "teamId": "194",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 264
+    },
+    {
+      "playerId": "demo-61",
+      "name": "Georgia demo quarterback",
+      "teamId": "61",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 251
+    },
+    {
+      "playerId": "demo-254",
+      "name": "Utah demo quarterback",
+      "teamId": "254",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 244
+    },
+    {
+      "playerId": "demo-213",
+      "name": "Penn State demo quarterback",
+      "teamId": "213",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 243
+    },
+    {
+      "playerId": "demo-333",
+      "name": "Alabama demo quarterback",
+      "teamId": "333",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 243
+    },
+    {
+      "playerId": "demo-252",
+      "name": "BYU demo quarterback",
+      "teamId": "252",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 242
+    },
+    {
+      "playerId": "demo-251",
+      "name": "Texas demo quarterback",
+      "teamId": "251",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 241
+    },
+    {
+      "playerId": "demo-2483",
+      "name": "Oregon demo quarterback",
+      "teamId": "2483",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 233
+    }
+  ]
+}

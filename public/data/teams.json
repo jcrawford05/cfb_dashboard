@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "season": 2026,
+  "sources": [
+    "fixture"
+  ],
+  "mode": "fixture",
+  "status": "available",
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings."
+  ],
+  "data": [
+    {
+      "id": "194",
+      "slug": "ohio-state-194",
+      "name": "Ohio State",
+      "abbreviation": "OSU",
+      "mascot": "Buckeyes",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#bb0000",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "213",
+      "slug": "penn-state-213",
+      "name": "Penn State",
+      "abbreviation": "PSU",
+      "mascot": "Nittany Lions",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#041e42",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "2483",
+      "slug": "oregon-2483",
+      "name": "Oregon",
+      "abbreviation": "ORE",
+      "mascot": "Ducks",
+      "conference": "Big Ten",
+      "classification": "fbs",
+      "color": "#154733",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "251",
+      "slug": "texas-251",
+      "name": "Texas",
+      "abbreviation": "TEX",
+      "mascot": "Longhorns",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#bf5700",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "252",
+      "slug": "byu-252",
+      "name": "BYU",
+      "abbreviation": "BYU",
+      "mascot": "Cougars",
+      "conference": "Big 12",
+      "classification": "fbs",
+      "color": "#003da5",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "254",
+      "slug": "utah-254",
+      "name": "Utah",
+      "abbreviation": "UTAH",
+      "mascot": "Utes",
+      "conference": "Big 12",
+      "classification": "fbs",
+      "color": "#cc0000",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "333",
+      "slug": "alabama-333",
+      "name": "Alabama",
+      "abbreviation": "ALA",
+      "mascot": "Crimson Tide",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#9e1b32",
+      "alternateColor": "#ffffff",
+      "logo": null
+    },
+    {
+      "id": "61",
+      "slug": "georgia-61",
+      "name": "Georgia",
+      "abbreviation": "UGA",
+      "mascot": "Bulldogs",
+      "conference": "SEC",
+      "classification": "fbs",
+      "color": "#ba0c2f",
+      "alternateColor": "#ffffff",
+      "logo": null
+    }
+  ]
+}
