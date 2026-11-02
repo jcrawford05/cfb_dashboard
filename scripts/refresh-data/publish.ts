@@ -13,7 +13,11 @@ export async function readSnapshot(directory: string): Promise<PublicFiles | nul
     }
     validateFiles(files);
     return files;
-  } catch (error: any) { if (error.code === 'ENOENT') return null; throw new Error('Saved snapshot is invalid.'); }
+  } catch (error: any) {
+    if (error.code === 'ENOENT') return null;
+    console.error('Snapshot validation detail:', error);
+    throw new Error('Saved snapshot is invalid.');
+  }
 }
 export async function publishSnapshot(files: PublicFiles, target: string, secret?: string) {
   validateFiles(files);

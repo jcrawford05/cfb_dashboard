@@ -12,6 +12,7 @@
     "preview": "vite preview --host 0.0.0.0",
     "test": "node --import tsx --test scripts/refresh-data/__tests__/*.test.ts src/data/__tests__/*.test.ts src/pages/__tests__/*.test.tsx",
     "data:fixtures": "node --import tsx scripts/refresh-data/index.ts --fixtures",
+    "data:rebuild-derived": "node --import tsx scripts/rebuild-derived.ts",
     "data:refresh": "node --import tsx scripts/refresh-data/index.ts",
     "data:validate": "node --import tsx scripts/validate-data.ts",
     "check": "npm test && npm run data:validate && npm run build"

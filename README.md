@@ -18,9 +18,12 @@ npm run check          # tests + public data validation + TypeScript + productio
 npm run build          # outputs dist/
 npm run preview        # serves the production build
 npm run data:fixtures  # regenerates the included synthetic 2026 dataset
+npm run data:rebuild-derived # adds Phase 2/3 analytics to the existing saved snapshot
 ```
 
 `data:fixtures` replaces the local public snapshot with demonstration data. Use it only when you intend to reset the current snapshot. It makes zero API requests. The committed snapshot already exists, so regeneration is not required before startup.
+
+When upgrading an older Phase 1 checkout, run `npm run data:rebuild-derived` before `npm run check`. It preserves the saved games, records, polls, and source metadata while adding the derived Phase 3 documents; it makes no CFBD requests.
 
 ## Put it on GitHub Pages
 
