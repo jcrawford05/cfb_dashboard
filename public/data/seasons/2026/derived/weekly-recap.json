@@ -1,37 +1,239 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "generatedAt": "2026-11-02T02:00:22.781Z",
   "season": 2026,
   "sources": [
-    "fixture"
+    "cfbd"
   ],
-  "mode": "fixture",
+  "mode": "production",
   "status": "available",
   "notes": [
-    "Synthetic demonstration data. Not actual scores, records, or rankings.",
     "Cards summarize the saved completed results; ranking movement appears when a later poll snapshot is available."
   ],
   "data": [
     {
-      "week": 8,
+      "week": 1,
       "cards": [
         {
           "category": "closest-game",
-          "gameId": "cfbd-900001",
+          "gameId": "cfbd-401856636",
           "teamId": null,
-          "description": "BYU at Utah finished with a 3-point margin."
+          "description": "Baylor at Auburn finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-900002",
+          "gameId": "cfbd-401856637",
           "teamId": null,
-          "description": "Oregon and Ohio State combined for 52 points."
+          "description": "Florida Atlantic and Florida combined for 87 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-900004",
+          "gameId": "cfbd-401869129",
           "teamId": null,
-          "description": "Penn State won by 11 points."
+          "description": "Louisiana Tech won by 74 points."
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856782",
+          "teamId": "197",
+          "description": "Oklahoma State upset Oregon (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401856682",
+          "teamId": null,
+          "description": "Ohio State at Texas finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401856673",
+          "teamId": null,
+          "description": "Western Kentucky and Georgia combined for 90 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401867929",
+          "teamId": null,
+          "description": "James Madison won by 84 points."
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856694",
+          "teamId": "96",
+          "description": "Kentucky upset Texas A&M (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401862774",
+          "teamId": null,
+          "description": "Temple at Toledo finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401862774",
+          "teamId": null,
+          "description": "Temple and Toledo combined for 97 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401858455",
+          "teamId": null,
+          "description": "Oregon won by 84 points."
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856699",
+          "teamId": "57",
+          "description": "Florida upset Ole Miss (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401858463",
+          "teamId": null,
+          "description": "Iowa at Michigan finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401860896",
+          "teamId": null,
+          "description": "Colorado State and UTSA combined for 104 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401858236",
+          "teamId": null,
+          "description": "Pittsburgh won by 59 points."
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401858248",
+          "teamId": "152",
+          "description": "NC State upset Louisville (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401856709",
+          "teamId": null,
+          "description": "Kentucky at South Carolina finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401862786",
+          "teamId": null,
+          "description": "North Texas and Tulsa combined for 89 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401862790",
+          "teamId": null,
+          "description": "Florida Atlantic won by 56 points."
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856714",
+          "teamId": "2579",
+          "description": "South Carolina upset Florida (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401856715",
+          "teamId": null,
+          "description": "LSU at Kentucky finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401869933",
+          "teamId": null,
+          "description": "South Alabama and Arkansas State combined for 105 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401860902",
+          "teamId": null,
+          "description": "Oregon State won by 52 points."
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856719",
+          "teamId": "2",
+          "description": "Auburn upset Georgia (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401866441",
+          "teamId": null,
+          "description": "Ball State at Bowling Green finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401860923",
+          "teamId": null,
+          "description": "Colorado State and Texas State combined for 93 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401856725",
+          "teamId": null,
+          "description": "Texas A&M won by 41 points."
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "cards": [
+        {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856730",
+          "teamId": "201",
+          "description": "Oklahoma upset Mississippi State (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401856834",
+          "teamId": null,
+          "description": "Baylor at Kansas finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401860905",
+          "teamId": null,
+          "description": "San Diego State and Colorado State combined for 105 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401858270",
+          "teamId": null,
+          "description": "SMU won by 39 points."
         }
       ]
     },
@@ -39,10 +241,39 @@
       "week": 9,
       "cards": [
         {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401858278",
+          "teamId": "183",
+          "description": "Syracuse upset SMU (unranked over ranked)."
+        },
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401860908",
+          "teamId": null,
+          "description": "Texas State at Boise State finished with a 1-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401856847",
+          "teamId": null,
+          "description": "Oklahoma State and Iowa State combined for 100 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401858279",
+          "teamId": null,
+          "description": "Duke won by 45 points."
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "cards": [
+        {
           "category": "ranking-mover",
           "gameId": null,
-          "teamId": "2483",
-          "description": "Oregon moved up 2 places in the AP Top 25."
+          "teamId": "142",
+          "description": "Missouri moved up 4 places in the AP Top 25."
         }
       ]
     }

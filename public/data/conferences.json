@@ -1,32 +1,1548 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "generatedAt": "2026-11-02T02:00:22.781Z",
   "season": 2026,
   "sources": [
-    "fixture"
+    "cfbd"
   ],
-  "mode": "fixture",
+  "mode": "production",
   "status": "available",
-  "notes": [
-    "Synthetic demonstration data. Not actual scores, records, or rankings."
-  ],
+  "notes": [],
   "data": [
     {
       "id": "1",
+      "name": "ACC",
+      "abbreviation": "ACC",
+      "classification": "fbs"
+    },
+    {
+      "id": "100",
+      "name": "American Southwest",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "102",
+      "name": "CCIW",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "103",
+      "name": "Centennial",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "104",
+      "name": "CIAA",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "105",
+      "name": "ECFC",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "106",
+      "name": "Empire 8",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "107",
+      "name": "GLIAC",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "108",
+      "name": "Great Lakes",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "109",
+      "name": "Great Northwest",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "110",
+      "name": "Gulf South",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "111",
+      "name": "Heartland",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "112",
+      "name": "Independent DII",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "113",
+      "name": "Independent DIII",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "114",
+      "name": "American Rivers",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "115",
+      "name": "Liberty League",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "116",
+      "name": "Lone Star",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "117",
+      "name": "Michigan",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "118",
+      "name": "Mid America",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "119",
+      "name": "Mid Atlantic",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "12",
+      "name": "Conference USA",
+      "abbreviation": "CUSA",
+      "classification": "fbs"
+    },
+    {
+      "id": "120",
+      "name": "Midwest",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "121",
+      "name": "Minnesota",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "122",
+      "name": "NESCAC",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "123",
+      "name": "Commonwealth Coast",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "124",
+      "name": "New Jersey",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "126",
+      "name": "North Coast",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "127",
+      "name": "Northeast 10",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "128",
+      "name": "NACC",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "129",
+      "name": "Northern Sun",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "130",
+      "name": "Northwest",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "131",
+      "name": "Ohio",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "132",
+      "name": "Old Dominion",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "133",
+      "name": "Pennsylvania State Athletic",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "134",
+      "name": "Presidents'",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "135",
+      "name": "Rocky Mountain",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "136",
+      "name": "SIAC",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "138",
+      "name": "So. Cal.",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "139",
+      "name": "South Atlantic",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "141",
+      "name": "University",
+      "abbreviation": "UNI",
+      "classification": "iii"
+    },
+    {
+      "id": "142",
+      "name": "Upper Midwest",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "143",
+      "name": "USA South",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "144",
+      "name": "Mountain East",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "145",
+      "name": "Wisconsin",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "146",
+      "name": "Great American",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "147",
+      "name": "Southern Athletic",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "148",
+      "name": "Southern Collegiate Athletic",
+      "abbreviation": "SCAC",
+      "classification": "iii"
+    },
+    {
+      "id": "15",
+      "name": "Mid-American",
+      "abbreviation": "MAC",
+      "classification": "fbs"
+    },
+    {
+      "id": "151",
+      "name": "American Athletic",
+      "abbreviation": "AAC",
+      "classification": "fbs"
+    },
+    {
+      "id": "16",
+      "name": "Western Athletic",
+      "abbreviation": "WAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "160",
+      "name": "MSCAC",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "165",
+      "name": "Great Midwest Athletic",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "166",
+      "name": "NEWMAC",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "17",
+      "name": "Mountain West",
+      "abbreviation": "MWC",
+      "classification": "fbs"
+    },
+    {
+      "id": "175",
+      "name": "AWC",
+      "abbreviation": "AWC",
+      "classification": "fcs"
+    },
+    {
+      "id": "176",
+      "name": "Atlantic Sun",
+      "abbreviation": "ASUN",
+      "classification": "fcs"
+    },
+    {
+      "id": "177",
+      "name": "UAC",
+      "abbreviation": "UAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "178",
+      "name": "Landmark Conference",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "179",
+      "name": "Big South-OVC",
+      "abbreviation": "BSOVC",
+      "classification": "fcs"
+    },
+    {
+      "id": "18",
+      "name": "FBS Independents",
+      "abbreviation": "Ind",
+      "classification": "fbs"
+    },
+    {
+      "id": "187",
+      "name": "Carolinas",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "19",
+      "name": "Atlantic 10",
+      "abbreviation": "A10",
+      "classification": "fcs"
+    },
+    {
+      "id": "20",
+      "name": "Big Sky",
+      "abbreviation": "BSKY",
+      "classification": "fcs"
+    },
+    {
+      "id": "201",
+      "name": "Western",
+      "abbreviation": "Western",
+      "classification": "fbs"
+    },
+    {
+      "id": "202",
+      "name": "Missouri Valley",
+      "abbreviation": "MVIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "203",
+      "name": "Rocky Mountain",
+      "abbreviation": "RMC",
+      "classification": "fbs"
+    },
+    {
+      "id": "204",
+      "name": "Southwest",
+      "abbreviation": "SWC",
+      "classification": "fbs"
+    },
+    {
+      "id": "205",
+      "name": "Pacific",
+      "abbreviation": "PCC",
+      "classification": "fbs"
+    },
+    {
+      "id": "206",
+      "name": "Southern",
+      "abbreviation": "Southern",
+      "classification": "fbs"
+    },
+    {
+      "id": "207",
+      "name": "Big 6",
+      "abbreviation": "Big 6",
+      "classification": "fbs"
+    },
+    {
+      "id": "208",
+      "name": "Missouri Valley",
+      "abbreviation": "MVC",
+      "classification": "fbs"
+    },
+    {
+      "id": "209",
+      "name": "Mountain State",
+      "abbreviation": "MSAC",
+      "classification": "fbs"
+    },
+    {
+      "id": "21",
+      "name": "MVFC",
+      "abbreviation": "MVFC",
+      "classification": "fcs"
+    },
+    {
+      "id": "210",
+      "name": "Big 7",
+      "abbreviation": "Big 7",
+      "classification": "fbs"
+    },
+    {
+      "id": "211",
+      "name": "Skyline",
+      "abbreviation": "Skyline",
+      "classification": "fbs"
+    },
+    {
+      "id": "212",
+      "name": "Ivy",
+      "abbreviation": "Ivy",
+      "classification": "fbs"
+    },
+    {
+      "id": "213",
+      "name": "AAWU",
+      "abbreviation": "AAWU",
+      "classification": "fbs"
+    },
+    {
+      "id": "214",
+      "name": "Big 8",
+      "abbreviation": "Big 8",
+      "classification": "fbs"
+    },
+    {
+      "id": "215",
+      "name": "Western Athletic",
+      "abbreviation": "WAC",
+      "classification": "fbs"
+    },
+    {
+      "id": "216",
+      "name": "Pac-8",
+      "abbreviation": "Pac-8",
+      "classification": "fbs"
+    },
+    {
+      "id": "217",
+      "name": "PCAA",
+      "abbreviation": "PCAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "218",
+      "name": "Southland",
+      "abbreviation": "Southland",
+      "classification": "fbs"
+    },
+    {
+      "id": "219",
+      "name": "SWAC",
+      "abbreviation": "SWAC",
+      "classification": "fbs"
+    },
+    {
+      "id": "22",
+      "name": "Ivy",
+      "abbreviation": "IVY",
+      "classification": "fcs"
+    },
+    {
+      "id": "220",
+      "name": "Pac-10",
+      "abbreviation": "Pac-10",
+      "classification": "fbs"
+    },
+    {
+      "id": "221",
+      "name": "Big West",
+      "abbreviation": "BW",
+      "classification": "fbs"
+    },
+    {
+      "id": "222",
+      "name": "Big East",
+      "abbreviation": "BE",
+      "classification": "fbs"
+    },
+    {
+      "id": "223",
+      "name": "Border",
+      "abbreviation": "BIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "224",
+      "name": "American West",
+      "abbreviation": "AWC",
+      "classification": "fcs"
+    },
+    {
+      "id": "225",
+      "name": "Arkansas Intercollegiate",
+      "abbreviation": "AIC",
+      "classification": "ii"
+    },
+    {
+      "id": "226",
+      "name": "Athletic League of New England State Colleges",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "227",
+      "name": "Big Four",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "228",
+      "name": "Buckeye",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "229",
+      "name": "Buckeye Athletic",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "23",
+      "name": "Metro Atlantic Athletic",
+      "abbreviation": "MAAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "230",
+      "name": "California Coast",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "231",
+      "name": "California Collegiate Athletic",
+      "abbreviation": "CCAA",
+      "classification": "ii"
+    },
+    {
+      "id": "232",
+      "name": "Colorado Football",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "233",
+      "name": "Dixie",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "234",
+      "name": "Eastern Virginia Intercollegiate Athletic",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "235",
+      "name": "Far Western",
+      "abbreviation": "FWC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "236",
+      "name": "Gulf Coast",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "237",
+      "name": "Gulf Star",
+      "abbreviation": null,
+      "classification": "fcs"
+    },
+    {
+      "id": "238",
+      "name": "Gulf Star",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "239",
+      "name": "Gulf States",
+      "abbreviation": "GSC",
+      "classification": "ii"
+    },
+    {
+      "id": "24",
+      "name": "MEAC",
+      "abbreviation": "MEAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "240",
+      "name": "Illinois Intercollegiate Athletic",
+      "abbreviation": "IIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "241",
+      "name": "Indiana Collegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "242",
+      "name": "Indiana Intercollegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "243",
+      "name": "Indiana Intercollegiate Athletic",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "244",
+      "name": "Intercollegiate Athletic Association of the Northwest",
+      "abbreviation": "IAANW",
+      "classification": "fbs"
+    },
+    {
+      "id": "245",
+      "name": "Interstate Intercollegiate Athletic",
+      "abbreviation": "IIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "246",
+      "name": "Kansas Intercollegiate Athletic",
+      "abbreviation": "KIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "247",
+      "name": "Kentucky Intercollegiate Athletic",
+      "abbreviation": "KIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "248",
+      "name": "Louisiana Intercollegiate",
+      "abbreviation": "LIC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "249",
+      "name": "Louisiana Intercollegiate Athletic",
+      "abbreviation": "LIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "25",
+      "name": "NEC",
+      "abbreviation": "NEC",
+      "classification": "fcs"
+    },
+    {
+      "id": "250",
+      "name": "Maryland Intercollegiate Football",
+      "abbreviation": "MIFA",
+      "classification": "fbs"
+    },
+    {
+      "id": "251",
+      "name": "Mason-Dixon",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "252",
+      "name": "Michigan Collegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "253",
+      "name": "Mid-Continent",
+      "abbreviation": null,
+      "classification": "fcs"
+    },
+    {
+      "id": "254",
+      "name": "Mid-Continent",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "255",
+      "name": "Middle Atlantic University",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "256",
+      "name": "Middle Atlantic University",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "257",
+      "name": "Middle States Intercollegiate Football",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "258",
+      "name": "Middle Three",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "259",
+      "name": "Midwestern Universities",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "26",
+      "name": "OVC",
+      "abbreviation": "OVC",
+      "classification": "fcs"
+    },
+    {
+      "id": "260",
+      "name": "Mississippi Valley",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "261",
+      "name": "New England",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "262",
+      "name": "New York State",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "263",
+      "name": "North Central",
+      "abbreviation": "NCC",
+      "classification": "ii"
+    },
+    {
+      "id": "264",
+      "name": "North State",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "265",
+      "name": "Northern California Athletic",
+      "abbreviation": "NCAC",
+      "classification": "ii"
+    },
+    {
+      "id": "266",
+      "name": "Northwest (historical)",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "267",
+      "name": "Northwest Intercollegiate Athletic",
+      "abbreviation": "NIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "268",
+      "name": "Northwest Ohio",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "269",
+      "name": "Oklahoma Intercollegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "27",
+      "name": "Patriot",
+      "abbreviation": "PAT",
+      "classification": "fcs"
+    },
+    {
+      "id": "270",
+      "name": "Oregon Intercollegiate Football",
+      "abbreviation": "OIFA",
+      "classification": "fbs"
+    },
+    {
+      "id": "271",
+      "name": "Pennsylvania Intercollegiate Football",
+      "abbreviation": "PIFA",
+      "classification": "fbs"
+    },
+    {
+      "id": "272",
+      "name": "Pre-classification Independents",
+      "abbreviation": "IND-PC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "273",
+      "name": "SIAA",
+      "abbreviation": "SIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "274",
+      "name": "SIAA",
+      "abbreviation": "SIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "275",
+      "name": "South Atlantic Intercollegiate Athletic",
+      "abbreviation": "SAIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "276",
+      "name": "Southern California Intercollegiate Athletic",
+      "abbreviation": "SCIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "277",
+      "name": "Texas Intercollegiate Athletic",
+      "abbreviation": "TIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "278",
+      "name": "Virginia Collegiate Athletic",
+      "abbreviation": "VCAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "279",
+      "name": "West Virginia Athletic",
+      "abbreviation": "WVAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "28",
+      "name": "Pioneer",
+      "abbreviation": "PFL",
+      "classification": "fcs"
+    },
+    {
+      "id": "280",
+      "name": "West Virginia Intercollegiate Athletic",
+      "abbreviation": "WVIAC",
+      "classification": "ii"
+    },
+    {
+      "id": "281",
+      "name": "Western Football",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "282",
+      "name": "Western Interstate University Football",
+      "abbreviation": "WIUFA",
+      "classification": "fbs"
+    },
+    {
+      "id": "283",
+      "name": "Yankee",
+      "abbreviation": "YANKEE",
+      "classification": "fcs"
+    },
+    {
+      "id": "284",
+      "name": "Big Sky",
+      "abbreviation": "BSKY",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "285",
+      "name": "Big Sky",
+      "abbreviation": "BSKY",
+      "classification": "ii"
+    },
+    {
+      "id": "286",
+      "name": "Big Sky",
+      "abbreviation": "BSKY",
+      "classification": "fbs"
+    },
+    {
+      "id": "287",
+      "name": "OVC",
+      "abbreviation": "OVC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "288",
+      "name": "OVC",
+      "abbreviation": "OVC",
+      "classification": "ii"
+    },
+    {
+      "id": "289",
+      "name": "Southland",
+      "abbreviation": "SLC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "29",
+      "name": "Southern",
+      "abbreviation": "SOCON",
+      "classification": "fcs"
+    },
+    {
+      "id": "290",
+      "name": "Southland",
+      "abbreviation": "SLC",
+      "classification": "ii"
+    },
+    {
+      "id": "291",
+      "name": "SWAC",
+      "abbreviation": "SWAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "292",
+      "name": "SWAC",
+      "abbreviation": "SWAC",
+      "classification": "ii"
+    },
+    {
+      "id": "293",
+      "name": "MEAC",
+      "abbreviation": "MEAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "294",
+      "name": "MEAC",
+      "abbreviation": "MEAC",
+      "classification": "ii"
+    },
+    {
+      "id": "295",
+      "name": "Yankee",
+      "abbreviation": "YANKEE",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "296",
+      "name": "Yankee",
+      "abbreviation": "YANKEE",
+      "classification": "ii"
+    },
+    {
+      "id": "297",
+      "name": "Missouri Valley",
+      "abbreviation": "MVC",
+      "classification": "fcs"
+    },
+    {
+      "id": "298",
+      "name": "Gateway Collegiate Athletic",
+      "abbreviation": "GCAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "299",
+      "name": "Gateway Football",
+      "abbreviation": "GFC",
+      "classification": "fcs"
+    },
+    {
+      "id": "30",
+      "name": "Southland",
+      "abbreviation": "SLC",
+      "classification": "fcs"
+    },
+    {
+      "id": "300",
+      "name": "Colonial",
+      "abbreviation": "CL",
+      "classification": "fcs"
+    },
+    {
+      "id": "301",
+      "name": "Coastal Athletic",
+      "abbreviation": "CAA",
+      "classification": "fcs"
+    },
+    {
+      "id": "302",
+      "name": "American West",
+      "abbreviation": "AWC",
+      "classification": "ii"
+    },
+    {
+      "id": "303",
+      "name": "Atlantic Collegiate Football",
+      "abbreviation": "ACFC",
+      "classification": "iii"
+    },
+    {
+      "id": "304",
+      "name": "Big Five",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "305",
+      "name": "Border",
+      "abbreviation": "BIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "306",
+      "name": "CIAA",
+      "abbreviation": "CIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "307",
+      "name": "California Collegiate Athletic",
+      "abbreviation": "CCAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "308",
+      "name": "Carolinas",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "309",
+      "name": "College Division Independents",
+      "abbreviation": "IND-CD",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "31",
+      "name": "SWAC",
+      "abbreviation": "SWAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "310",
+      "name": "Eastern Collegiate Football (historical)",
+      "abbreviation": "ECFC",
+      "classification": "ii"
+    },
+    {
+      "id": "311",
+      "name": "Eastern Collegiate Football (historical)",
+      "abbreviation": "ECFC",
+      "classification": "iii"
+    },
+    {
+      "id": "312",
+      "name": "Eastern Football (1965–1974)",
+      "abbreviation": "EFC",
+      "classification": "ii"
+    },
+    {
+      "id": "313",
+      "name": "Eastern Football (1965–1974)",
+      "abbreviation": "EFC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "314",
+      "name": "Eastern Football (1997–2000)",
+      "abbreviation": "EFC",
+      "classification": "ii"
+    },
+    {
+      "id": "315",
+      "name": "Eastern Intercollegiate Athletic",
+      "abbreviation": "EIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "316",
+      "name": "Eastern Intercollegiate Football",
+      "abbreviation": "EIFA",
+      "classification": "fbs"
+    },
+    {
+      "id": "317",
+      "name": "Evergreen",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "318",
+      "name": "Far Western",
+      "abbreviation": "FWC",
+      "classification": "ii"
+    },
+    {
+      "id": "319",
+      "name": "Freedom Football",
+      "abbreviation": "FFC",
+      "classification": "iii"
+    },
+    {
+      "id": "32",
+      "name": "FCS Independents",
+      "abbreviation": "INDAA",
+      "classification": "fcs"
+    },
+    {
+      "id": "320",
+      "name": "Great Lakes Valley",
+      "abbreviation": "GLVC",
+      "classification": "ii"
+    },
+    {
+      "id": "321",
+      "name": "Great Plains Athletic",
+      "abbreviation": "GPAC",
+      "classification": "ii"
+    },
+    {
+      "id": "322",
+      "name": "Great Plains Athletic",
+      "abbreviation": "GPAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "323",
+      "name": "Gulf Coast",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "324",
+      "name": "Gulf Coast Athletic Association",
+      "abbreviation": "GCAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "325",
+      "name": "Gulf South",
+      "abbreviation": "GSC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "326",
+      "name": "Gulf States",
+      "abbreviation": "GSC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "327",
+      "name": "Heartland",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "328",
+      "name": "Indiana College Athletic League",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "329",
+      "name": "Indiana Collegiate",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "330",
+      "name": "Indiana Collegiate",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "331",
+      "name": "Iowa Intercollegiate Athletic",
+      "abbreviation": "IIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "332",
+      "name": "Liberty Football",
+      "abbreviation": "LFC",
+      "classification": "ii"
+    },
+    {
+      "id": "333",
+      "name": "Liberty Football",
+      "abbreviation": "LFC",
+      "classification": "iii"
+    },
+    {
+      "id": "334",
+      "name": "Maine Intercollegiate Athletic",
+      "abbreviation": "MIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "335",
+      "name": "Mason-Dixon",
+      "abbreviation": null,
+      "classification": "iii"
+    },
+    {
+      "id": "336",
+      "name": "Metropolitan Collegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "337",
+      "name": "Metropolitan Intercollegiate",
+      "abbreviation": "MIC",
+      "classification": "ii"
+    },
+    {
+      "id": "338",
+      "name": "Metropolitan Intercollegiate",
+      "abbreviation": "MIC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "339",
+      "name": "Metropolitan Intercollegiate",
+      "abbreviation": "MIC",
+      "classification": "iii"
+    },
+    {
+      "id": "340",
+      "name": "Mid America",
+      "abbreviation": "MIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "341",
+      "name": "Mid Atlantic",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "342",
+      "name": "Mid-American",
+      "abbreviation": "MAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "343",
+      "name": "Mid-South Athletic",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "344",
+      "name": "Middle Atlantic Athletic Association",
+      "abbreviation": "MAAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "345",
+      "name": "Middle Atlantic University",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "346",
+      "name": "Midwest Athletic",
+      "abbreviation": "MAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "347",
+      "name": "Midwest Intercollegiate Football",
+      "abbreviation": "MIFC",
+      "classification": "ii"
+    },
+    {
+      "id": "348",
+      "name": "New England",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "349",
+      "name": "North Central",
+      "abbreviation": "NCC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "350",
+      "name": "North State",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "351",
+      "name": "OVC-Big South",
+      "abbreviation": "OVCBS",
+      "classification": "fcs"
+    },
+    {
+      "id": "352",
+      "name": "Ohio",
+      "abbreviation": "OAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "353",
+      "name": "Oregon Collegiate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "354",
+      "name": "Pacific",
+      "abbreviation": "PCC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "355",
+      "name": "Rocky Mountain",
+      "abbreviation": "RMAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "356",
+      "name": "SIAC",
+      "abbreviation": "SIAC",
+      "classification": "fcs"
+    },
+    {
+      "id": "357",
+      "name": "SIAC",
+      "abbreviation": "SIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "358",
+      "name": "Smoky Mountain",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "359",
+      "name": "South Carolina Little Three",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "360",
+      "name": "South Central Athletic",
+      "abbreviation": "SCAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "361",
+      "name": "Southeastern Athletic",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "362",
+      "name": "Southern",
+      "abbreviation": "SOCON",
+      "classification": "ii"
+    },
+    {
+      "id": "363",
+      "name": "Southern",
+      "abbreviation": "SOCON",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "364",
+      "name": "Texas Conference",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "365",
+      "name": "Texas Intercollegiate Athletic",
+      "abbreviation": "TIAA",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "366",
+      "name": "Tri-State",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "367",
+      "name": "Triangular Football League",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "368",
+      "name": "Virginia Conference",
+      "abbreviation": null,
+      "classification": "fbs"
+    },
+    {
+      "id": "369",
+      "name": "Virginia Intercollegiate Athletic",
+      "abbreviation": "VIAA",
+      "classification": "fbs"
+    },
+    {
+      "id": "37",
+      "name": "Sun Belt",
+      "abbreviation": "SBC",
+      "classification": "fbs"
+    },
+    {
+      "id": "370",
+      "name": "Volunteer State Athletic",
+      "abbreviation": "VSAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "371",
+      "name": "West Virginia Intercollegiate Athletic",
+      "abbreviation": "WVIAC",
+      "classification": "ii/iii"
+    },
+    {
+      "id": "372",
+      "name": "Western Football",
+      "abbreviation": null,
+      "classification": "ii"
+    },
+    {
+      "id": "373",
+      "name": "Western Interstate",
+      "abbreviation": null,
+      "classification": "ii/iii"
+    },
+    {
+      "id": "4",
       "name": "Big 12",
       "abbreviation": "B12",
       "classification": "fbs"
     },
     {
-      "id": "2",
+      "id": "40",
+      "name": "Big South",
+      "abbreviation": "BSOUTH",
+      "classification": "fcs"
+    },
+    {
+      "id": "43",
+      "name": "Great West",
+      "abbreviation": "GWEST",
+      "classification": "fcs"
+    },
+    {
+      "id": "48",
+      "name": "CAA",
+      "abbreviation": "CAA",
+      "classification": "fcs"
+    },
+    {
+      "id": "5",
       "name": "Big Ten",
       "abbreviation": "B1G",
       "classification": "fbs"
     },
     {
-      "id": "3",
+      "id": "8",
       "name": "SEC",
       "abbreviation": "SEC",
+      "classification": "fbs"
+    },
+    {
+      "id": "9",
+      "name": "Pac-12",
+      "abbreviation": "PAC",
       "classification": "fbs"
     }
   ]

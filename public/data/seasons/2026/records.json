@@ -1,70 +1,1678 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "generatedAt": "2026-11-02T02:00:22.781Z",
   "season": 2026,
   "sources": [
-    "fixture"
+    "cfbd"
   ],
-  "mode": "fixture",
+  "mode": "production",
   "status": "available",
-  "notes": [
-    "Synthetic demonstration data. Not actual scores, records, or rankings."
-  ],
+  "notes": [],
   "data": [
     {
-      "teamId": "194",
-      "games": 1,
-      "wins": 0,
+      "teamId": "103",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "107",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "113",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "119",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "12",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "120",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "127",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "13",
+      "games": 10,
+      "wins": 4,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "130",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "135",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "142",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "145",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "147",
+      "games": 9,
+      "wins": 8,
       "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "149",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "150",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "151",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "152",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "153",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "154",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "155",
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "158",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "16",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "160",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "164",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "166",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "167",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "183",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "189",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "193",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "194",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "195",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "197",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2000",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2005",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2006",
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "201",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2011",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2016",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "202",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2026",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2029",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2032",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "204",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2046",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2050",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2065",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2083",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "2084",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2097",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "21",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2110",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2115",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2116",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2117",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2127",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
       "ties": 0
     },
     {
       "teamId": "213",
-      "games": 1,
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2132",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2142",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2169",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "218",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2184",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2193",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2197",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2198",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2199",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "221",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2210",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "222",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2226",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2229",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2230",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2241",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2247",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2261",
+      "games": 9,
       "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "227",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2277",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "228",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2287",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2294",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "23",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2305",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2306",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2309",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "231",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2320",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "233",
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2335",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "2341",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2348",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "235",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "236",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2377",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "238",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2382",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2385",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "239",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2390",
+      "games": 8,
+      "wins": 8,
       "losses": 0,
+      "ties": 0
+    },
+    {
+      "teamId": "2393",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "24",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2400",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2405",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2415",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "242",
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2426",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2428",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2429",
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2433",
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2439",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2440",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2447",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2448",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2449",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "245",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2450",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2453",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2458",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2459",
+      "games": 8,
+      "wins": 0,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "2460",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2464",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2466",
+      "games": 9,
+      "wins": 0,
+      "losses": 9,
+      "ties": 0
+    },
+    {
+      "teamId": "248",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
       "ties": 0
     },
     {
       "teamId": "2483",
-      "games": 1,
-      "wins": 1,
-      "losses": 0,
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "249",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "25",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2502",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2504",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2509",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
       "ties": 0
     },
     {
       "teamId": "251",
-      "games": 1,
-      "wins": 0,
-      "losses": 1,
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
       "ties": 0
     },
     {
       "teamId": "252",
-      "games": 1,
-      "wins": 0,
+      "games": 8,
+      "wins": 7,
       "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "2523",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2529",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "253",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2534",
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2535",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
       "ties": 0
     },
     {
       "teamId": "254",
-      "games": 1,
-      "wins": 1,
+      "games": 8,
+      "wins": 8,
       "losses": 0,
       "ties": 0
     },
     {
-      "teamId": "333",
-      "games": 1,
-      "wins": 0,
+      "teamId": "2545",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2546",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "256",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2567",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "257",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2571",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2572",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2579",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "258",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2582",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "259",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "26",
+      "games": 8,
+      "wins": 8,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "teamId": "2619",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2623",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2627",
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "teamId": "2628",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2630",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2633",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2634",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2635",
+      "games": 9,
+      "wins": 8,
       "losses": 1,
       "ties": 0
     },
     {
-      "teamId": "61",
-      "games": 1,
+      "teamId": "2636",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "2638",
+      "games": 8,
       "wins": 1,
-      "losses": 0,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "264",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2640",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2641",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "2643",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2649",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "265",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "2653",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2655",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2678",
+      "games": 9,
+      "wins": 0,
+      "losses": 9,
+      "ties": 0
+    },
+    {
+      "teamId": "2681",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "2692",
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2698",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "2710",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2711",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2717",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "2729",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "2747",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "275",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2751",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2754",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "2755",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "276",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "277",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2771",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "278",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "2803",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2815",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "282",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "2837",
+      "games": 9,
+      "wins": 3,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "284",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "290",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "2916",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "292",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "295",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "30",
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "302",
+      "games": 9,
+      "wins": 5,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "304",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "309",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "3101",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "311",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "322",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "324",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "326",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "328",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "331",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "333",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "338",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "344",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "349",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "356",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "36",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "38",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "399",
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "41",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "47",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "48",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "5",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "50",
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    {
+      "teamId": "52",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "55",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "57",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "58",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "59",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "6",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "61",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "62",
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    {
+      "teamId": "66",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "68",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "70",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "77",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
+      "ties": 0
+    },
+    {
+      "teamId": "79",
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "8",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "84",
+      "games": 9,
+      "wins": 8,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "87",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "9",
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    {
+      "teamId": "93",
+      "games": 9,
+      "wins": 1,
+      "losses": 8,
+      "ties": 0
+    },
+    {
+      "teamId": "96",
+      "games": 8,
+      "wins": 7,
+      "losses": 1,
+      "ties": 0
+    },
+    {
+      "teamId": "97",
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    {
+      "teamId": "98",
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    {
+      "teamId": "99",
+      "games": 8,
+      "wins": 6,
+      "losses": 2,
       "ties": 0
     }
   ]
