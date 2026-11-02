@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T12:00:00.000Z",
+  "season": 2026,
+  "sources": [
+    "fixture"
+  ],
+  "mode": "fixture",
+  "status": "available",
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "AP Top 25 only. Performance score = 40% win percentage + 30% completed schedule opponent win percentage + 30% point-differential percentile. Gap = performance score minus rank percentile. Exploratory context, not a claim of deserving rank."
+  ],
+  "data": [
+    {
+      "teamId": "2483",
+      "teamName": "Oregon",
+      "rank": 1,
+      "rankPercentile": 100,
+      "winPercentage": 1,
+      "scheduleStrength": null,
+      "pointDifferential": 10,
+      "pointDifferentialPercentile": 85.71,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "61",
+      "teamName": "Georgia",
+      "rank": 2,
+      "rankPercentile": 96,
+      "winPercentage": 1,
+      "scheduleStrength": null,
+      "pointDifferential": 4,
+      "pointDifferentialPercentile": 71.43,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "194",
+      "teamName": "Ohio State",
+      "rank": 3,
+      "rankPercentile": 92,
+      "winPercentage": 0,
+      "scheduleStrength": null,
+      "pointDifferential": -10,
+      "pointDifferentialPercentile": 14.29,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "213",
+      "teamName": "Penn State",
+      "rank": 4,
+      "rankPercentile": 88,
+      "winPercentage": 1,
+      "scheduleStrength": null,
+      "pointDifferential": 11,
+      "pointDifferentialPercentile": 100,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "251",
+      "teamName": "Texas",
+      "rank": 5,
+      "rankPercentile": 84,
+      "winPercentage": 0,
+      "scheduleStrength": null,
+      "pointDifferential": -4,
+      "pointDifferentialPercentile": 28.57,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "254",
+      "teamName": "Utah",
+      "rank": 6,
+      "rankPercentile": 80,
+      "winPercentage": 1,
+      "scheduleStrength": null,
+      "pointDifferential": 3,
+      "pointDifferentialPercentile": 57.14,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "333",
+      "teamName": "Alabama",
+      "rank": 7,
+      "rankPercentile": 76,
+      "winPercentage": 0,
+      "scheduleStrength": null,
+      "pointDifferential": -11,
+      "pointDifferentialPercentile": 0,
+      "performanceScore": null,
+      "gap": null
+    },
+    {
+      "teamId": "252",
+      "teamName": "BYU",
+      "rank": 8,
+      "rankPercentile": 72,
+      "winPercentage": 0,
+      "scheduleStrength": null,
+      "pointDifferential": -3,
+      "pointDifferentialPercentile": 42.86,
+      "performanceScore": null,
+      "gap": null
+    }
+  ]
+}

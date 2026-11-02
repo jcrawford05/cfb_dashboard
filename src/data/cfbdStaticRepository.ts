@@ -14,12 +14,18 @@ export async function readDocument<T>(path: string, schema: z.ZodType<T>, signal
 export async function loadSnapshot(signal?: AbortSignal) {
   const metadata = await readDocument('metadata.json', metadataSchema, signal);
   const prefix = `seasons/${metadata.season}/`;
-  const [teams, games, records, rankings, stats, leaders] = await Promise.all([
+  const [teams, games, records, rankings, stats, leaders, teamForm, scheduleStrength, upsets, rankingResults, weeklyRecap, playoffPicture] = await Promise.all([
     readDocument('teams.json', schemas.teams, signal), readDocument(prefix + 'games.json', schemas.games, signal),
     readDocument(prefix + 'records.json', schemas.records, signal), readDocument(prefix + 'rankings-by-week.json', schemas['rankings-by-week'], signal),
     readDocument(prefix + 'team-stats.json', schemas['team-stats'], signal), readDocument(prefix + 'player-leaders.json', schemas['player-leaders'], signal),
+    readDocument(prefix + 'derived/team-form.json', schemas['team-form'], signal),
+    readDocument(prefix + 'derived/schedule-strength.json', schemas['schedule-strength'], signal),
+    readDocument(prefix + 'derived/upset-tracker.json', schemas['upset-tracker'], signal),
+    readDocument(prefix + 'derived/ranking-vs-results.json', schemas['ranking-vs-results'], signal),
+    readDocument(prefix + 'derived/weekly-recap.json', schemas['weekly-recap'], signal),
+    readDocument(prefix + 'derived/playoff-picture.json', schemas['playoff-picture'], signal),
   ]);
-  for (const doc of [teams, games, records, rankings, stats, leaders]) if (doc.season !== metadata.season || doc.generatedAt !== metadata.generatedAt || doc.mode !== metadata.mode) throw new Error('A new snapshot is publishing. Please retry in a moment.');
-  return { metadata, teams: teams.data, games: games.data, records: records.data, rankings: rankings.data, stats: stats.data, leaders: leaders.data };
+  for (const doc of [teams, games, records, rankings, stats, leaders, teamForm, scheduleStrength, upsets, rankingResults, weeklyRecap, playoffPicture]) if (doc.season !== metadata.season || doc.generatedAt !== metadata.generatedAt || doc.mode !== metadata.mode) throw new Error('A new snapshot is publishing. Please retry in a moment.');
+  return { metadata, teams: teams.data, games: games.data, records: records.data, rankings: rankings.data, stats: stats.data, leaders: leaders.data, teamForm:teamForm.data, scheduleStrength:scheduleStrength.data, upsets:upsets.data, rankingResults:rankingResults.data, weeklyRecap:weeklyRecap.data, playoffPicture:playoffPicture.data, playoffNotes:playoffPicture.notes, derivedGeneratedAt:metadata.generatedAt };
 }
 export type Snapshot = Awaited<ReturnType<typeof loadSnapshot>>;

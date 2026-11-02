@@ -1,4 +1,4 @@
-export type { Team, Game, PollSnapshot, RankingEntry, DataMetadata } from './schemas';
+export type { Team, Game, PollSnapshot, RankingEntry, DataMetadata, DerivedTeamForm, DerivedScheduleStrength, DerivedUpset, DerivedRankingResults, DerivedWeeklyRecap, DerivedPlayoffTeam } from './schemas';
 import type { Game, Team } from './schemas';
 // Future-phase contracts. They do not imply implemented metrics or live data.
 export interface LiveGame { game: Game; providerEventId: string; clock: string | null; period: number | null; possessionTeamId: string | null; yardsToGoal: number | null }

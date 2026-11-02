@@ -1,14 +1,72 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-01T04:35:02.671Z",
+  "generatedAt": "2026-10-31T12:00:00.000Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
-  "status": "not-implemented",
+  "mode": "fixture",
+  "status": "available",
   "notes": [
-    "Planned for Phase 3; no analytics have been calculated."
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Completed upsets use the latest available AP poll published before the game week; missing prior ranks stay missing. Watch entries are scheduled rank mismatches, not live-game alerts or odds."
   ],
-  "data": []
+  "data": [
+    {
+      "gameId": "cfbd-900005",
+      "week": 9,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "252",
+      "rankedTeamId": "254",
+      "winnerPregameRank": null,
+      "loserPregameRank": 6,
+      "rankGap": 2,
+      "trigger": "lower-ranked-over-higher-ranked"
+    },
+    {
+      "gameId": "cfbd-900006",
+      "week": 9,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "194",
+      "rankedTeamId": "2483",
+      "winnerPregameRank": null,
+      "loserPregameRank": 1,
+      "rankGap": 2,
+      "trigger": "lower-ranked-over-higher-ranked"
+    },
+    {
+      "gameId": "cfbd-900007",
+      "week": 9,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "251",
+      "rankedTeamId": "61",
+      "winnerPregameRank": null,
+      "loserPregameRank": 2,
+      "rankGap": 3,
+      "trigger": "lower-ranked-over-higher-ranked"
+    },
+    {
+      "gameId": "cfbd-900008",
+      "week": 9,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "333",
+      "rankedTeamId": "213",
+      "winnerPregameRank": null,
+      "loserPregameRank": 4,
+      "rankGap": 3,
+      "trigger": "lower-ranked-over-higher-ranked"
+    }
+  ]
 }

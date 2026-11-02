@@ -1,6 +1,6 @@
 # Saturday Standard — NCAA Football Dashboard
 
-A static college-football dashboard implementing **Phase 0 (foundation)** and **Phase 1 (data pipeline)** of the supplied development guide. Vite + React + TypeScript; no server, account system, or paid service is required. The included data is synthetic and prominently labeled throughout the app.
+A static college-football dashboard implementing **Phases 0–3** of the supplied development guide. Vite + React + TypeScript; no server, account system, or paid service is required. The included data is synthetic and prominently labeled throughout the app.
 
 ## Start locally
 
@@ -49,10 +49,10 @@ Production refresh is intentionally restricted to the trusted default-branch Git
 | --- | --- |
 | 0 | Responsive dark design tokens; navigation; all ten planned route patterns; hash-based Pages deep links; error boundary; loading, empty and error states; accessible labels and focus styling; complete synthetic fixtures; executable Zod schemas and metadata convention; Pages deployment workflow. |
 | 1 | Seven broad CFBD requests; bounded retries and request-count logging; input and output validation; minimal public JSON; cross-file checks; content fingerprint; unchanged-output detection; staging and rollback; last-good-snapshot protection; default-branch-only refresh workflow; static repository/facade; fixture-driven tests. |
+| 2 | Browser-only favorites; personalized home and scoreboard filters; team profile tabs and color themes; poll movement and ranking history chart with data table; matchup explorer for scheduled games, records, stats, prior results, and common opponents. All pages continue to use the generated static snapshot. |
+| 3 | Snapshot-generated team form, completed/remaining schedule strength, rule-based upset tracker, ranking-versus-results comparison, weekly recap, and descriptive playoff context. Formulas, timestamps, source limitations, validation, and missing-data states are surfaced in the UI and JSON envelopes. |
 
-The starter already demonstrates basic scoreboard filtering, team search, poll selection, team schedules, and two-team summaries. These establish working route states and prove the generated data is being consumed. They do **not** constitute the full Phase 2 feature set.
-
-**Later phases:** Favorites, ranking-history charts, richer team themes and comparisons (Phase 2); derived analytics (Phase 3); ESPN live polling, drives, field position and win probability (Phase 4); comprehensive browser/accessibility/performance testing (Phase 5). Deferred JSON files contain empty arrays with `status: "not-implemented"`.
+**Later phases:** ESPN live polling, drives, field position and win probability (Phase 4); comprehensive browser/accessibility/performance testing (Phase 5).
 
 ## Data safeguards
 
@@ -74,9 +74,9 @@ GitHub schedules are best-effort; they do not provide live scores. ESPN is only 
 ## Project map
 
 - `src/app/` — app shell and small hash router.
-- `src/pages/` — usable Phase 0 route screens consuming the saved snapshot.
+- `src/pages/` — dashboard, team, ranking, and matchup views consuming the saved snapshot.
 - `src/data/` — provider-neutral types, Zod schemas, static repository and facade.
-- `src/components/`, `src/hooks/`, `src/styles/` — shared UI and data loading.
+- `src/components/`, `src/hooks/`, `src/styles/` — shared UI, browser-only favorites, and data loading.
 - `scripts/refresh-data/` — all CFBD credential handling, transformations, validation, publication and tests.
 - `public/data/` — 14 validated public JSON documents, initially synthetic.
 - `.github/workflows/` — PR checks, secure refresh, reusable Pages deployment.
