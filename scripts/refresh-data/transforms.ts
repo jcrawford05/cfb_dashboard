@@ -1,6 +1,7 @@
 import { createHash } from 'node:crypto';
 import type { RawBundle } from './sourceSchemas';
-import type { Team, PollSnapshot } from '../../src/data/types';
+import type { Team, PollSnapshot, Game } from '../../src/data/types';
+import { calculateDerivedMetrics } from '../../src/lib/derivedMetrics';
 export type PublicFiles = Record<string, any>;
 export function contentHash(files: PublicFiles) {
   return createHash('sha256').update(JSON.stringify(Object.entries(files).filter(([path]) => path !== 'metadata.json').sort(([a],[b]) => a.localeCompare(b)).map(([path, doc]) => [path, { ...doc, generatedAt: undefined }]))).digest('hex');
@@ -30,7 +31,7 @@ export function transform(raw: RawBundle, year: number, mode: 'fixture' | 'produ
   }
   teams.sort((a, b) => a.id.localeCompare(b.id));
   const byName = new Map(teams.map(t => [t.name, t.id]));
-  const games = raw.games.map(g => ({ id: `cfbd-${g.id}`, season: year, week: g.week, seasonType: g.seasonType,
+  const games: Game[] = raw.games.map((g): Game => ({ id: `cfbd-${g.id}`, season: year, week: g.week, seasonType: g.seasonType,
     startDate: g.startDate, startTimeTBD: g.startTimeTBD ?? true, homeId: String(g.homeId), awayId: String(g.awayId),
     homeName: g.homeTeam, awayName: g.awayTeam, homeScore: g.homePoints, awayScore: g.awayPoints,
     status: g.completed ? 'final' : 'scheduled', venue: g.venue ?? null, neutralSite: g.neutralSite ?? false,
@@ -54,6 +55,7 @@ export function transform(raw: RawBundle, year: number, mode: 'fixture' | 'produ
   const notes = mode === 'fixture' ? ['Synthetic demonstration data. Not actual scores, records, or rankings.'] : [];
   const envelope = (data: unknown[], extra: string[] = [], status?: string) => ({ schemaVersion: 1, generatedAt, season: year, sources: [mode === 'fixture' ? 'fixture' : 'cfbd'], mode, status: status ?? (data.length ? 'available' : 'empty'), notes: [...notes, ...extra], data });
   const prefix = `seasons/${year}`;
+  const derived = calculateDerivedMetrics(teams, games, records, polls);
   const files: PublicFiles = {
     'teams.json': envelope(teams),
     'conferences.json': envelope(raw.conferences.map(c => ({ id: String(c.id), name: c.name, abbreviation: c.abbreviation ?? null, classification: c.classification ?? null })).sort((a,b) => a.id.localeCompare(b.id))),
@@ -62,7 +64,13 @@ export function transform(raw: RawBundle, year: number, mode: 'fixture' | 'produ
     [`${prefix}/rankings.json`]: envelope([...latest.values()].sort((a,b) => a.poll.localeCompare(b.poll))),
     [`${prefix}/rankings-by-week.json`]: envelope(polls),
   };
-  for (const name of ['team-form', 'schedule-strength', 'upset-tracker', 'weekly-recap', 'playoff-picture']) files[`${prefix}/derived/${name}.json`] = envelope([], ['Planned for Phase 3; no analytics have been calculated.'], 'not-implemented');
+  const metricNotes = ['Calculated from the published season snapshot. Metrics are descriptive, formula-versioned, and not predictions.'];
+  files[`${prefix}/derived/team-form.json`] = envelope(derived.forms, ['Last five completed games, newest first; averages use only available results.'], derived.forms.length ? 'available' : 'empty');
+  files[`${prefix}/derived/schedule-strength.json`] = envelope(derived.strength, [...metricNotes, 'Opponent quality is opponent current win percentage after removing its result against this team where available. Completed and remaining schedules are averaged separately. Formula: opponent-win-pct-v1.'], derived.strength.length ? 'available' : 'empty');
+  files[`${prefix}/derived/upset-tracker.json`] = envelope(derived.upsets, ['Completed upsets use the latest available AP poll published before the game week; missing prior ranks stay missing. Watch entries are scheduled rank mismatches, not live-game alerts or odds.'], derived.upsets.length ? 'available' : 'empty');
+  files[`${prefix}/derived/ranking-vs-results.json`] = envelope(derived.rankingResults, ['AP Top 25 only. Performance score = 40% win percentage + 30% completed schedule opponent win percentage + 30% point-differential percentile. Gap = performance score minus rank percentile. Exploratory context, not a claim of deserving rank.'], derived.rankingResults.length ? 'available' : 'empty');
+  files[`${prefix}/derived/weekly-recap.json`] = envelope(derived.weekly, ['Cards summarize the saved completed results; ranking movement appears when a later poll snapshot is available.'], derived.weekly.length ? 'available' : 'empty');
+  files[`${prefix}/derived/playoff-picture.json`] = envelope(derived.playoff, derived.playoffNotes, derived.playoff.length ? 'available' : 'empty');
   const hash = contentHash(files);
   files['metadata.json'] = { ...envelope([]), status: 'available', data: { availableSeasons: [year], coverage: 'FBS', requestCount, contentHash: hash, files: Object.keys(files).sort() } };
   return files;

@@ -1,0 +1,3 @@
+export function FavoriteButton({ teamName, favorite, onToggle, compact = false }: { teamName: string; favorite: boolean; onToggle: () => void; compact?: boolean }) {
+  return <button type="button" className={compact ? 'favorite-button compact' : 'favorite-button'} aria-pressed={favorite} aria-label={`${favorite ? 'Remove' : 'Add'} ${teamName} ${favorite ? 'from' : 'to'} favorites`} title={`${favorite ? 'Remove from' : 'Add to'} favorites`} onClick={event => { event.preventDefault(); event.stopPropagation(); onToggle(); }}><span aria-hidden="true">{favorite ? '★' : '☆'}</span>{compact ? <span className="sr-only">{favorite ? 'Favorited' : 'Add favorite'}</span> : <span>{favorite ? 'Favorited' : 'Add to favorites'}</span>}</button>;
+}

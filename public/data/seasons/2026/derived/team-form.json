@@ -3,12 +3,150 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
-  "status": "not-implemented",
+  "mode": "fixture",
+  "status": "available",
   "notes": [
-    "Planned for Phase 3; no analytics have been calculated."
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Last five completed games, newest first; averages use only available results."
   ],
-  "data": []
+  "data": [
+    {
+      "teamId": "194",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900002",
+          "opponentId": "2483",
+          "outcome": "L",
+          "pointsFor": 21,
+          "pointsAgainst": 31
+        }
+      ],
+      "averageMargin": -10,
+      "averagePointsFor": 21,
+      "averagePointsAgainst": 31,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "213",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900004",
+          "opponentId": "333",
+          "outcome": "W",
+          "pointsFor": 28,
+          "pointsAgainst": 17
+        }
+      ],
+      "averageMargin": 11,
+      "averagePointsFor": 28,
+      "averagePointsAgainst": 17,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "2483",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900002",
+          "opponentId": "194",
+          "outcome": "W",
+          "pointsFor": 31,
+          "pointsAgainst": 21
+        }
+      ],
+      "averageMargin": 10,
+      "averagePointsFor": 31,
+      "averagePointsAgainst": 21,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "251",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900003",
+          "opponentId": "61",
+          "outcome": "L",
+          "pointsFor": 20,
+          "pointsAgainst": 24
+        }
+      ],
+      "averageMargin": -4,
+      "averagePointsFor": 20,
+      "averagePointsAgainst": 24,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "252",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900001",
+          "opponentId": "254",
+          "outcome": "L",
+          "pointsFor": 24,
+          "pointsAgainst": 27
+        }
+      ],
+      "averageMargin": -3,
+      "averagePointsFor": 24,
+      "averagePointsAgainst": 27,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "254",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900001",
+          "opponentId": "252",
+          "outcome": "W",
+          "pointsFor": 27,
+          "pointsAgainst": 24
+        }
+      ],
+      "averageMargin": 3,
+      "averagePointsFor": 27,
+      "averagePointsAgainst": 24,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "333",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900004",
+          "opponentId": "213",
+          "outcome": "L",
+          "pointsFor": 17,
+          "pointsAgainst": 28
+        }
+      ],
+      "averageMargin": -11,
+      "averagePointsFor": 17,
+      "averagePointsAgainst": 28,
+      "opponentWinPercentage": null
+    },
+    {
+      "teamId": "61",
+      "sampleSize": 1,
+      "results": [
+        {
+          "gameId": "cfbd-900003",
+          "opponentId": "251",
+          "outcome": "W",
+          "pointsFor": 24,
+          "pointsAgainst": 20
+        }
+      ],
+      "averageMargin": 4,
+      "averagePointsFor": 24,
+      "averagePointsAgainst": 20,
+      "opponentWinPercentage": null
+    }
+  ]
 }

@@ -3,12 +3,48 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
-  "status": "not-implemented",
+  "mode": "fixture",
+  "status": "available",
   "notes": [
-    "Planned for Phase 3; no analytics have been calculated."
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Cards summarize the saved completed results; ranking movement appears when a later poll snapshot is available."
   ],
-  "data": []
+  "data": [
+    {
+      "week": 8,
+      "cards": [
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-900001",
+          "teamId": null,
+          "description": "BYU at Utah finished with a 3-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-900002",
+          "teamId": null,
+          "description": "Oregon and Ohio State combined for 52 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-900004",
+          "teamId": null,
+          "description": "Penn State won by 11 points."
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "cards": [
+        {
+          "category": "ranking-mover",
+          "gameId": null,
+          "teamId": "2483",
+          "description": "Oregon moved up 2 places in the AP Top 25."
+        }
+      ]
+    }
+  ]
 }

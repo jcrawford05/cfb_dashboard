@@ -3,12 +3,79 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
-  "status": "not-implemented",
+  "mode": "fixture",
+  "status": "available",
   "notes": [
-    "Planned for Phase 3; no analytics have been calculated."
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Calculated from the published season snapshot. Metrics are descriptive, formula-versioned, and not predictions.",
+    "Opponent quality is opponent current win percentage after removing its result against this team where available. Completed and remaining schedules are averaged separately. Formula: opponent-win-pct-v1."
   ],
-  "data": []
+  "data": [
+    {
+      "teamId": "194",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "213",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "2483",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "251",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "252",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "254",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "333",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    },
+    {
+      "teamId": "61",
+      "completedScore": null,
+      "remainingScore": null,
+      "completedSample": 1,
+      "remainingSample": 1,
+      "formulaVersion": "opponent-win-pct-v1"
+    }
+  ]
 }

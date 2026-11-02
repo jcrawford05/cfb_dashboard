@@ -18,10 +18,11 @@ async function temp(fn: (target: string) => Promise<void>) {
   const root = await mkdtemp(join(tmpdir(), 'cfb-test-'));
   try { await fn(join(root,'data')); } finally { await rm(root, { recursive: true, force: true }); }
 }
-test('complete fixture snapshot validates and deferred analytics are explicit', () => {
-  const files = generate(); validateFiles(files); assert.equal(Object.keys(files).length,14);
-  assert.equal(files['seasons/2026/derived/team-form.json'].status, 'not-implemented');
-  assert.deepEqual(files['seasons/2026/derived/team-form.json'].data, []);
+test('complete fixture snapshot validates and derived analytics are generated', () => {
+  const files = generate(); validateFiles(files); assert.equal(Object.keys(files).length,15);
+  assert.equal(files['seasons/2026/derived/team-form.json'].status, 'available');
+  assert.equal(files['seasons/2026/derived/team-form.json'].data.length, 8);
+  assert.equal(files['seasons/2026/derived/ranking-vs-results.json'].status, 'available');
 });
 test('two identical refreshes preserve every byte and timestamp', async () => temp(async target => {
   assert.equal(await publishSnapshot(generate(),target),true);

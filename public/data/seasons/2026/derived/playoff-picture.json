@@ -3,12 +3,111 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
-  "status": "not-implemented",
+  "mode": "fixture",
+  "status": "available",
   "notes": [
-    "Planned for Phase 3; no analytics have been calculated."
+    "Synthetic demonstration data. Not actual scores, records, or rankings.",
+    "Source poll: AP Top 25, week 9 (regular).",
+    "No CFP committee snapshot is available. AP Top 25 is shown as descriptive context, not a playoff selection or prediction."
   ],
-  "data": []
+  "data": [
+    {
+      "teamId": "2483",
+      "rank": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "conference": "Big Ten",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "W"
+    },
+    {
+      "teamId": "61",
+      "rank": 2,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "conference": "SEC",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "W"
+    },
+    {
+      "teamId": "194",
+      "rank": 3,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "conference": "Big Ten",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "L"
+    },
+    {
+      "teamId": "213",
+      "rank": 4,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "conference": "Big Ten",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "W"
+    },
+    {
+      "teamId": "251",
+      "rank": 5,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "conference": "SEC",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "L"
+    },
+    {
+      "teamId": "254",
+      "rank": 6,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "conference": "Big 12",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "W"
+    },
+    {
+      "teamId": "333",
+      "rank": 7,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "conference": "SEC",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "L"
+    },
+    {
+      "teamId": "252",
+      "rank": 8,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "conference": "Big 12",
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": null,
+      "recentForm": "L"
+    }
+  ]
 }

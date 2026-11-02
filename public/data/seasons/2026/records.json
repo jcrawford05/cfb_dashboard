@@ -3,9 +3,9 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
+  "mode": "fixture",
   "status": "available",
   "notes": [],
   "data": [
@@ -1102,78 +1102,29 @@
       "ties": 0
     },
     {
-      "teamId": "2636",
-      "games": 8,
-      "wins": 7,
+      "teamId": "194",
+      "games": 1,
+      "wins": 0,
       "losses": 1,
       "ties": 0
     },
     {
-      "teamId": "2638",
-      "games": 8,
+      "teamId": "213",
+      "games": 1,
       "wins": 1,
-      "losses": 7,
+      "losses": 0,
       "ties": 0
     },
     {
-      "teamId": "264",
-      "games": 8,
-      "wins": 5,
-      "losses": 3,
-      "ties": 0
-    },
-    {
-      "teamId": "2640",
-      "games": 8,
-      "wins": 3,
-      "losses": 5,
-      "ties": 0
-    },
-    {
-      "teamId": "2641",
-      "games": 8,
-      "wins": 7,
-      "losses": 1,
-      "ties": 0
-    },
-    {
-      "teamId": "2643",
-      "games": 9,
-      "wins": 2,
-      "losses": 7,
-      "ties": 0
-    },
-    {
-      "teamId": "2649",
-      "games": 8,
-      "wins": 6,
-      "losses": 2,
-      "ties": 0
-    },
-    {
-      "teamId": "265",
-      "games": 9,
+      "teamId": "2483",
+      "games": 1,
       "wins": 1,
-      "losses": 8,
+      "losses": 0,
       "ties": 0
     },
     {
-      "teamId": "2653",
-      "games": 8,
-      "wins": 4,
-      "losses": 4,
-      "ties": 0
-    },
-    {
-      "teamId": "2655",
-      "games": 8,
-      "wins": 4,
-      "losses": 4,
-      "ties": 0
-    },
-    {
-      "teamId": "2678",
-      "games": 9,
+      "teamId": "251",
+      "games": 1,
       "wins": 0,
       "losses": 9,
       "ties": 0
@@ -1627,52 +1578,31 @@
       "ties": 0
     },
     {
-      "teamId": "87",
-      "games": 8,
-      "wins": 7,
+      "teamId": "252",
+      "games": 1,
+      "wins": 0,
       "losses": 1,
       "ties": 0
     },
     {
-      "teamId": "9",
-      "games": 8,
-      "wins": 4,
-      "losses": 4,
-      "ties": 0
-    },
-    {
-      "teamId": "93",
-      "games": 9,
+      "teamId": "254",
+      "games": 1,
       "wins": 1,
-      "losses": 8,
+      "losses": 0,
       "ties": 0
     },
     {
-      "teamId": "96",
-      "games": 8,
-      "wins": 7,
+      "teamId": "333",
+      "games": 1,
+      "wins": 0,
       "losses": 1,
       "ties": 0
     },
     {
-      "teamId": "97",
-      "games": 8,
-      "wins": 5,
-      "losses": 3,
-      "ties": 0
-    },
-    {
-      "teamId": "98",
-      "games": 8,
-      "wins": 3,
-      "losses": 5,
-      "ties": 0
-    },
-    {
-      "teamId": "99",
-      "games": 8,
-      "wins": 6,
-      "losses": 2,
+      "teamId": "61",
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
       "ties": 0
     }
   ]

@@ -3,11 +3,13 @@
   "generatedAt": "2026-11-01T15:15:00.525Z",
   "season": 2026,
   "sources": [
-    "cfbd"
+    "fixture"
   ],
-  "mode": "production",
+  "mode": "fixture",
   "status": "available",
-  "notes": [],
+  "notes": [
+    "Synthetic demonstration data. Not actual scores, records, or rankings."
+  ],
   "data": {
     "availableSeasons": [
       2026
@@ -18,6 +20,7 @@
     "files": [
       "conferences.json",
       "seasons/2026/derived/playoff-picture.json",
+      "seasons/2026/derived/ranking-vs-results.json",
       "seasons/2026/derived/schedule-strength.json",
       "seasons/2026/derived/team-form.json",
       "seasons/2026/derived/upset-tracker.json",

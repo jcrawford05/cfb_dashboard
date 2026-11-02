@@ -9,7 +9,7 @@ import { parseSources } from '../../../scripts/refresh-data/sourceSchemas';
 import fixture from '../../../scripts/refresh-data/fixtures/source.json';
 import type { Snapshot } from '../../data/cfbdStaticRepository';
 const files=transform(parseSources(fixture),2026,'fixture','2026-10-31T12:00:00.000Z',0);
-const data:Snapshot={metadata:files['metadata.json'],teams:files['teams.json'].data,games:files['seasons/2026/games.json'].data,records:files['seasons/2026/records.json'].data,rankings:files['seasons/2026/rankings-by-week.json'].data,stats:files['seasons/2026/team-stats.json'].data,leaders:files['seasons/2026/player-leaders.json'].data};
+const data:Snapshot={metadata:files['metadata.json'],teams:files['teams.json'].data,games:files['seasons/2026/games.json'].data,records:files['seasons/2026/records.json'].data,rankings:files['seasons/2026/rankings-by-week.json'].data,stats:files['seasons/2026/team-stats.json'].data,leaders:files['seasons/2026/player-leaders.json'].data,teamForm:files['seasons/2026/derived/team-form.json'].data,scheduleStrength:files['seasons/2026/derived/schedule-strength.json'].data,upsets:files['seasons/2026/derived/upset-tracker.json'].data,rankingResults:files['seasons/2026/derived/ranking-vs-results.json'].data,weeklyRecap:files['seasons/2026/derived/weekly-recap.json'].data,playoffPicture:files['seasons/2026/derived/playoff-picture.json'].data,playoffNotes:files['seasons/2026/derived/playoff-picture.json'].notes,derivedGeneratedAt:files['metadata.json'].generatedAt};
 const routes=[
   ['Home',<Home data={data}/>],['Scores',<Scores data={data}/>],['Rankings',<Rankings data={data}/>],['Teams',<Teams data={data}/>],
   ['Team',<TeamPage data={data} slug={data.teams[0].slug}/>],['Matchups',<Matchups data={data}/>],
@@ -25,7 +25,7 @@ test('unknown team and game produce recovery links',()=>{
   }
 });
 test('empty cached season keeps core browsing routes usable',()=>{
-  const empty={...data,games:[],rankings:[],stats:[],records:[],leaders:[]};
+  const empty={...data,games:[],rankings:[],stats:[],records:[],leaders:[],teamForm:[],scheduleStrength:[],upsets:[],rankingResults:[],weeklyRecap:[],playoffPicture:[],playoffNotes:[]};
   for(const component of [<Home data={empty}/>,<Scores data={empty}/>,<Rankings data={empty}/>,<TeamPage data={empty} slug={data.teams[0].slug}/>])assert.match(renderToStaticMarkup(component),/<h1/);
 });
 test('loading and failure components expose accessible status and retry',()=>{
