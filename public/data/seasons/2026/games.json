@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-03T16:18:45.418Z",
+  "generatedAt": "2026-11-04T16:22:49.522Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -12464,9 +12464,9 @@
       "awayId": "195",
       "homeName": "Akron",
       "awayName": "Ohio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 20,
+      "awayScore": 28,
+      "status": "final",
       "venue": "InfoCision Stadium",
       "neutralSite": false
     },
@@ -12481,9 +12481,9 @@
       "awayId": "2084",
       "homeName": "Miami (OH)",
       "awayName": "Buffalo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 31,
+      "awayScore": 34,
+      "status": "final",
       "venue": "Yager Stadium",
       "neutralSite": false
     },
