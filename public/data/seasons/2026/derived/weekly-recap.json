@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T16:22:49.522Z",
+  "generatedAt": "2026-11-05T16:30:31.104Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -271,9 +271,9 @@
       "cards": [
         {
           "category": "closest-game",
-          "gameId": "cfbd-401866454",
+          "gameId": "cfbd-401866455",
           "teamId": null,
-          "description": "Buffalo at Miami (OH) finished with a 3-point margin."
+          "description": "Ball State at Massachusetts finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
@@ -283,9 +283,9 @@
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866453",
+          "gameId": "cfbd-401866456",
           "teamId": null,
-          "description": "Ohio won by 8 points."
+          "description": "Central Michigan won by 28 points."
         },
         {
           "category": "ranking-mover",
