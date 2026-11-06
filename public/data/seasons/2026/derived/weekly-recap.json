@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -277,15 +277,15 @@
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401866454",
+          "gameId": "cfbd-401862817",
           "teamId": null,
-          "description": "Buffalo and Miami (OH) combined for 65 points."
+          "description": "UTSA and Florida Atlantic combined for 89 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866456",
+          "gameId": "cfbd-401862817",
           "teamId": null,
-          "description": "Central Michigan won by 28 points."
+          "description": "Florida Atlantic won by 31 points."
         },
         {
           "category": "ranking-mover",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -494,8 +494,8 @@
     },
     {
       "teamId": "2226",
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "losses": 3,
       "ties": 0
     },
@@ -977,8 +977,8 @@
     },
     {
       "teamId": "256",
-      "games": 9,
-      "wins": 7,
+      "games": 10,
+      "wins": 8,
       "losses": 2,
       "ties": 0
     },
@@ -1005,9 +1005,9 @@
     },
     {
       "teamId": "2572",
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     {
@@ -1103,9 +1103,9 @@
     },
     {
       "teamId": "2636",
-      "games": 8,
+      "games": 9,
       "wins": 7,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     {
@@ -1495,9 +1495,9 @@
     },
     {
       "teamId": "47",
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     {

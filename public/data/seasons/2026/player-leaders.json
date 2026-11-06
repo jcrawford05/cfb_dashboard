@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -20,6 +20,14 @@
       "value": 2956
     },
     {
+      "playerId": "4869991",
+      "name": "Caden Veltkamp",
+      "teamId": "2226",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2744
+    },
+    {
       "playerId": "5219834",
       "name": "Drew Mestemaker",
       "teamId": "197",
@@ -34,14 +42,6 @@
       "category": "passing",
       "stat": "YDS",
       "value": 2568
-    },
-    {
-      "playerId": "4869991",
-      "name": "Caden Veltkamp",
-      "teamId": "2226",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2534
     },
     {
       "playerId": "5165807",
@@ -196,20 +196,20 @@
       "value": 1027
     },
     {
+      "playerId": "4914830",
+      "name": "Easton Messer",
+      "teamId": "2226",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 976
+    },
+    {
       "playerId": "4691315",
       "name": "Umari Hatcher",
       "teamId": "183",
       "category": "receiving",
       "stat": "YDS",
       "value": 952
-    },
-    {
-      "playerId": "4914830",
-      "name": "Easton Messer",
-      "teamId": "2226",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 891
     },
     {
       "playerId": "5146735",
@@ -236,20 +236,20 @@
       "value": 856
     },
     {
+      "playerId": "4920163",
+      "name": "Kelby Valsin",
+      "teamId": "2226",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 829
+    },
+    {
       "playerId": "5031157",
       "name": "Reed Harris",
       "teamId": "9",
       "category": "receiving",
       "stat": "YDS",
       "value": 804
-    },
-    {
-      "playerId": "4896289",
-      "name": "Gavin Freeman",
-      "teamId": "239",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 792
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -135,7 +135,7 @@
     {
       "teamId": "151",
       "completedScore": 0.46,
-      "remainingScore": 0.53,
+      "remainingScore": 0.54,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -198,7 +198,7 @@
     },
     {
       "teamId": "164",
-      "completedScore": 0.58,
+      "completedScore": 0.57,
       "remainingScore": 0.5,
       "completedSample": 8,
       "remainingSample": 4,
@@ -270,7 +270,7 @@
     },
     {
       "teamId": "2",
-      "completedScore": 0.66,
+      "completedScore": 0.65,
       "remainingScore": 0.49,
       "completedSample": 8,
       "remainingSample": 4,
@@ -318,7 +318,7 @@
     },
     {
       "teamId": "2016",
-      "completedScore": 0.29,
+      "completedScore": 0.25,
       "remainingScore": null,
       "completedSample": 1,
       "remainingSample": 0,
@@ -327,7 +327,7 @@
     {
       "teamId": "202",
       "completedScore": 0.39,
-      "remainingScore": 0.53,
+      "remainingScore": 0.52,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -350,7 +350,7 @@
     },
     {
       "teamId": "2032",
-      "completedScore": 0.45,
+      "completedScore": 0.44,
       "remainingScore": 0.44,
       "completedSample": 8,
       "remainingSample": 4,
@@ -566,15 +566,15 @@
     },
     {
       "teamId": "2226",
-      "completedScore": 0.41,
-      "remainingScore": 0.66,
-      "completedSample": 8,
-      "remainingSample": 4,
+      "completedScore": 0.46,
+      "remainingScore": 0.58,
+      "completedSample": 9,
+      "remainingSample": 3,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
       "teamId": "2229",
-      "completedScore": 0.6,
+      "completedScore": 0.61,
       "remainingScore": 0.31,
       "completedSample": 8,
       "remainingSample": 4,
@@ -727,7 +727,7 @@
     {
       "teamId": "2348",
       "completedScore": 0.46,
-      "remainingScore": 0.47,
+      "remainingScore": 0.46,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -999,7 +999,7 @@
     {
       "teamId": "249",
       "completedScore": 0.53,
-      "remainingScore": 0.5,
+      "remainingScore": 0.48,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -1038,7 +1038,7 @@
     },
     {
       "teamId": "251",
-      "completedScore": 0.71,
+      "completedScore": 0.7,
       "remainingScore": 0.59,
       "completedSample": 8,
       "remainingSample": 4,
@@ -1118,10 +1118,10 @@
     },
     {
       "teamId": "256",
-      "completedScore": 0.53,
-      "remainingScore": 0.42,
-      "completedSample": 9,
-      "remainingSample": 3,
+      "completedScore": 0.51,
+      "remainingScore": 0.44,
+      "completedSample": 10,
+      "remainingSample": 2,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
@@ -1150,10 +1150,10 @@
     },
     {
       "teamId": "2572",
-      "completedScore": 0.45,
-      "remainingScore": 0.56,
-      "completedSample": 8,
-      "remainingSample": 4,
+      "completedScore": 0.49,
+      "remainingScore": 0.49,
+      "completedSample": 9,
+      "remainingSample": 3,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
@@ -1262,10 +1262,10 @@
     },
     {
       "teamId": "2636",
-      "completedScore": 0.51,
-      "remainingScore": 0.59,
-      "completedSample": 8,
-      "remainingSample": 4,
+      "completedScore": 0.52,
+      "remainingScore": 0.58,
+      "completedSample": 9,
+      "remainingSample": 3,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
@@ -1286,7 +1286,7 @@
     },
     {
       "teamId": "2640",
-      "completedScore": 0.29,
+      "completedScore": 0.31,
       "remainingScore": null,
       "completedSample": 2,
       "remainingSample": 0,
@@ -1326,7 +1326,7 @@
     },
     {
       "teamId": "2653",
-      "completedScore": 0.45,
+      "completedScore": 0.44,
       "remainingScore": 0.56,
       "completedSample": 8,
       "remainingSample": 4,
@@ -1334,7 +1334,7 @@
     },
     {
       "teamId": "2655",
-      "completedScore": 0.57,
+      "completedScore": 0.55,
       "remainingScore": 0.53,
       "completedSample": 8,
       "remainingSample": 4,
@@ -1350,7 +1350,7 @@
     },
     {
       "teamId": "2681",
-      "completedScore": 0.5,
+      "completedScore": 0.51,
       "remainingScore": null,
       "completedSample": 2,
       "remainingSample": 0,
@@ -1534,7 +1534,7 @@
     },
     {
       "teamId": "292",
-      "completedScore": 0.86,
+      "completedScore": 0.75,
       "remainingScore": null,
       "completedSample": 1,
       "remainingSample": 0,
@@ -1542,8 +1542,8 @@
     },
     {
       "teamId": "295",
-      "completedScore": 0.58,
-      "remainingScore": 0.42,
+      "completedScore": 0.59,
+      "remainingScore": 0.4,
       "completedSample": 9,
       "remainingSample": 3,
       "formulaVersion": "opponent-win-pct-v1"
@@ -1607,14 +1607,14 @@
     {
       "teamId": "324",
       "completedScore": 0.55,
-      "remainingScore": 0.53,
+      "remainingScore": 0.54,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
       "teamId": "326",
-      "completedScore": 0.64,
+      "completedScore": 0.63,
       "remainingScore": 0.45,
       "completedSample": 8,
       "remainingSample": 3,
@@ -1678,7 +1678,7 @@
     },
     {
       "teamId": "36",
-      "completedScore": 0.57,
+      "completedScore": 0.56,
       "remainingScore": 0.54,
       "completedSample": 8,
       "remainingSample": 3,
@@ -1703,7 +1703,7 @@
     {
       "teamId": "41",
       "completedScore": 0.44,
-      "remainingScore": 0.53,
+      "remainingScore": 0.54,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -1727,7 +1727,7 @@
     {
       "teamId": "5",
       "completedScore": 0.5,
-      "remainingScore": 0.5,
+      "remainingScore": 0.48,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -1758,7 +1758,7 @@
     },
     {
       "teamId": "57",
-      "completedScore": 0.75,
+      "completedScore": 0.76,
       "remainingScore": 0.53,
       "completedSample": 8,
       "remainingSample": 4,
@@ -1766,8 +1766,8 @@
     },
     {
       "teamId": "58",
-      "completedScore": 0.5,
-      "remainingScore": 0.6,
+      "completedScore": 0.48,
+      "remainingScore": 0.61,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"
@@ -1783,7 +1783,7 @@
     {
       "teamId": "6",
       "completedScore": 0.58,
-      "remainingScore": 0.53,
+      "remainingScore": 0.52,
       "completedSample": 8,
       "remainingSample": 4,
       "formulaVersion": "opponent-win-pct-v1"

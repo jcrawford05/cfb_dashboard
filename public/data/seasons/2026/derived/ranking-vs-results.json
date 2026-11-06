@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -125,11 +125,11 @@
       "rank": 10,
       "rankPercentile": 64,
       "winPercentage": 0.75,
-      "scheduleStrength": 0.71,
+      "scheduleStrength": 0.7,
       "pointDifferential": 13.63,
       "pointDifferentialPercentile": 88.3,
-      "performanceScore": 77.79,
-      "gap": 13.79
+      "performanceScore": 77.49,
+      "gap": 13.49
     },
     {
       "teamId": "194",
@@ -139,9 +139,9 @@
       "winPercentage": 0.75,
       "scheduleStrength": 0.63,
       "pointDifferential": 21.13,
-      "pointDifferentialPercentile": 97.02,
-      "performanceScore": 78.01,
-      "gap": 18.01
+      "pointDifferentialPercentile": 96.6,
+      "performanceScore": 77.88,
+      "gap": 17.88
     },
     {
       "teamId": "145",
@@ -175,9 +175,9 @@
       "winPercentage": 0.88,
       "scheduleStrength": 0.53,
       "pointDifferential": 21.25,
-      "pointDifferentialPercentile": 97.45,
-      "performanceScore": 80.13,
-      "gap": 32.13
+      "pointDifferentialPercentile": 97.02,
+      "performanceScore": 80.01,
+      "gap": 32.01
     },
     {
       "teamId": "99",
@@ -305,11 +305,11 @@
       "rank": 25,
       "rankPercentile": 4,
       "winPercentage": 0.63,
-      "scheduleStrength": 0.75,
+      "scheduleStrength": 0.76,
       "pointDifferential": 7.5,
-      "pointDifferentialPercentile": 76.38,
-      "performanceScore": 70.41,
-      "gap": 66.41
+      "pointDifferentialPercentile": 76.6,
+      "performanceScore": 70.78,
+      "gap": 66.78
     }
   ]
 }

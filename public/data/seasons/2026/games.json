@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-05T16:30:31.104Z",
+  "generatedAt": "2026-11-06T15:57:48.427Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -10033,9 +10033,9 @@
       "awayId": "2636",
       "homeName": "Florida Atlantic",
       "awayName": "UTSA",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 60,
+      "awayScore": 29,
+      "status": "final",
       "venue": "FAU Stadium",
       "neutralSite": false
     },
@@ -11370,7 +11370,7 @@
       "season": 2026,
       "week": 12,
       "seasonType": "regular",
-      "startDate": "2026-11-22T02:00:00.000Z",
+      "startDate": "2026-11-21T02:00:00.000Z",
       "startTimeTBD": false,
       "homeId": "2751",
       "awayId": "167",
@@ -11438,7 +11438,7 @@
       "season": 2026,
       "week": 13,
       "seasonType": "regular",
-      "startDate": "2026-11-28T21:30:00.000Z",
+      "startDate": "2026-11-27T21:30:00.000Z",
       "startTimeTBD": false,
       "homeId": "167",
       "awayId": "2005",
@@ -13960,9 +13960,9 @@
       "awayId": "256",
       "homeName": "Southern Miss",
       "awayName": "James Madison",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 23,
+      "awayScore": 54,
+      "status": "final",
       "venue": "M. M. Roberts Stadium",
       "neutralSite": false
     },
