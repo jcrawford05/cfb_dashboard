@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T14:55:40.634Z",
+  "generatedAt": "2026-11-07T23:39:20.989Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -11,6 +11,14 @@
     "Top 10 per category: passing, rushing, receiving yards. No rate-stat leaders."
   ],
   "data": [
+    {
+      "playerId": "5219834",
+      "name": "Drew Mestemaker",
+      "teamId": "197",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2962
+    },
     {
       "playerId": "5212654",
       "name": "Braden Atkinson",
@@ -42,14 +50,6 @@
       "category": "passing",
       "stat": "YDS",
       "value": 2744
-    },
-    {
-      "playerId": "5219834",
-      "name": "Drew Mestemaker",
-      "teamId": "197",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2649
     },
     {
       "playerId": "4801307",
@@ -92,6 +92,38 @@
       "value": 2431
     },
     {
+      "playerId": "5164332",
+      "name": "Nate Sheppard",
+      "teamId": "150",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1189
+    },
+    {
+      "playerId": "5219258",
+      "name": "Aiden Flora",
+      "teamId": "66",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1119
+    },
+    {
+      "playerId": "5258016",
+      "name": "Caleb Hawkins",
+      "teamId": "197",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1081
+    },
+    {
+      "playerId": "4921116",
+      "name": "Jamal Roberts",
+      "teamId": "142",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1071
+    },
+    {
       "playerId": "5146712",
       "name": "Dylan Riley",
       "teamId": "68",
@@ -108,14 +140,6 @@
       "value": 1043
     },
     {
-      "playerId": "4921116",
-      "name": "Jamal Roberts",
-      "teamId": "142",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1005
-    },
-    {
       "playerId": "5220473",
       "name": "Jackson Gutierrez",
       "teamId": "2426",
@@ -124,28 +148,12 @@
       "value": 982
     },
     {
-      "playerId": "5164332",
-      "name": "Nate Sheppard",
-      "teamId": "150",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 972
-    },
-    {
       "playerId": "4921108",
       "name": "DeSean Bishop",
       "teamId": "2633",
       "category": "rushing",
       "stat": "YDS",
       "value": 957
-    },
-    {
-      "playerId": "5219258",
-      "name": "Aiden Flora",
-      "teamId": "66",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 937
     },
     {
       "playerId": "5222671",
@@ -162,14 +170,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 923
-    },
-    {
-      "playerId": "5088888",
-      "name": "Torrance Burgess Jr.",
-      "teamId": "326",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 922
     },
     {
       "playerId": "5289510",
@@ -209,7 +209,7 @@
       "teamId": "183",
       "category": "receiving",
       "stat": "YDS",
-      "value": 952
+      "value": 964
     },
     {
       "playerId": "4923226",
@@ -244,12 +244,12 @@
       "value": 856
     },
     {
-      "playerId": "4920163",
-      "name": "Kelby Valsin",
-      "teamId": "2226",
+      "playerId": "4896289",
+      "name": "Gavin Freeman",
+      "teamId": "239",
       "category": "receiving",
       "stat": "YDS",
-      "value": 829
+      "value": 852
     }
   ]
 }
