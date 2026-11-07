@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T15:57:48.427Z",
+  "generatedAt": "2026-11-07T14:55:40.634Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -3386,9 +3386,9 @@
       "awayId": "2628",
       "homeName": "Arizona",
       "awayName": "TCU",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 29,
+      "awayScore": 28,
+      "status": "final",
       "venue": "Arizona Stadium",
       "neutralSite": false
     },
@@ -5409,9 +5409,9 @@
       "awayId": "259",
       "homeName": "SMU",
       "awayName": "Virginia Tech",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 51,
+      "awayScore": 28,
+      "status": "final",
       "venue": "Gerald J. Ford Stadium",
       "neutralSite": false
     },
@@ -7415,9 +7415,9 @@
       "awayId": "158",
       "homeName": "Illinois",
       "awayName": "Nebraska",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 24,
+      "awayScore": 13,
+      "status": "final",
       "venue": "Memorial Stadium (Champaign, IL)",
       "neutralSite": false
     },
@@ -10050,9 +10050,9 @@
       "awayId": "58",
       "homeName": "East Carolina",
       "awayName": "South Florida",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 20,
+      "awayScore": 17,
+      "status": "final",
       "venue": "Dowdy-Ficklen Stadium",
       "neutralSite": false
     },
@@ -11223,9 +11223,9 @@
       "awayId": "167",
       "homeName": "Nevada",
       "awayName": "New Mexico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 3,
+      "awayScore": 31,
+      "status": "final",
       "venue": "Mackay Stadium",
       "neutralSite": false
     },

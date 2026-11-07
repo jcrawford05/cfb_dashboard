@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-06T15:57:48.427Z",
+  "generatedAt": "2026-11-07T14:55:40.634Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -20,7 +20,7 @@
       "conference": "ACC",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.72,
+      "remainingStrength": 0.7,
       "recentForm": "WWWWW"
     },
     {
@@ -44,7 +44,7 @@
       "conference": "Big 12",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 2,
-      "remainingStrength": 0.69,
+      "remainingStrength": 0.68,
       "recentForm": "WWWWW"
     },
     {
@@ -104,7 +104,7 @@
       "conference": "Big Ten",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.66,
+      "remainingStrength": 0.67,
       "recentForm": "WWWWW"
     },
     {
@@ -152,7 +152,7 @@
       "conference": "Big Ten",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.66,
+      "remainingStrength": 0.64,
       "recentForm": "LWWWW"
     },
     {
@@ -188,7 +188,7 @@
       "conference": "Big 12",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.59,
+      "remainingStrength": 0.58,
       "recentForm": "WLWWW"
     },
     {
@@ -200,7 +200,7 @@
       "conference": "ACC",
       "remainingGames": 4,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.55,
+      "remainingStrength": 0.56,
       "recentForm": "WWWWW"
     },
     {
@@ -266,14 +266,14 @@
     {
       "teamId": "12",
       "rank": 22,
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
       "ties": 0,
       "conference": "Big 12",
-      "remainingGames": 4,
+      "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.63,
-      "recentForm": "LWWWW"
+      "remainingStrength": 0.67,
+      "recentForm": "WLWWW"
     },
     {
       "teamId": "2483",
