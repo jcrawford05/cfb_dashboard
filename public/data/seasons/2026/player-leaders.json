@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T23:39:20.989Z",
+  "generatedAt": "2026-11-08T15:18:03.341Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -12,6 +12,14 @@
   ],
   "data": [
     {
+      "playerId": "5212654",
+      "name": "Braden Atkinson",
+      "teamId": "204",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3148
+    },
+    {
       "playerId": "5219834",
       "name": "Drew Mestemaker",
       "teamId": "197",
@@ -20,12 +28,12 @@
       "value": 2962
     },
     {
-      "playerId": "5212654",
-      "name": "Braden Atkinson",
-      "teamId": "204",
+      "playerId": "4801307",
+      "name": "Tayven Jackson",
+      "teamId": "249",
       "category": "passing",
       "stat": "YDS",
-      "value": 2956
+      "value": 2871
     },
     {
       "playerId": "5084084",
@@ -52,12 +60,20 @@
       "value": 2744
     },
     {
-      "playerId": "4801307",
-      "name": "Tayven Jackson",
-      "teamId": "249",
+      "playerId": "5121169",
+      "name": "Darian Mensah",
+      "teamId": "2390",
       "category": "passing",
       "stat": "YDS",
-      "value": 2568
+      "value": 2701
+    },
+    {
+      "playerId": "5078810",
+      "name": "Sam Leavitt",
+      "teamId": "99",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2551
     },
     {
       "playerId": "5165807",
@@ -76,20 +92,12 @@
       "value": 2525
     },
     {
-      "playerId": "5083569",
-      "name": "Jaden Craig",
-      "teamId": "2628",
-      "category": "passing",
+      "playerId": "5146712",
+      "name": "Dylan Riley",
+      "teamId": "68",
+      "category": "rushing",
       "stat": "YDS",
-      "value": 2439
-    },
-    {
-      "playerId": "5144078",
-      "name": "Ethan Grunkemeyer",
-      "teamId": "259",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2431
+      "value": 1241
     },
     {
       "playerId": "5164332",
@@ -100,12 +108,36 @@
       "value": 1189
     },
     {
+      "playerId": "4911971",
+      "name": "Jahiem White",
+      "teamId": "249",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1182
+    },
+    {
+      "playerId": "5220473",
+      "name": "Jackson Gutierrez",
+      "teamId": "2426",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1162
+    },
+    {
       "playerId": "5219258",
       "name": "Aiden Flora",
       "teamId": "66",
       "category": "rushing",
       "stat": "YDS",
       "value": 1119
+    },
+    {
+      "playerId": "5088888",
+      "name": "Torrance Burgess Jr.",
+      "teamId": "326",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1118
     },
     {
       "playerId": "5258016",
@@ -116,6 +148,14 @@
       "value": 1081
     },
     {
+      "playerId": "4918103",
+      "name": "Cam Cook",
+      "teamId": "277",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1072
+    },
+    {
       "playerId": "4921116",
       "name": "Jamal Roberts",
       "teamId": "142",
@@ -124,52 +164,12 @@
       "value": 1071
     },
     {
-      "playerId": "5146712",
-      "name": "Dylan Riley",
-      "teamId": "68",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1049
-    },
-    {
-      "playerId": "4911971",
-      "name": "Jahiem White",
-      "teamId": "249",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1043
-    },
-    {
-      "playerId": "5220473",
-      "name": "Jackson Gutierrez",
-      "teamId": "2426",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 982
-    },
-    {
       "playerId": "4921108",
       "name": "DeSean Bishop",
       "teamId": "2633",
       "category": "rushing",
       "stat": "YDS",
-      "value": 957
-    },
-    {
-      "playerId": "5222671",
-      "name": "Jaylin Carter",
-      "teamId": "235",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 929
-    },
-    {
-      "playerId": "4918103",
-      "name": "Cam Cook",
-      "teamId": "277",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 923
+      "value": 1066
     },
     {
       "playerId": "5289510",
@@ -177,7 +177,7 @@
       "teamId": "204",
       "category": "receiving",
       "stat": "YDS",
-      "value": 1110
+      "value": 1209
     },
     {
       "playerId": "5079720",
@@ -185,7 +185,7 @@
       "teamId": "194",
       "category": "receiving",
       "stat": "YDS",
-      "value": 1067
+      "value": 1200
     },
     {
       "playerId": "5159175",
@@ -212,6 +212,30 @@
       "value": 964
     },
     {
+      "playerId": "5153074",
+      "name": "Carlos Hernandez",
+      "teamId": "154",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 945
+    },
+    {
+      "playerId": "5219476",
+      "name": "Isaiah Myers",
+      "teamId": "2623",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 940
+    },
+    {
+      "playerId": "5031157",
+      "name": "Reed Harris",
+      "teamId": "9",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 907
+    },
+    {
       "playerId": "4923226",
       "name": "Collin Dixon",
       "teamId": "356",
@@ -220,36 +244,12 @@
       "value": 905
     },
     {
-      "playerId": "5146735",
-      "name": "Charlie Becker",
-      "teamId": "84",
+      "playerId": "5122082",
+      "name": "Justin Stevenson",
+      "teamId": "249",
       "category": "receiving",
       "stat": "YDS",
-      "value": 875
-    },
-    {
-      "playerId": "5219476",
-      "name": "Isaiah Myers",
-      "teamId": "2623",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 873
-    },
-    {
-      "playerId": "5153074",
-      "name": "Carlos Hernandez",
-      "teamId": "154",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 856
-    },
-    {
-      "playerId": "4896289",
-      "name": "Gavin Freeman",
-      "teamId": "239",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 852
+      "value": 898
     }
   ]
 }

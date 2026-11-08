@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T23:39:20.989Z",
+  "generatedAt": "2026-11-08T15:18:03.341Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -16,24 +16,24 @@
       "teamName": "Miami",
       "rank": 1,
       "rankPercentile": 100,
-      "winPercentage": 1,
-      "scheduleStrength": 0.61,
-      "pointDifferential": 29.88,
-      "pointDifferentialPercentile": 100,
-      "performanceScore": 88.3,
-      "gap": -11.7
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.64,
+      "pointDifferential": 25.78,
+      "pointDifferentialPercentile": 99.15,
+      "performanceScore": 84.5,
+      "gap": -15.5
     },
     {
       "teamId": "61",
       "teamName": "Georgia",
       "rank": 2,
       "rankPercentile": 96,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.52,
-      "pointDifferential": 26.13,
-      "pointDifferentialPercentile": 99.15,
-      "performanceScore": 80.34,
-      "gap": -15.66
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.54,
+      "pointDifferential": 27.11,
+      "pointDifferentialPercentile": 99.57,
+      "performanceScore": 81.63,
+      "gap": -14.37
     },
     {
       "teamId": "254",
@@ -41,23 +41,23 @@
       "rank": 3,
       "rankPercentile": 92,
       "winPercentage": 1,
-      "scheduleStrength": 0.57,
+      "scheduleStrength": 0.56,
       "pointDifferential": 21.33,
       "pointDifferentialPercentile": 97.87,
-      "performanceScore": 86.46,
-      "gap": -5.54
+      "performanceScore": 86.16,
+      "gap": -5.84
     },
     {
       "teamId": "87",
       "teamName": "Notre Dame",
       "rank": 4,
       "rankPercentile": 88,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.46,
-      "pointDifferential": 27,
-      "pointDifferentialPercentile": 99.57,
-      "performanceScore": 78.67,
-      "gap": -9.33
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.54,
+      "pointDifferential": 24.78,
+      "pointDifferentialPercentile": 98.72,
+      "performanceScore": 81.37,
+      "gap": -6.63
     },
     {
       "teamId": "26",
@@ -65,11 +65,11 @@
       "rank": 5,
       "rankPercentile": 84,
       "winPercentage": 1,
-      "scheduleStrength": 0.48,
+      "scheduleStrength": 0.5,
       "pointDifferential": 19.44,
-      "pointDifferentialPercentile": 94.89,
-      "performanceScore": 82.87,
-      "gap": -1.13
+      "pointDifferentialPercentile": 95.53,
+      "performanceScore": 83.66,
+      "gap": -0.34
     },
     {
       "teamId": "84",
@@ -77,11 +77,11 @@
       "rank": 6,
       "rankPercentile": 80,
       "winPercentage": 0.89,
-      "scheduleStrength": 0.62,
+      "scheduleStrength": 0.58,
       "pointDifferential": 20,
-      "pointDifferentialPercentile": 95.53,
-      "performanceScore": 82.82,
-      "gap": 2.82
+      "pointDifferentialPercentile": 96.81,
+      "performanceScore": 82,
+      "gap": 2
     },
     {
       "teamId": "252",
@@ -89,35 +89,35 @@
       "rank": 7,
       "rankPercentile": 76,
       "winPercentage": 0.78,
-      "scheduleStrength": 0.6,
+      "scheduleStrength": 0.61,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.04,
-      "performanceScore": 74.32,
-      "gap": -1.68
+      "pointDifferentialPercentile": 84.89,
+      "performanceScore": 74.88,
+      "gap": -1.12
     },
     {
       "teamId": "96",
       "teamName": "Kentucky",
       "rank": 8,
       "rankPercentile": 72,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.66,
-      "pointDifferential": 8.13,
-      "pointDifferentialPercentile": 79.36,
-      "performanceScore": 78.61,
-      "gap": 6.61
+      "winPercentage": 0.78,
+      "scheduleStrength": 0.67,
+      "pointDifferential": 4.11,
+      "pointDifferentialPercentile": 70.43,
+      "performanceScore": 72.34,
+      "gap": 0.34
     },
     {
       "teamId": "333",
       "teamName": "Alabama",
       "rank": 9,
       "rankPercentile": 68,
-      "winPercentage": 0.75,
-      "scheduleStrength": 0.69,
-      "pointDifferential": 17,
-      "pointDifferentialPercentile": 94.47,
-      "performanceScore": 79.04,
-      "gap": 11.04
+      "winPercentage": 0.78,
+      "scheduleStrength": 0.68,
+      "pointDifferential": 17.11,
+      "pointDifferentialPercentile": 94.04,
+      "performanceScore": 79.72,
+      "gap": 11.72
     },
     {
       "teamId": "251",
@@ -125,95 +125,95 @@
       "rank": 10,
       "rankPercentile": 64,
       "winPercentage": 0.78,
-      "scheduleStrength": 0.7,
+      "scheduleStrength": 0.68,
       "pointDifferential": 13.67,
       "pointDifferentialPercentile": 88.72,
-      "performanceScore": 78.73,
-      "gap": 14.73
+      "performanceScore": 78.13,
+      "gap": 14.13
     },
     {
       "teamId": "194",
       "teamName": "Ohio State",
       "rank": 11,
       "rankPercentile": 60,
-      "winPercentage": 0.75,
+      "winPercentage": 0.67,
       "scheduleStrength": 0.65,
-      "pointDifferential": 21.13,
-      "pointDifferentialPercentile": 96.6,
-      "performanceScore": 78.48,
-      "gap": 18.48
+      "pointDifferential": 17.33,
+      "pointDifferentialPercentile": 94.68,
+      "performanceScore": 74.57,
+      "gap": 14.57
     },
     {
       "teamId": "145",
       "teamName": "Ole Miss",
       "rank": 12,
       "rankPercentile": 56,
-      "winPercentage": 0.75,
-      "scheduleStrength": 0.6,
-      "pointDifferential": 13.13,
-      "pointDifferentialPercentile": 87.66,
-      "performanceScore": 74.3,
-      "gap": 18.3
+      "winPercentage": 0.67,
+      "scheduleStrength": 0.63,
+      "pointDifferential": 7.78,
+      "pointDifferentialPercentile": 78.3,
+      "performanceScore": 69.06,
+      "gap": 13.06
     },
     {
       "teamId": "2641",
       "teamName": "Texas Tech",
       "rank": 13,
       "rankPercentile": 52,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.6,
-      "pointDifferential": 14.5,
-      "pointDifferentialPercentile": 90.64,
-      "performanceScore": 80.19,
-      "gap": 28.19
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.58,
+      "pointDifferential": 13.44,
+      "pointDifferentialPercentile": 88.09,
+      "performanceScore": 79.38,
+      "gap": 27.38
     },
     {
       "teamId": "154",
       "teamName": "Wake Forest",
       "rank": 14,
       "rankPercentile": 48,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.51,
-      "pointDifferential": 21.25,
-      "pointDifferentialPercentile": 97.02,
-      "performanceScore": 79.41,
-      "gap": 31.41
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.49,
+      "pointDifferential": 27.44,
+      "pointDifferentialPercentile": 100,
+      "performanceScore": 80.26,
+      "gap": 32.26
     },
     {
       "teamId": "99",
       "teamName": "LSU",
       "rank": 15,
       "rankPercentile": 44,
-      "winPercentage": 0.75,
-      "scheduleStrength": 0.67,
-      "pointDifferential": 24.13,
-      "pointDifferentialPercentile": 98.72,
-      "performanceScore": 79.72,
-      "gap": 35.72
+      "winPercentage": 0.67,
+      "scheduleStrength": 0.66,
+      "pointDifferential": 19.44,
+      "pointDifferentialPercentile": 95.53,
+      "performanceScore": 75.13,
+      "gap": 31.13
     },
     {
       "teamId": "2633",
       "teamName": "Tennessee",
       "rank": 16,
       "rankPercentile": 40,
-      "winPercentage": 0.75,
-      "scheduleStrength": 0.52,
-      "pointDifferential": 16,
-      "pointDifferentialPercentile": 93.19,
-      "performanceScore": 73.56,
-      "gap": 33.56
+      "winPercentage": 0.78,
+      "scheduleStrength": 0.56,
+      "pointDifferential": 17.33,
+      "pointDifferentialPercentile": 94.68,
+      "performanceScore": 76.32,
+      "gap": 36.32
     },
     {
       "teamId": "248",
       "teamName": "Houston",
       "rank": 17,
       "rankPercentile": 36,
-      "winPercentage": 0.75,
+      "winPercentage": 0.78,
       "scheduleStrength": 0.69,
-      "pointDifferential": 15,
-      "pointDifferentialPercentile": 91.91,
-      "performanceScore": 78.27,
-      "gap": 42.27
+      "pointDifferential": 14.11,
+      "pointDifferentialPercentile": 90.85,
+      "performanceScore": 79.07,
+      "gap": 43.07
     },
     {
       "teamId": "30",
@@ -221,11 +221,11 @@
       "rank": 18,
       "rankPercentile": 32,
       "winPercentage": 0.78,
-      "scheduleStrength": 0.61,
+      "scheduleStrength": 0.6,
       "pointDifferential": 8.22,
-      "pointDifferentialPercentile": 80.21,
-      "performanceScore": 73.47,
-      "gap": 41.47
+      "pointDifferentialPercentile": 80.64,
+      "performanceScore": 73.3,
+      "gap": 41.3
     },
     {
       "teamId": "142",
@@ -233,35 +233,35 @@
       "rank": 19,
       "rankPercentile": 28,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.58,
+      "scheduleStrength": 0.54,
       "pointDifferential": 10.11,
-      "pointDifferentialPercentile": 81.28,
-      "performanceScore": 68.45,
-      "gap": 40.45
+      "pointDifferentialPercentile": 82.13,
+      "performanceScore": 67.5,
+      "gap": 39.5
     },
     {
       "teamId": "68",
       "teamName": "Boise State",
       "rank": 20,
       "rankPercentile": 24,
-      "winPercentage": 0.88,
-      "scheduleStrength": 0.6,
-      "pointDifferential": 12.25,
-      "pointDifferentialPercentile": 86.81,
-      "performanceScore": 79.04,
-      "gap": 55.04
+      "winPercentage": 0.89,
+      "scheduleStrength": 0.59,
+      "pointDifferential": 13.78,
+      "pointDifferentialPercentile": 89.57,
+      "performanceScore": 80.13,
+      "gap": 56.13
     },
     {
       "teamId": "2294",
       "teamName": "Iowa",
       "rank": 21,
       "rankPercentile": 20,
-      "winPercentage": 0.75,
+      "winPercentage": 0.78,
       "scheduleStrength": 0.54,
-      "pointDifferential": 15.75,
+      "pointDifferential": 15.56,
       "pointDifferentialPercentile": 92.77,
-      "performanceScore": 74.03,
-      "gap": 54.03
+      "performanceScore": 75.14,
+      "gap": 55.14
     },
     {
       "teamId": "167",
@@ -269,11 +269,11 @@
       "rank": 22,
       "rankPercentile": 16,
       "winPercentage": 0.89,
-      "scheduleStrength": 0.41,
+      "scheduleStrength": 0.42,
       "pointDifferential": 23.67,
       "pointDifferentialPercentile": 98.3,
-      "performanceScore": 77.34,
-      "gap": 61.34
+      "performanceScore": 77.64,
+      "gap": 61.64
     },
     {
       "teamId": "2579",
@@ -281,11 +281,11 @@
       "rank": 23,
       "rankPercentile": 12,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.58,
+      "scheduleStrength": 0.57,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.04,
-      "performanceScore": 69.28,
-      "gap": 57.28
+      "pointDifferentialPercentile": 84.89,
+      "performanceScore": 69.23,
+      "gap": 57.23
     },
     {
       "teamId": "12",
@@ -293,23 +293,23 @@
       "rank": 24,
       "rankPercentile": 8,
       "winPercentage": 0.78,
-      "scheduleStrength": 0.56,
+      "scheduleStrength": 0.54,
       "pointDifferential": 14.33,
-      "pointDifferentialPercentile": 90.21,
-      "performanceScore": 74.97,
-      "gap": 66.97
+      "pointDifferentialPercentile": 91.49,
+      "performanceScore": 74.76,
+      "gap": 66.76
     },
     {
       "teamId": "57",
       "teamName": "Florida",
       "rank": 25,
       "rankPercentile": 4,
-      "winPercentage": 0.63,
-      "scheduleStrength": 0.76,
-      "pointDifferential": 7.5,
-      "pointDifferentialPercentile": 77.02,
-      "performanceScore": 70.91,
-      "gap": 66.91
+      "winPercentage": 0.56,
+      "scheduleStrength": 0.72,
+      "pointDifferential": 4.89,
+      "pointDifferentialPercentile": 72.98,
+      "performanceScore": 65.72,
+      "gap": 61.72
     }
   ]
 }

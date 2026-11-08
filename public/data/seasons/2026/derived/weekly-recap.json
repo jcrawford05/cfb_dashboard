@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-07T23:39:20.989Z",
+  "generatedAt": "2026-11-08T15:18:03.341Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -270,22 +270,28 @@
       "week": 10,
       "cards": [
         {
+          "category": "biggest-upset",
+          "gameId": "cfbd-401856739",
+          "teamId": "201",
+          "description": "Oklahoma upset Florida (unranked over ranked)."
+        },
+        {
           "category": "closest-game",
-          "gameId": "cfbd-401856855",
+          "gameId": "cfbd-401856850",
           "teamId": null,
-          "description": "TCU at Arizona finished with a 1-point margin."
+          "description": "UCF at Kansas finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401856854",
+          "gameId": "cfbd-401860911",
           "teamId": null,
-          "description": "Oklahoma State and Kansas State combined for 94 points."
+          "description": "Boise State and Colorado State combined for 102 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401862822",
+          "gameId": "cfbd-401858290",
           "teamId": null,
-          "description": "Tulsa won by 50 points."
+          "description": "Wake Forest won by 77 points."
         },
         {
           "category": "ranking-mover",
