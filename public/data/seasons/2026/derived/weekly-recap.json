@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-08T15:18:03.341Z",
+  "generatedAt": "2026-11-09T18:51:35.336Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -292,12 +292,17 @@
           "gameId": "cfbd-401858290",
           "teamId": null,
           "description": "Wake Forest won by 77 points."
-        },
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "cards": [
         {
           "category": "ranking-mover",
           "gameId": null,
-          "teamId": "142",
-          "description": "Missouri moved up 4 places in the AP Top 25."
+          "teamId": "2633",
+          "description": "Tennessee moved up 7 places in the AP Top 25."
         }
       ]
     }
