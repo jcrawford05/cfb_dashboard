@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T16:27:59.364Z",
+  "generatedAt": "2026-11-11T16:14:32.940Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -7783,8 +7783,8 @@
       "season": 2026,
       "week": 12,
       "seasonType": "regular",
-      "startDate": "2026-11-21T05:00:00.000Z",
-      "startTimeTBD": true,
+      "startDate": "2026-11-21T20:30:00.000Z",
+      "startTimeTBD": false,
       "homeId": "213",
       "awayId": "164",
       "homeName": "Penn State",
@@ -12549,9 +12549,9 @@
       "awayId": "2711",
       "homeName": "Akron",
       "awayName": "Western Michigan",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 14,
+      "awayScore": 42,
+      "status": "final",
       "venue": "InfoCision Stadium",
       "neutralSite": false
     },
@@ -12566,9 +12566,9 @@
       "awayId": "2309",
       "homeName": "Bowling Green",
       "awayName": "Kent State",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 33,
+      "awayScore": 28,
+      "status": "final",
       "venue": "Doyt L. Perry Stadium",
       "neutralSite": false
     },
@@ -12583,9 +12583,9 @@
       "awayId": "195",
       "homeName": "Miami (OH)",
       "awayName": "Ohio",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 34,
+      "awayScore": 17,
+      "status": "final",
       "venue": "Yager Stadium",
       "neutralSite": false
     },

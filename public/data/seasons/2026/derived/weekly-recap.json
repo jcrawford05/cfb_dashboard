@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-10T16:27:59.364Z",
+  "generatedAt": "2026-11-11T16:14:32.940Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -298,6 +298,24 @@
     {
       "week": 11,
       "cards": [
+        {
+          "category": "closest-game",
+          "gameId": "cfbd-401866459",
+          "teamId": null,
+          "description": "Kent State at Bowling Green finished with a 5-point margin."
+        },
+        {
+          "category": "highest-scoring",
+          "gameId": "cfbd-401866459",
+          "teamId": null,
+          "description": "Kent State and Bowling Green combined for 61 points."
+        },
+        {
+          "category": "largest-margin",
+          "gameId": "cfbd-401866458",
+          "teamId": null,
+          "description": "Western Michigan won by 28 points."
+        },
         {
           "category": "ranking-mover",
           "gameId": null,
