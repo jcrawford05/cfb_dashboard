@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T16:14:32.940Z",
+  "generatedAt": "2026-11-12T16:50:50.095Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -140,6 +140,14 @@
       "value": 1118
     },
     {
+      "playerId": "5151369",
+      "name": "Messiah Burch",
+      "teamId": "2084",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1110
+    },
+    {
       "playerId": "5258016",
       "name": "Caleb Hawkins",
       "teamId": "197",
@@ -162,14 +170,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1071
-    },
-    {
-      "playerId": "4921108",
-      "name": "DeSean Bishop",
-      "teamId": "2633",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1066
     },
     {
       "playerId": "5289510",

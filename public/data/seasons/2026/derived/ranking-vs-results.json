@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-11T16:14:32.940Z",
+  "generatedAt": "2026-11-12T16:50:50.095Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -151,9 +151,9 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.61,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.89,
-      "performanceScore": 74.88,
-      "gap": 18.88
+      "pointDifferentialPercentile": 84.47,
+      "performanceScore": 74.75,
+      "gap": 18.75
     },
     {
       "teamId": "96",
@@ -163,9 +163,9 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.67,
       "pointDifferential": 4.11,
-      "pointDifferentialPercentile": 70.43,
-      "performanceScore": 72.34,
-      "gap": 20.34
+      "pointDifferentialPercentile": 70.85,
+      "performanceScore": 72.47,
+      "gap": 20.47
     },
     {
       "teamId": "248",
@@ -223,9 +223,9 @@
       "winPercentage": 0.67,
       "scheduleStrength": 0.72,
       "pointDifferential": 12,
-      "pointDifferentialPercentile": 86.17,
-      "performanceScore": 74.12,
-      "gap": 42.12
+      "pointDifferentialPercentile": 85.74,
+      "performanceScore": 73.99,
+      "gap": 41.99
     },
     {
       "teamId": "145",
@@ -247,9 +247,9 @@
       "winPercentage": 0.67,
       "scheduleStrength": 0.56,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.89,
-      "performanceScore": 68.93,
-      "gap": 44.93
+      "pointDifferentialPercentile": 84.47,
+      "performanceScore": 68.81,
+      "gap": 44.81
     },
     {
       "teamId": "194",
@@ -257,11 +257,11 @@
       "rank": 21,
       "rankPercentile": 20,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.65,
+      "scheduleStrength": 0.64,
       "pointDifferential": 17.33,
       "pointDifferentialPercentile": 94.68,
-      "performanceScore": 74.57,
-      "gap": 54.57
+      "performanceScore": 74.27,
+      "gap": 54.27
     },
     {
       "teamId": "12",
@@ -281,11 +281,11 @@
       "rank": 23,
       "rankPercentile": 12,
       "winPercentage": 0.89,
-      "scheduleStrength": 0.42,
+      "scheduleStrength": 0.43,
       "pointDifferential": 23.67,
       "pointDifferentialPercentile": 98.3,
-      "performanceScore": 77.64,
-      "gap": 65.64
+      "performanceScore": 77.94,
+      "gap": 65.94
     },
     {
       "teamId": "99",
