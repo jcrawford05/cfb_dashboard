@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-12T16:50:50.095Z",
+  "generatedAt": "2026-11-13T16:29:28.953Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -306,9 +306,9 @@
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401866459",
+          "gameId": "cfbd-401862824",
           "teamId": null,
-          "description": "Kent State and Bowling Green combined for 61 points."
+          "description": "Memphis and South Florida combined for 93 points."
         },
         {
           "category": "largest-margin",
