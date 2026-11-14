@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T19:11:21.788Z",
+  "generatedAt": "2026-11-14T23:56:05.907Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -20,7 +20,7 @@
       "conference": "SEC",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 2,
-      "remainingStrength": 0.52,
+      "remainingStrength": 0.54,
       "recentForm": "WWLWW"
     },
     {
@@ -32,20 +32,20 @@
       "conference": "Big 12",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.59,
+      "remainingStrength": 0.61,
       "recentForm": "WWWWW"
     },
     {
       "teamId": "333",
       "rank": 3,
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
       "ties": 0,
       "conference": "SEC",
-      "remainingGames": 3,
+      "remainingGames": 2,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.53,
-      "recentForm": "WWLLW"
+      "remainingStrength": 0.6,
+      "recentForm": "WWWLL"
     },
     {
       "teamId": "26",
@@ -68,7 +68,7 @@
       "conference": "FBS Independents",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.56,
+      "remainingStrength": 0.55,
       "recentForm": "WWLWW"
     },
     {
@@ -80,32 +80,32 @@
       "conference": "SEC",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.48,
+      "remainingStrength": 0.47,
       "recentForm": "WWWLL"
     },
     {
       "teamId": "2390",
       "rank": 7,
-      "wins": 8,
+      "wins": 9,
       "losses": 1,
       "ties": 0,
       "conference": "ACC",
-      "remainingGames": 3,
+      "remainingGames": 2,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.63,
-      "recentForm": "LWWWW"
+      "remainingStrength": 0.56,
+      "recentForm": "WLWWW"
     },
     {
       "teamId": "2633",
       "rank": 8,
-      "wins": 7,
+      "wins": 8,
       "losses": 2,
       "ties": 0,
       "conference": "SEC",
-      "remainingGames": 3,
+      "remainingGames": 2,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.52,
-      "recentForm": "WLWWW"
+      "remainingStrength": 0.53,
+      "recentForm": "WWLWW"
     },
     {
       "teamId": "84",
@@ -128,7 +128,7 @@
       "conference": "Big 12",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.52,
+      "remainingStrength": 0.5,
       "recentForm": "LWLWW"
     },
     {
@@ -152,19 +152,19 @@
       "conference": "Big 12",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.59,
+      "remainingStrength": 0.61,
       "recentForm": "WWLWW"
     },
     {
       "teamId": "154",
       "rank": 13,
-      "wins": 8,
+      "wins": 9,
       "losses": 1,
       "ties": 0,
       "conference": "ACC",
-      "remainingGames": 3,
+      "remainingGames": 2,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.59,
+      "remainingStrength": 0.5,
       "recentForm": "WWWWW"
     },
     {
@@ -188,7 +188,7 @@
       "conference": "Big Ten",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.5,
+      "remainingStrength": 0.51,
       "recentForm": "WWLWL"
     },
     {
@@ -212,7 +212,7 @@
       "conference": "SEC",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.63,
+      "remainingStrength": 0.61,
       "recentForm": "WWWWL"
     },
     {
@@ -224,7 +224,7 @@
       "conference": "Big Ten",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 2,
-      "remainingStrength": 0.74,
+      "remainingStrength": 0.76,
       "recentForm": "WLWWL"
     },
     {
@@ -236,20 +236,20 @@
       "conference": "SEC",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.5,
+      "remainingStrength": 0.48,
       "recentForm": "LWLWW"
     },
     {
       "teamId": "194",
       "rank": 20,
-      "wins": 6,
+      "wins": 7,
       "losses": 3,
       "ties": 0,
       "conference": "Big Ten",
-      "remainingGames": 3,
+      "remainingGames": 2,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.59,
-      "recentForm": "LLWWW"
+      "remainingStrength": 0.58,
+      "recentForm": "WLLWW"
     },
     {
       "teamId": "99",
@@ -260,7 +260,7 @@
       "conference": "SEC",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 2,
-      "remainingStrength": 0.63,
+      "remainingStrength": 0.64,
       "recentForm": "LWWLW"
     },
     {
@@ -284,7 +284,7 @@
       "conference": "Big 12",
       "remainingGames": 3,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.67,
+      "remainingStrength": 0.65,
       "recentForm": "WLWWW"
     },
     {

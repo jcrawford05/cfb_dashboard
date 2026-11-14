@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T19:11:21.788Z",
+  "generatedAt": "2026-11-14T23:56:05.907Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -306,9 +306,9 @@
         },
         {
           "category": "closest-game",
-          "gameId": "cfbd-401866459",
+          "gameId": "cfbd-401862825",
           "teamId": null,
-          "description": "Kent State at Bowling Green finished with a 5-point margin."
+          "description": "East Carolina at Charlotte finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
@@ -318,9 +318,9 @@
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866458",
+          "gameId": "cfbd-401858301",
           "teamId": null,
-          "description": "Western Michigan won by 28 points."
+          "description": "Wake Forest won by 42 points."
         },
         {
           "category": "ranking-mover",
