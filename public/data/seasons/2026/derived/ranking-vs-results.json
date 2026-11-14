@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T16:29:28.953Z",
+  "generatedAt": "2026-11-14T19:11:21.788Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -53,11 +53,11 @@
       "rank": 4,
       "rankPercentile": 88,
       "winPercentage": 1,
-      "scheduleStrength": 0.5,
-      "pointDifferential": 19.44,
-      "pointDifferentialPercentile": 95.53,
-      "performanceScore": 83.66,
-      "gap": -4.34
+      "scheduleStrength": 0.52,
+      "pointDifferential": 18.3,
+      "pointDifferentialPercentile": 95.32,
+      "performanceScore": 84.2,
+      "gap": -3.8
     },
     {
       "teamId": "2390",
@@ -89,11 +89,11 @@
       "rank": 7,
       "rankPercentile": 76,
       "winPercentage": 0.78,
-      "scheduleStrength": 0.68,
+      "scheduleStrength": 0.69,
       "pointDifferential": 17.11,
       "pointDifferentialPercentile": 94.04,
-      "performanceScore": 79.72,
-      "gap": 3.72
+      "performanceScore": 80.02,
+      "gap": 4.02
     },
     {
       "teamId": "251",
@@ -103,9 +103,9 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.68,
       "pointDifferential": 13.67,
-      "pointDifferentialPercentile": 88.72,
-      "performanceScore": 78.13,
-      "gap": 6.13
+      "pointDifferentialPercentile": 89.15,
+      "performanceScore": 78.26,
+      "gap": 6.26
     },
     {
       "teamId": "2633",
@@ -125,11 +125,11 @@
       "rank": 10,
       "rankPercentile": 64,
       "winPercentage": 0.89,
-      "scheduleStrength": 0.58,
+      "scheduleStrength": 0.57,
       "pointDifferential": 13.44,
-      "pointDifferentialPercentile": 88.09,
-      "performanceScore": 79.38,
-      "gap": 15.38
+      "pointDifferentialPercentile": 88.51,
+      "performanceScore": 79.21,
+      "gap": 15.21
     },
     {
       "teamId": "154",
@@ -151,9 +151,9 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.61,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.47,
-      "performanceScore": 74.75,
-      "gap": 18.75
+      "pointDifferentialPercentile": 84.89,
+      "performanceScore": 74.88,
+      "gap": 18.88
     },
     {
       "teamId": "96",
@@ -163,21 +163,21 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.67,
       "pointDifferential": 4.11,
-      "pointDifferentialPercentile": 70.85,
-      "performanceScore": 72.47,
-      "gap": 20.47
+      "pointDifferentialPercentile": 71.28,
+      "performanceScore": 72.59,
+      "gap": 20.59
     },
     {
       "teamId": "248",
       "teamName": "Houston",
       "rank": 14,
       "rankPercentile": 48,
-      "winPercentage": 0.78,
-      "scheduleStrength": 0.69,
-      "pointDifferential": 14.11,
-      "pointDifferentialPercentile": 90.85,
-      "performanceScore": 79.07,
-      "gap": 31.07
+      "winPercentage": 0.7,
+      "scheduleStrength": 0.65,
+      "pointDifferential": 11.7,
+      "pointDifferentialPercentile": 85.96,
+      "performanceScore": 73.29,
+      "gap": 25.29
     },
     {
       "teamId": "30",
@@ -211,9 +211,9 @@
       "winPercentage": 0.89,
       "scheduleStrength": 0.59,
       "pointDifferential": 13.78,
-      "pointDifferentialPercentile": 90,
-      "performanceScore": 80.26,
-      "gap": 44.26
+      "pointDifferentialPercentile": 90.43,
+      "performanceScore": 80.38,
+      "gap": 44.38
     },
     {
       "teamId": "2483",
@@ -221,11 +221,11 @@
       "rank": 18,
       "rankPercentile": 32,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.72,
+      "scheduleStrength": 0.71,
       "pointDifferential": 12,
-      "pointDifferentialPercentile": 85.74,
-      "performanceScore": 73.99,
-      "gap": 41.99
+      "pointDifferentialPercentile": 86.6,
+      "performanceScore": 73.95,
+      "gap": 41.95
     },
     {
       "teamId": "145",
@@ -247,9 +247,9 @@
       "winPercentage": 0.67,
       "scheduleStrength": 0.56,
       "pointDifferential": 11.22,
-      "pointDifferentialPercentile": 84.47,
-      "performanceScore": 68.81,
-      "gap": 44.81
+      "pointDifferentialPercentile": 84.89,
+      "performanceScore": 68.93,
+      "gap": 44.93
     },
     {
       "teamId": "194",
@@ -257,11 +257,11 @@
       "rank": 21,
       "rankPercentile": 20,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.64,
+      "scheduleStrength": 0.63,
       "pointDifferential": 17.33,
       "pointDifferentialPercentile": 94.68,
-      "performanceScore": 74.27,
-      "gap": 54.27
+      "performanceScore": 73.97,
+      "gap": 53.97
     },
     {
       "teamId": "12",
@@ -295,9 +295,9 @@
       "winPercentage": 0.67,
       "scheduleStrength": 0.66,
       "pointDifferential": 19.44,
-      "pointDifferentialPercentile": 95.53,
-      "performanceScore": 75.13,
-      "gap": 67.13
+      "pointDifferentialPercentile": 95.74,
+      "performanceScore": 75.19,
+      "gap": 67.19
     },
     {
       "teamId": "2567",
@@ -307,9 +307,9 @@
       "winPercentage": 0.78,
       "scheduleStrength": 0.52,
       "pointDifferential": 14.11,
-      "pointDifferentialPercentile": 90.85,
-      "performanceScore": 73.97,
-      "gap": 69.97
+      "pointDifferentialPercentile": 91.06,
+      "performanceScore": 74.03,
+      "gap": 70.03
     }
   ]
 }
