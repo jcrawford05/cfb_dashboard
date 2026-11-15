@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-14T23:56:05.907Z",
+  "generatedAt": "2026-11-15T15:41:43.705Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -306,21 +306,21 @@
         },
         {
           "category": "closest-game",
-          "gameId": "cfbd-401862825",
+          "gameId": "cfbd-401856864",
           "teamId": null,
-          "description": "East Carolina at Charlotte finished with a 1-point margin."
+          "description": "Utah at Arizona finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401862824",
+          "gameId": "cfbd-401871099",
           "teamId": null,
-          "description": "Memphis and South Florida combined for 93 points."
+          "description": "Southern Miss and Louisiana Tech combined for 94 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401858301",
+          "gameId": "cfbd-401860917",
           "teamId": null,
-          "description": "Wake Forest won by 42 points."
+          "description": "Washington State won by 66 points."
         },
         {
           "category": "ranking-mover",
