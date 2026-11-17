@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T18:37:25.265Z",
+  "generatedAt": "2026-11-17T17:39:55.755Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -3780,6 +3780,163 @@
           "teamName": "Oklahoma State",
           "rank": 25,
           "points": 0
+        }
+      ]
+    },
+    {
+      "poll": "AP Top 25",
+      "week": 12,
+      "seasonType": "regular",
+      "entries": [
+        {
+          "teamId": "61",
+          "teamName": "Georgia",
+          "rank": 1,
+          "points": 1734
+        },
+        {
+          "teamId": "254",
+          "teamName": "Utah",
+          "rank": 2,
+          "points": 1677
+        },
+        {
+          "teamId": "87",
+          "teamName": "Notre Dame",
+          "rank": 3,
+          "points": 1584
+        },
+        {
+          "teamId": "26",
+          "teamName": "UCLA",
+          "rank": 4,
+          "points": 1552
+        },
+        {
+          "teamId": "2390",
+          "teamName": "Miami",
+          "rank": 5,
+          "points": 1426
+        },
+        {
+          "teamId": "84",
+          "teamName": "Indiana",
+          "rank": 6,
+          "points": 1384
+        },
+        {
+          "teamId": "333",
+          "teamName": "Alabama",
+          "rank": 7,
+          "points": 1297
+        },
+        {
+          "teamId": "251",
+          "teamName": "Texas",
+          "rank": 8,
+          "points": 1290
+        },
+        {
+          "teamId": "2633",
+          "teamName": "Tennessee",
+          "rank": 9,
+          "points": 1179
+        },
+        {
+          "teamId": "154",
+          "teamName": "Wake Forest",
+          "rank": 10,
+          "points": 1134
+        },
+        {
+          "teamId": "2641",
+          "teamName": "Texas Tech",
+          "rank": 11,
+          "points": 1081
+        },
+        {
+          "teamId": "252",
+          "teamName": "BYU",
+          "rank": 12,
+          "points": 1038
+        },
+        {
+          "teamId": "2294",
+          "teamName": "Iowa",
+          "rank": 13,
+          "points": 861
+        },
+        {
+          "teamId": "2483",
+          "teamName": "Oregon",
+          "rank": 14,
+          "points": 820
+        },
+        {
+          "teamId": "68",
+          "teamName": "Boise State",
+          "rank": 15,
+          "points": 767
+        },
+        {
+          "teamId": "194",
+          "teamName": "Ohio State",
+          "rank": 16,
+          "points": 661
+        },
+        {
+          "teamId": "96",
+          "teamName": "Kentucky",
+          "rank": 17,
+          "points": 599
+        },
+        {
+          "teamId": "30",
+          "teamName": "USC",
+          "rank": 18,
+          "points": 546
+        },
+        {
+          "teamId": "12",
+          "teamName": "Arizona",
+          "rank": 19,
+          "points": 404
+        },
+        {
+          "teamId": "248",
+          "teamName": "Houston",
+          "rank": 20,
+          "points": 365
+        },
+        {
+          "teamId": "97",
+          "teamName": "Louisville",
+          "rank": 21,
+          "points": 357
+        },
+        {
+          "teamId": "2335",
+          "teamName": "Liberty",
+          "rank": 22,
+          "points": 183
+        },
+        {
+          "teamId": "57",
+          "teamName": "Florida",
+          "rank": 23,
+          "points": 173
+        },
+        {
+          "teamId": "235",
+          "teamName": "Memphis",
+          "rank": 24,
+          "points": 138
+        },
+        {
+          "teamId": "145",
+          "teamName": "Ole Miss",
+          "rank": 25,
+          "points": 103
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T18:37:25.265Z",
+  "generatedAt": "2026-11-17T17:39:55.755Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -250,6 +250,20 @@
       "trigger": "unranked-over-ranked"
     },
     {
+      "gameId": "cfbd-401856748",
+      "week": 12,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "238",
+      "rankedTeamId": "57",
+      "winnerPregameRank": null,
+      "loserPregameRank": 23,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
+    },
+    {
       "gameId": "cfbd-401856749",
       "week": 12,
       "seasonType": "regular",
@@ -259,7 +273,7 @@
       "challengerId": "2747",
       "rankedTeamId": "145",
       "winnerPregameRank": null,
-      "loserPregameRank": 19,
+      "loserPregameRank": 25,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -273,7 +287,7 @@
       "challengerId": "142",
       "rankedTeamId": "96",
       "winnerPregameRank": null,
-      "loserPregameRank": 13,
+      "loserPregameRank": 17,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -288,8 +302,8 @@
       "rankedTeamId": "61",
       "winnerPregameRank": null,
       "loserPregameRank": 1,
-      "rankGap": 19,
-      "trigger": "lower-ranked-over-higher-ranked"
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
     },
     {
       "gameId": "cfbd-401856754",
@@ -302,8 +316,8 @@
       "rankedTeamId": "2633",
       "winnerPregameRank": null,
       "loserPregameRank": 9,
-      "rankGap": 15,
-      "trigger": "lower-ranked-over-higher-ranked"
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
     },
     {
       "gameId": "cfbd-401856755",
@@ -348,16 +362,16 @@
       "trigger": "unranked-over-ranked"
     },
     {
-      "gameId": "cfbd-401856758",
+      "gameId": "cfbd-401856759",
       "week": 13,
       "seasonType": "regular",
       "state": "watch",
       "winnerId": null,
       "loserId": null,
-      "challengerId": "8",
-      "rankedTeamId": "99",
+      "challengerId": "52",
+      "rankedTeamId": "57",
       "winnerPregameRank": null,
-      "loserPregameRank": 24,
+      "loserPregameRank": 23,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -385,9 +399,9 @@
       "challengerId": "97",
       "rankedTeamId": "96",
       "winnerPregameRank": null,
-      "loserPregameRank": 13,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
+      "loserPregameRank": 17,
+      "rankGap": 4,
+      "trigger": "lower-ranked-over-higher-ranked"
     },
     {
       "gameId": "cfbd-401856762",
@@ -399,21 +413,7 @@
       "challengerId": "344",
       "rankedTeamId": "145",
       "winnerPregameRank": null,
-      "loserPregameRank": 19,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
-    },
-    {
-      "gameId": "cfbd-401856764",
-      "week": 13,
-      "seasonType": "regular",
-      "state": "watch",
-      "winnerId": null,
-      "loserId": null,
-      "challengerId": "228",
-      "rankedTeamId": "2579",
-      "winnerPregameRank": null,
-      "loserPregameRank": 20,
+      "loserPregameRank": 25,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -539,7 +539,7 @@
       "challengerId": "2306",
       "rankedTeamId": "12",
       "winnerPregameRank": null,
-      "loserPregameRank": 22,
+      "loserPregameRank": 19,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -567,7 +567,7 @@
       "challengerId": "277",
       "rankedTeamId": "248",
       "winnerPregameRank": null,
-      "loserPregameRank": 14,
+      "loserPregameRank": 20,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -581,7 +581,7 @@
       "challengerId": "239",
       "rankedTeamId": "2641",
       "winnerPregameRank": null,
-      "loserPregameRank": 10,
+      "loserPregameRank": 11,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -609,7 +609,7 @@
       "challengerId": "9",
       "rankedTeamId": "12",
       "winnerPregameRank": null,
-      "loserPregameRank": 22,
+      "loserPregameRank": 19,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -623,7 +623,7 @@
       "challengerId": "239",
       "rankedTeamId": "248",
       "winnerPregameRank": null,
-      "loserPregameRank": 14,
+      "loserPregameRank": 20,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -651,7 +651,7 @@
       "challengerId": "2628",
       "rankedTeamId": "2641",
       "winnerPregameRank": null,
-      "loserPregameRank": 10,
+      "loserPregameRank": 11,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -810,6 +810,20 @@
       "trigger": "unranked-over-ranked"
     },
     {
+      "gameId": "cfbd-401858306",
+      "week": 12,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "221",
+      "rankedTeamId": "97",
+      "winnerPregameRank": null,
+      "loserPregameRank": 21,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
+    },
+    {
       "gameId": "cfbd-401858307",
       "week": 12,
       "seasonType": "regular",
@@ -820,8 +834,8 @@
       "rankedTeamId": "87",
       "winnerPregameRank": null,
       "loserPregameRank": 3,
-      "rankGap": 22,
-      "trigger": "lower-ranked-over-higher-ranked"
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
     },
     {
       "gameId": "cfbd-401858310",
@@ -833,7 +847,7 @@
       "challengerId": "59",
       "rankedTeamId": "154",
       "winnerPregameRank": null,
-      "loserPregameRank": 11,
+      "loserPregameRank": 10,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -861,7 +875,7 @@
       "challengerId": "150",
       "rankedTeamId": "154",
       "winnerPregameRank": null,
-      "loserPregameRank": 11,
+      "loserPregameRank": 10,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -876,20 +890,6 @@
       "rankedTeamId": "87",
       "winnerPregameRank": null,
       "loserPregameRank": 3,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
-    },
-    {
-      "gameId": "cfbd-401858316",
-      "week": 13,
-      "seasonType": "regular",
-      "state": "watch",
-      "winnerId": null,
-      "loserId": null,
-      "challengerId": "24",
-      "rankedTeamId": "2567",
-      "winnerPregameRank": null,
-      "loserPregameRank": 25,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1057,7 +1057,7 @@
       "challengerId": "356",
       "rankedTeamId": "2294",
       "winnerPregameRank": null,
-      "loserPregameRank": 16,
+      "loserPregameRank": 13,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1085,7 +1085,7 @@
       "challengerId": "127",
       "rankedTeamId": "2483",
       "winnerPregameRank": null,
-      "loserPregameRank": 18,
+      "loserPregameRank": 14,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1099,7 +1099,7 @@
       "challengerId": "158",
       "rankedTeamId": "194",
       "winnerPregameRank": null,
-      "loserPregameRank": 21,
+      "loserPregameRank": 16,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1113,7 +1113,7 @@
       "challengerId": "120",
       "rankedTeamId": "30",
       "winnerPregameRank": null,
-      "loserPregameRank": 15,
+      "loserPregameRank": 18,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1141,7 +1141,7 @@
       "challengerId": "158",
       "rankedTeamId": "2294",
       "winnerPregameRank": null,
-      "loserPregameRank": 16,
+      "loserPregameRank": 13,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1169,7 +1169,7 @@
       "challengerId": "130",
       "rankedTeamId": "194",
       "winnerPregameRank": null,
-      "loserPregameRank": 21,
+      "loserPregameRank": 16,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1183,7 +1183,7 @@
       "challengerId": "264",
       "rankedTeamId": "2483",
       "winnerPregameRank": null,
-      "loserPregameRank": 18,
+      "loserPregameRank": 14,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1198,7 +1198,7 @@
       "rankedTeamId": "26",
       "winnerPregameRank": null,
       "loserPregameRank": 4,
-      "rankGap": 11,
+      "rankGap": 14,
       "trigger": "lower-ranked-over-higher-ranked"
     },
     {
@@ -1211,7 +1211,35 @@
       "challengerId": "21",
       "rankedTeamId": "68",
       "winnerPregameRank": null,
-      "loserPregameRank": 17,
+      "loserPregameRank": 15,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
+    },
+    {
+      "gameId": "cfbd-401862834",
+      "week": 12,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "2426",
+      "rankedTeamId": "235",
+      "winnerPregameRank": null,
+      "loserPregameRank": 24,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
+    },
+    {
+      "gameId": "cfbd-401862838",
+      "week": 13,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "218",
+      "rankedTeamId": "235",
+      "winnerPregameRank": null,
+      "loserPregameRank": 24,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1230,30 +1258,30 @@
       "trigger": "unranked-over-ranked"
     },
     {
-      "gameId": "cfbd-401864542",
-      "week": 12,
-      "seasonType": "regular",
-      "state": "watch",
-      "winnerId": null,
-      "loserId": null,
-      "challengerId": "2751",
-      "rankedTeamId": "167",
-      "winnerPregameRank": null,
-      "loserPregameRank": 23,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
-    },
-    {
-      "gameId": "cfbd-401864546",
+      "gameId": "cfbd-401871063",
       "week": 13,
       "seasonType": "regular",
       "state": "watch",
       "winnerId": null,
       "loserId": null,
-      "challengerId": "2005",
-      "rankedTeamId": "167",
+      "challengerId": "2623",
+      "rankedTeamId": "2335",
       "winnerPregameRank": null,
-      "loserPregameRank": 23,
+      "loserPregameRank": 22,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
+    },
+    {
+      "gameId": "cfbd-401871080",
+      "week": 12,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "98",
+      "rankedTeamId": "2335",
+      "winnerPregameRank": null,
+      "loserPregameRank": 22,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     }
