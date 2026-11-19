@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T17:18:32.941Z",
+  "generatedAt": "2026-11-19T17:25:19.003Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -108,6 +108,14 @@
       "value": 1320
     },
     {
+      "playerId": "5151369",
+      "name": "Messiah Burch",
+      "teamId": "2084",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1310
+    },
+    {
       "playerId": "5146712",
       "name": "Dylan Riley",
       "teamId": "68",
@@ -162,14 +170,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1133
-    },
-    {
-      "playerId": "5151369",
-      "name": "Messiah Burch",
-      "teamId": "2084",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1110
     },
     {
       "playerId": "5289510",

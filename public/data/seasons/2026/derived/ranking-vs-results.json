@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T17:18:32.941Z",
+  "generatedAt": "2026-11-19T17:25:19.003Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -125,11 +125,11 @@
       "rank": 10,
       "rankPercentile": 64,
       "winPercentage": 0.9,
-      "scheduleStrength": 0.53,
+      "scheduleStrength": 0.54,
       "pointDifferential": 28.9,
       "pointDifferentialPercentile": 100,
-      "performanceScore": 81.9,
-      "gap": 17.9
+      "performanceScore": 82.2,
+      "gap": 18.2
     },
     {
       "teamId": "2641",

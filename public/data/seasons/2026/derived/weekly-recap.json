@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T17:18:32.941Z",
+  "generatedAt": "2026-11-19T17:25:19.003Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -329,21 +329,21 @@
       "cards": [
         {
           "category": "closest-game",
-          "gameId": "cfbd-401866464",
+          "gameId": "cfbd-401866467",
           "teamId": null,
-          "description": "Ball State at Ohio finished with a 7-point margin."
+          "description": "Akron at Massachusetts finished with a 1-point margin."
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401866464",
+          "gameId": "cfbd-401866467",
           "teamId": null,
-          "description": "Ball State and Ohio combined for 63 points."
+          "description": "Akron and Massachusetts combined for 67 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866466",
+          "gameId": "cfbd-401866469",
           "teamId": null,
-          "description": "Miami (OH) won by 17 points."
+          "description": "Buffalo won by 19 points."
         },
         {
           "category": "ranking-mover",
