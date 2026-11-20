@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-19T17:25:19.003Z",
+  "generatedAt": "2026-11-20T03:59:22.364Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -10254,9 +10254,9 @@
       "awayId": "242",
       "homeName": "Temple",
       "awayName": "Rice",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 27,
+      "awayScore": 31,
+      "status": "final",
       "venue": "Lincoln Financial Field",
       "neutralSite": false
     },
