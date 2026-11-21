@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:59:18.434Z",
+  "generatedAt": "2026-11-21T16:12:09.303Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -5664,9 +5664,9 @@
       "awayId": "228",
       "homeName": "Duke",
       "awayName": "Clemson",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 10,
+      "awayScore": 20,
+      "status": "final",
       "venue": "Wallace Wade Stadium",
       "neutralSite": false
     },
@@ -7738,9 +7738,9 @@
       "awayId": "2483",
       "homeName": "Michigan State",
       "awayName": "Oregon",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 7,
+      "awayScore": 45,
+      "status": "final",
       "venue": "Spartan Stadium",
       "neutralSite": false
     },
@@ -11376,9 +11376,9 @@
       "awayId": "167",
       "homeName": "Wyoming",
       "awayName": "New Mexico",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 17,
+      "awayScore": 24,
+      "status": "final",
       "venue": "War Memorial Stadium",
       "neutralSite": false
     },
@@ -11427,9 +11427,9 @@
       "awayId": "2638",
       "homeName": "Air Force",
       "awayName": "UTEP",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 52,
+      "awayScore": 3,
+      "status": "final",
       "venue": "Falcon Stadium",
       "neutralSite": false
     },

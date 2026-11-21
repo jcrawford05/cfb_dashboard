@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:59:18.434Z",
+  "generatedAt": "2026-11-21T16:12:09.303Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -140,7 +140,7 @@
       "conference": "ACC",
       "remainingGames": 2,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.5,
+      "remainingStrength": 0.47,
       "recentForm": "WWWWW"
     },
     {
@@ -158,14 +158,14 @@
     {
       "teamId": "2483",
       "rank": 13,
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0,
       "conference": "Big Ten",
-      "remainingGames": 2,
+      "remainingGames": 1,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.45,
-      "recentForm": "WWWLW"
+      "remainingStrength": 0.6,
+      "recentForm": "WWWWL"
     },
     {
       "teamId": "194",
@@ -260,7 +260,7 @@
       "conference": "SEC",
       "remainingGames": 2,
       "rankedOpponentsRemaining": 1,
-      "remainingStrength": 0.75,
+      "remainingStrength": 0.77,
       "recentForm": "LWWWW"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:59:18.434Z",
+  "generatedAt": "2026-11-21T16:12:09.303Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -1272,12 +1272,12 @@
     {
       "teamId": "127",
       "name": "firstDowns",
-      "value": 184
+      "value": 197
     },
     {
       "teamId": "127",
       "name": "firstDownsOpponent",
-      "value": 185
+      "value": 209
     },
     {
       "teamId": "127",
@@ -1292,7 +1292,7 @@
     {
       "teamId": "127",
       "name": "fourthDowns",
-      "value": 23
+      "value": 25
     },
     {
       "teamId": "127",
@@ -1302,7 +1302,7 @@
     {
       "teamId": "127",
       "name": "fumblesLost",
-      "value": 6
+      "value": 7
     },
     {
       "teamId": "127",
@@ -1317,17 +1317,17 @@
     {
       "teamId": "127",
       "name": "fumblesRecoveredOpponent",
-      "value": 6
+      "value": 7
     },
     {
       "teamId": "127",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "127",
       "name": "interceptions",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "127",
@@ -1352,17 +1352,17 @@
     {
       "teamId": "127",
       "name": "interceptionYardsOpponent",
-      "value": 79
+      "value": 82
     },
     {
       "teamId": "127",
       "name": "kickReturns",
-      "value": 23
+      "value": 30
     },
     {
       "teamId": "127",
       "name": "kickReturnsOpponent",
-      "value": 14
+      "value": 15
     },
     {
       "teamId": "127",
@@ -1377,42 +1377,42 @@
     {
       "teamId": "127",
       "name": "kickReturnYards",
-      "value": 474
+      "value": 607
     },
     {
       "teamId": "127",
       "name": "kickReturnYardsOpponent",
-      "value": 286
+      "value": 301
     },
     {
       "teamId": "127",
       "name": "netPassingYards",
-      "value": 1880
+      "value": 2000
     },
     {
       "teamId": "127",
       "name": "netPassingYardsOpponent",
-      "value": 2037
+      "value": 2271
     },
     {
       "teamId": "127",
       "name": "passAttempts",
-      "value": 289
+      "value": 312
     },
     {
       "teamId": "127",
       "name": "passAttemptsOpponent",
-      "value": 274
+      "value": 308
     },
     {
       "teamId": "127",
       "name": "passCompletions",
-      "value": 185
+      "value": 197
     },
     {
       "teamId": "127",
       "name": "passCompletionsOpponent",
-      "value": 168
+      "value": 189
     },
     {
       "teamId": "127",
@@ -1422,7 +1422,7 @@
     {
       "teamId": "127",
       "name": "passesInterceptedOpponent",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "127",
@@ -1432,47 +1432,47 @@
     {
       "teamId": "127",
       "name": "passingTDsOpponent",
-      "value": 13
-    },
-    {
-      "teamId": "127",
-      "name": "penalties",
-      "value": 52
-    },
-    {
-      "teamId": "127",
-      "name": "penaltiesOpponent",
-      "value": 46
-    },
-    {
-      "teamId": "127",
-      "name": "penaltyYards",
-      "value": 483
-    },
-    {
-      "teamId": "127",
-      "name": "penaltyYardsOpponent",
-      "value": 373
-    },
-    {
-      "teamId": "127",
-      "name": "possessionTime",
-      "value": 18269
-    },
-    {
-      "teamId": "127",
-      "name": "possessionTimeOpponent",
-      "value": 17731
-    },
-    {
-      "teamId": "127",
-      "name": "puntReturns",
       "value": 14
     },
     {
       "teamId": "127",
+      "name": "penalties",
+      "value": 58
+    },
+    {
+      "teamId": "127",
+      "name": "penaltiesOpponent",
+      "value": 55
+    },
+    {
+      "teamId": "127",
+      "name": "penaltyYards",
+      "value": 538
+    },
+    {
+      "teamId": "127",
+      "name": "penaltyYardsOpponent",
+      "value": 448
+    },
+    {
+      "teamId": "127",
+      "name": "possessionTime",
+      "value": 20180
+    },
+    {
+      "teamId": "127",
+      "name": "possessionTimeOpponent",
+      "value": 19420
+    },
+    {
+      "teamId": "127",
+      "name": "puntReturns",
+      "value": 15
+    },
+    {
+      "teamId": "127",
       "name": "puntReturnsOpponent",
-      "value": 6
+      "value": 8
     },
     {
       "teamId": "127",
@@ -1492,92 +1492,92 @@
     {
       "teamId": "127",
       "name": "puntReturnYardsOpponent",
-      "value": 40
+      "value": 47
     },
     {
       "teamId": "127",
       "name": "rushingAttempts",
-      "value": 360
+      "value": 397
     },
     {
       "teamId": "127",
       "name": "rushingAttemptsOpponent",
-      "value": 343
+      "value": 381
     },
     {
       "teamId": "127",
       "name": "rushingTDs",
-      "value": 11
+      "value": 12
     },
     {
       "teamId": "127",
       "name": "rushingTDsOpponent",
-      "value": 16
+      "value": 21
     },
     {
       "teamId": "127",
       "name": "rushingYards",
-      "value": 1091
+      "value": 1171
     },
     {
       "teamId": "127",
       "name": "rushingYardsOpponent",
-      "value": 1328
+      "value": 1516
     },
     {
       "teamId": "127",
       "name": "sacks",
-      "value": 18
+      "value": 21
     },
     {
       "teamId": "127",
       "name": "sacksOpponent",
-      "value": 28
+      "value": 29
     },
     {
       "teamId": "127",
       "name": "tacklesForLoss",
-      "value": 46
+      "value": 50
     },
     {
       "teamId": "127",
       "name": "tacklesForLossOpponent",
-      "value": 54
+      "value": 59
     },
     {
       "teamId": "127",
       "name": "thirdDownConversions",
-      "value": 53
+      "value": 59
     },
     {
       "teamId": "127",
       "name": "thirdDownConversionsOpponent",
-      "value": 51
+      "value": 61
     },
     {
       "teamId": "127",
       "name": "thirdDowns",
-      "value": 137
+      "value": 152
     },
     {
       "teamId": "127",
       "name": "thirdDownsOpponent",
-      "value": 126
+      "value": 141
     },
     {
       "teamId": "127",
       "name": "totalYards",
-      "value": 2971
+      "value": 3171
     },
     {
       "teamId": "127",
       "name": "totalYardsOpponent",
-      "value": 3365
+      "value": 3787
     },
     {
       "teamId": "127",
       "name": "turnovers",
-      "value": 13
+      "value": 15
     },
     {
       "teamId": "127",
@@ -2847,12 +2847,12 @@
     {
       "teamId": "150",
       "name": "firstDowns",
-      "value": 218
+      "value": 229
     },
     {
       "teamId": "150",
       "name": "firstDownsOpponent",
-      "value": 172
+      "value": 193
     },
     {
       "teamId": "150",
@@ -2862,17 +2862,17 @@
     {
       "teamId": "150",
       "name": "fourthDownConversionsOpponent",
-      "value": 8
+      "value": 10
     },
     {
       "teamId": "150",
       "name": "fourthDowns",
-      "value": 20
+      "value": 21
     },
     {
       "teamId": "150",
       "name": "fourthDownsOpponent",
-      "value": 24
+      "value": 26
     },
     {
       "teamId": "150",
@@ -2882,12 +2882,12 @@
     {
       "teamId": "150",
       "name": "fumblesLostOpponent",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "150",
       "name": "fumblesRecovered",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "150",
@@ -2897,17 +2897,17 @@
     {
       "teamId": "150",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "150",
       "name": "interceptions",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "150",
       "name": "interceptionsOpponent",
-      "value": 2
+      "value": 3
     },
     {
       "teamId": "150",
@@ -2922,22 +2922,22 @@
     {
       "teamId": "150",
       "name": "interceptionYards",
-      "value": 23
+      "value": 16
     },
     {
       "teamId": "150",
       "name": "interceptionYardsOpponent",
-      "value": -2
+      "value": 0
     },
     {
       "teamId": "150",
       "name": "kickReturns",
-      "value": 7
+      "value": 10
     },
     {
       "teamId": "150",
       "name": "kickReturnsOpponent",
-      "value": 20
+      "value": 22
     },
     {
       "teamId": "150",
@@ -2952,52 +2952,52 @@
     {
       "teamId": "150",
       "name": "kickReturnYards",
-      "value": 155
+      "value": 207
     },
     {
       "teamId": "150",
       "name": "kickReturnYardsOpponent",
-      "value": 387
+      "value": 425
     },
     {
       "teamId": "150",
       "name": "netPassingYards",
-      "value": 2322
+      "value": 2471
     },
     {
       "teamId": "150",
       "name": "netPassingYardsOpponent",
-      "value": 2061
+      "value": 2225
     },
     {
       "teamId": "150",
       "name": "passAttempts",
-      "value": 326
+      "value": 364
     },
     {
       "teamId": "150",
       "name": "passAttemptsOpponent",
-      "value": 301
+      "value": 331
     },
     {
       "teamId": "150",
       "name": "passCompletions",
-      "value": 201
+      "value": 217
     },
     {
       "teamId": "150",
       "name": "passCompletionsOpponent",
-      "value": 188
+      "value": 205
     },
     {
       "teamId": "150",
       "name": "passesIntercepted",
-      "value": 2
+      "value": 3
     },
     {
       "teamId": "150",
       "name": "passesInterceptedOpponent",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "150",
@@ -3012,42 +3012,42 @@
     {
       "teamId": "150",
       "name": "penalties",
-      "value": 69
+      "value": 74
     },
     {
       "teamId": "150",
       "name": "penaltiesOpponent",
-      "value": 83
+      "value": 90
     },
     {
       "teamId": "150",
       "name": "penaltyYards",
-      "value": 633
+      "value": 666
     },
     {
       "teamId": "150",
       "name": "penaltyYardsOpponent",
-      "value": 720
+      "value": 780
     },
     {
       "teamId": "150",
       "name": "possessionTime",
-      "value": 18996
+      "value": 20361
     },
     {
       "teamId": "150",
       "name": "possessionTimeOpponent",
-      "value": 15459
+      "value": 17694
     },
     {
       "teamId": "150",
       "name": "puntReturns",
-      "value": 16
+      "value": 17
     },
     {
       "teamId": "150",
       "name": "puntReturnsOpponent",
-      "value": 10
+      "value": 13
     },
     {
       "teamId": "150",
@@ -3062,42 +3062,42 @@
     {
       "teamId": "150",
       "name": "puntReturnYards",
-      "value": 180
+      "value": 185
     },
     {
       "teamId": "150",
       "name": "puntReturnYardsOpponent",
-      "value": 119
+      "value": 118
     },
     {
       "teamId": "150",
       "name": "rushingAttempts",
-      "value": 345
+      "value": 367
     },
     {
       "teamId": "150",
       "name": "rushingAttemptsOpponent",
-      "value": 318
+      "value": 369
     },
     {
       "teamId": "150",
       "name": "rushingTDs",
-      "value": 23
+      "value": 24
     },
     {
       "teamId": "150",
       "name": "rushingTDsOpponent",
-      "value": 9
+      "value": 11
     },
     {
       "teamId": "150",
       "name": "rushingYards",
-      "value": 1845
+      "value": 1943
     },
     {
       "teamId": "150",
       "name": "rushingYardsOpponent",
-      "value": 1010
+      "value": 1230
     },
     {
       "teamId": "150",
@@ -3107,57 +3107,57 @@
     {
       "teamId": "150",
       "name": "sacksOpponent",
-      "value": 4
-    },
-    {
-      "teamId": "150",
-      "name": "tacklesForLoss",
-      "value": 58
-    },
-    {
-      "teamId": "150",
-      "name": "tacklesForLossOpponent",
-      "value": 37
-    },
-    {
-      "teamId": "150",
-      "name": "thirdDownConversions",
-      "value": 55
-    },
-    {
-      "teamId": "150",
-      "name": "thirdDownConversionsOpponent",
-      "value": 37
-    },
-    {
-      "teamId": "150",
-      "name": "thirdDowns",
-      "value": 131
-    },
-    {
-      "teamId": "150",
-      "name": "thirdDownsOpponent",
-      "value": 128
-    },
-    {
-      "teamId": "150",
-      "name": "totalYards",
-      "value": 4167
-    },
-    {
-      "teamId": "150",
-      "name": "totalYardsOpponent",
-      "value": 3071
-    },
-    {
-      "teamId": "150",
-      "name": "turnovers",
       "value": 6
     },
     {
       "teamId": "150",
+      "name": "tacklesForLoss",
+      "value": 66
+    },
+    {
+      "teamId": "150",
+      "name": "tacklesForLossOpponent",
+      "value": 47
+    },
+    {
+      "teamId": "150",
+      "name": "thirdDownConversions",
+      "value": 61
+    },
+    {
+      "teamId": "150",
+      "name": "thirdDownConversionsOpponent",
+      "value": 45
+    },
+    {
+      "teamId": "150",
+      "name": "thirdDowns",
+      "value": 147
+    },
+    {
+      "teamId": "150",
+      "name": "thirdDownsOpponent",
+      "value": 146
+    },
+    {
+      "teamId": "150",
+      "name": "totalYards",
+      "value": 4414
+    },
+    {
+      "teamId": "150",
+      "name": "totalYardsOpponent",
+      "value": 3455
+    },
+    {
+      "teamId": "150",
+      "name": "turnovers",
+      "value": 7
+    },
+    {
+      "teamId": "150",
       "name": "turnoversOpponent",
-      "value": 9
+      "value": 11
     },
     {
       "teamId": "151",
@@ -5682,17 +5682,17 @@
     {
       "teamId": "167",
       "name": "firstDowns",
-      "value": 188
+      "value": 214
     },
     {
       "teamId": "167",
       "name": "firstDownsOpponent",
-      "value": 137
+      "value": 147
     },
     {
       "teamId": "167",
       "name": "fourthDownConversions",
-      "value": 13
+      "value": 16
     },
     {
       "teamId": "167",
@@ -5702,7 +5702,7 @@
     {
       "teamId": "167",
       "name": "fourthDowns",
-      "value": 20
+      "value": 24
     },
     {
       "teamId": "167",
@@ -5712,7 +5712,7 @@
     {
       "teamId": "167",
       "name": "fumblesLost",
-      "value": 1
+      "value": 3
     },
     {
       "teamId": "167",
@@ -5727,12 +5727,12 @@
     {
       "teamId": "167",
       "name": "fumblesRecoveredOpponent",
-      "value": 1
+      "value": 3
     },
     {
       "teamId": "167",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "167",
@@ -5767,7 +5767,7 @@
     {
       "teamId": "167",
       "name": "kickReturns",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "167",
@@ -5787,7 +5787,7 @@
     {
       "teamId": "167",
       "name": "kickReturnYards",
-      "value": 218
+      "value": 244
     },
     {
       "teamId": "167",
@@ -5797,32 +5797,32 @@
     {
       "teamId": "167",
       "name": "netPassingYards",
-      "value": 1447
+      "value": 1681
     },
     {
       "teamId": "167",
       "name": "netPassingYardsOpponent",
-      "value": 1722
+      "value": 1864
     },
     {
       "teamId": "167",
       "name": "passAttempts",
-      "value": 179
+      "value": 219
     },
     {
       "teamId": "167",
       "name": "passAttemptsOpponent",
-      "value": 281
+      "value": 304
     },
     {
       "teamId": "167",
       "name": "passCompletions",
-      "value": 107
+      "value": 129
     },
     {
       "teamId": "167",
       "name": "passCompletionsOpponent",
-      "value": 153
+      "value": 166
     },
     {
       "teamId": "167",
@@ -5837,52 +5837,52 @@
     {
       "teamId": "167",
       "name": "passingTDs",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "167",
       "name": "passingTDsOpponent",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "167",
       "name": "penalties",
-      "value": 64
+      "value": 69
     },
     {
       "teamId": "167",
       "name": "penaltiesOpponent",
-      "value": 66
+      "value": 75
     },
     {
       "teamId": "167",
       "name": "penaltyYards",
-      "value": 524
+      "value": 574
     },
     {
       "teamId": "167",
       "name": "penaltyYardsOpponent",
-      "value": 569
+      "value": 619
     },
     {
       "teamId": "167",
       "name": "possessionTime",
-      "value": 20170
+      "value": 22451
     },
     {
       "teamId": "167",
       "name": "possessionTimeOpponent",
-      "value": 15830
+      "value": 17149
     },
     {
       "teamId": "167",
       "name": "puntReturns",
-      "value": 23
+      "value": 28
     },
     {
       "teamId": "167",
       "name": "puntReturnsOpponent",
-      "value": 11
+      "value": 12
     },
     {
       "teamId": "167",
@@ -5897,97 +5897,97 @@
     {
       "teamId": "167",
       "name": "puntReturnYards",
-      "value": 321
+      "value": 357
     },
     {
       "teamId": "167",
       "name": "puntReturnYardsOpponent",
-      "value": 80
+      "value": 93
     },
     {
       "teamId": "167",
       "name": "rushingAttempts",
-      "value": 451
+      "value": 491
     },
     {
       "teamId": "167",
       "name": "rushingAttemptsOpponent",
-      "value": 299
+      "value": 324
     },
     {
       "teamId": "167",
       "name": "rushingTDs",
-      "value": 29
+      "value": 31
     },
     {
       "teamId": "167",
       "name": "rushingTDsOpponent",
-      "value": 3
+      "value": 4
     },
     {
       "teamId": "167",
       "name": "rushingYards",
-      "value": 2121
+      "value": 2320
     },
     {
       "teamId": "167",
       "name": "rushingYardsOpponent",
-      "value": 762
+      "value": 808
     },
     {
       "teamId": "167",
       "name": "sacks",
-      "value": 28
+      "value": 31
     },
     {
       "teamId": "167",
       "name": "sacksOpponent",
-      "value": 24
+      "value": 25
     },
     {
       "teamId": "167",
       "name": "tacklesForLoss",
-      "value": 85
+      "value": 93
     },
     {
       "teamId": "167",
       "name": "tacklesForLossOpponent",
-      "value": 54
+      "value": 63
     },
     {
       "teamId": "167",
       "name": "thirdDownConversions",
-      "value": 50
+      "value": 57
     },
     {
       "teamId": "167",
       "name": "thirdDownConversionsOpponent",
-      "value": 43
+      "value": 46
     },
     {
       "teamId": "167",
       "name": "thirdDowns",
-      "value": 129
+      "value": 145
     },
     {
       "teamId": "167",
       "name": "thirdDownsOpponent",
-      "value": 136
+      "value": 148
     },
     {
       "teamId": "167",
       "name": "totalYards",
-      "value": 3568
+      "value": 4001
     },
     {
       "teamId": "167",
       "name": "totalYardsOpponent",
-      "value": 2484
+      "value": 2672
     },
     {
       "teamId": "167",
       "name": "turnovers",
-      "value": 9
+      "value": 11
     },
     {
       "teamId": "167",
@@ -8202,17 +8202,17 @@
     {
       "teamId": "2005",
       "name": "firstDowns",
-      "value": 228
+      "value": 255
     },
     {
       "teamId": "2005",
       "name": "firstDownsOpponent",
-      "value": 148
+      "value": 154
     },
     {
       "teamId": "2005",
       "name": "fourthDownConversions",
-      "value": 22
+      "value": 23
     },
     {
       "teamId": "2005",
@@ -8222,12 +8222,12 @@
     {
       "teamId": "2005",
       "name": "fourthDowns",
-      "value": 31
+      "value": 33
     },
     {
       "teamId": "2005",
       "name": "fourthDownsOpponent",
-      "value": 19
+      "value": 20
     },
     {
       "teamId": "2005",
@@ -8237,12 +8237,12 @@
     {
       "teamId": "2005",
       "name": "fumblesLostOpponent",
-      "value": 2
+      "value": 3
     },
     {
       "teamId": "2005",
       "name": "fumblesRecovered",
-      "value": 2
+      "value": 3
     },
     {
       "teamId": "2005",
@@ -8252,7 +8252,7 @@
     {
       "teamId": "2005",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2005",
@@ -8262,7 +8262,7 @@
     {
       "teamId": "2005",
       "name": "interceptionsOpponent",
-      "value": 6
+      "value": 7
     },
     {
       "teamId": "2005",
@@ -8277,7 +8277,7 @@
     {
       "teamId": "2005",
       "name": "interceptionYards",
-      "value": 116
+      "value": 122
     },
     {
       "teamId": "2005",
@@ -8317,37 +8317,37 @@
     {
       "teamId": "2005",
       "name": "netPassingYards",
-      "value": 551
+      "value": 708
     },
     {
       "teamId": "2005",
       "name": "netPassingYardsOpponent",
-      "value": 1597
+      "value": 1689
     },
     {
       "teamId": "2005",
       "name": "passAttempts",
-      "value": 82
+      "value": 88
     },
     {
       "teamId": "2005",
       "name": "passAttemptsOpponent",
-      "value": 236
+      "value": 256
     },
     {
       "teamId": "2005",
       "name": "passCompletions",
-      "value": 39
+      "value": 43
     },
     {
       "teamId": "2005",
       "name": "passCompletionsOpponent",
-      "value": 129
+      "value": 143
     },
     {
       "teamId": "2005",
       "name": "passesIntercepted",
-      "value": 6
+      "value": 7
     },
     {
       "teamId": "2005",
@@ -8357,7 +8357,7 @@
     {
       "teamId": "2005",
       "name": "passingTDs",
-      "value": 5
+      "value": 8
     },
     {
       "teamId": "2005",
@@ -8367,32 +8367,32 @@
     {
       "teamId": "2005",
       "name": "penalties",
-      "value": 43
+      "value": 46
     },
     {
       "teamId": "2005",
       "name": "penaltiesOpponent",
-      "value": 41
+      "value": 43
     },
     {
       "teamId": "2005",
       "name": "penaltyYards",
-      "value": 384
+      "value": 399
     },
     {
       "teamId": "2005",
       "name": "penaltyYardsOpponent",
-      "value": 321
+      "value": 341
     },
     {
       "teamId": "2005",
       "name": "possessionTime",
-      "value": 22060
+      "value": 24446
     },
     {
       "teamId": "2005",
       "name": "possessionTimeOpponent",
-      "value": 13935
+      "value": 15149
     },
     {
       "teamId": "2005",
@@ -8427,17 +8427,17 @@
     {
       "teamId": "2005",
       "name": "rushingAttempts",
-      "value": 641
+      "value": 705
     },
     {
       "teamId": "2005",
       "name": "rushingAttemptsOpponent",
-      "value": 285
+      "value": 308
     },
     {
       "teamId": "2005",
       "name": "rushingTDs",
-      "value": 30
+      "value": 34
     },
     {
       "teamId": "2005",
@@ -8447,17 +8447,17 @@
     {
       "teamId": "2005",
       "name": "rushingYards",
-      "value": 3440
+      "value": 3869
     },
     {
       "teamId": "2005",
       "name": "rushingYardsOpponent",
-      "value": 1290
+      "value": 1314
     },
     {
       "teamId": "2005",
       "name": "sacks",
-      "value": 13
+      "value": 16
     },
     {
       "teamId": "2005",
@@ -8467,42 +8467,42 @@
     {
       "teamId": "2005",
       "name": "tacklesForLoss",
-      "value": 33
+      "value": 40
     },
     {
       "teamId": "2005",
       "name": "tacklesForLossOpponent",
-      "value": 27
+      "value": 29
     },
     {
       "teamId": "2005",
       "name": "thirdDownConversions",
-      "value": 74
+      "value": 83
     },
     {
       "teamId": "2005",
       "name": "thirdDownConversionsOpponent",
-      "value": 37
+      "value": 40
     },
     {
       "teamId": "2005",
       "name": "thirdDowns",
-      "value": 147
+      "value": 160
     },
     {
       "teamId": "2005",
       "name": "thirdDownsOpponent",
-      "value": 110
+      "value": 121
     },
     {
       "teamId": "2005",
       "name": "totalYards",
-      "value": 3983
+      "value": 4569
     },
     {
       "teamId": "2005",
       "name": "totalYardsOpponent",
-      "value": 2887
+      "value": 3003
     },
     {
       "teamId": "2005",
@@ -8512,7 +8512,7 @@
     {
       "teamId": "2005",
       "name": "turnoversOpponent",
-      "value": 8
+      "value": 10
     },
     {
       "teamId": "2006",
@@ -14502,17 +14502,17 @@
     {
       "teamId": "228",
       "name": "firstDowns",
-      "value": 187
+      "value": 208
     },
     {
       "teamId": "228",
       "name": "firstDownsOpponent",
-      "value": 193
+      "value": 204
     },
     {
       "teamId": "228",
       "name": "fourthDownConversions",
-      "value": 10
+      "value": 12
     },
     {
       "teamId": "228",
@@ -14522,17 +14522,17 @@
     {
       "teamId": "228",
       "name": "fourthDowns",
-      "value": 18
+      "value": 20
     },
     {
       "teamId": "228",
       "name": "fourthDownsOpponent",
-      "value": 16
+      "value": 17
     },
     {
       "teamId": "228",
       "name": "fumblesLost",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "228",
@@ -14547,22 +14547,22 @@
     {
       "teamId": "228",
       "name": "fumblesRecoveredOpponent",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "228",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "228",
       "name": "interceptions",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "228",
       "name": "interceptionsOpponent",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "228",
@@ -14577,22 +14577,22 @@
     {
       "teamId": "228",
       "name": "interceptionYards",
-      "value": 35
+      "value": 37
     },
     {
       "teamId": "228",
       "name": "interceptionYardsOpponent",
-      "value": 114
+      "value": 107
     },
     {
       "teamId": "228",
       "name": "kickReturns",
-      "value": 17
+      "value": 19
     },
     {
       "teamId": "228",
       "name": "kickReturnsOpponent",
-      "value": 15
+      "value": 18
     },
     {
       "teamId": "228",
@@ -14607,52 +14607,52 @@
     {
       "teamId": "228",
       "name": "kickReturnYards",
-      "value": 406
+      "value": 444
     },
     {
       "teamId": "228",
       "name": "kickReturnYardsOpponent",
-      "value": 288
+      "value": 340
     },
     {
       "teamId": "228",
       "name": "netPassingYards",
-      "value": 1808
+      "value": 1972
     },
     {
       "teamId": "228",
       "name": "netPassingYardsOpponent",
-      "value": 2051
+      "value": 2200
     },
     {
       "teamId": "228",
       "name": "passAttempts",
-      "value": 313
+      "value": 343
     },
     {
       "teamId": "228",
       "name": "passAttemptsOpponent",
-      "value": 305
+      "value": 343
     },
     {
       "teamId": "228",
       "name": "passCompletions",
-      "value": 193
+      "value": 210
     },
     {
       "teamId": "228",
       "name": "passCompletionsOpponent",
-      "value": 172
+      "value": 188
     },
     {
       "teamId": "228",
       "name": "passesIntercepted",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "228",
       "name": "passesInterceptedOpponent",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "228",
@@ -14667,42 +14667,42 @@
     {
       "teamId": "228",
       "name": "penalties",
-      "value": 66
+      "value": 73
     },
     {
       "teamId": "228",
       "name": "penaltiesOpponent",
-      "value": 62
+      "value": 67
     },
     {
       "teamId": "228",
       "name": "penaltyYards",
-      "value": 607
+      "value": 667
     },
     {
       "teamId": "228",
       "name": "penaltyYardsOpponent",
-      "value": 545
+      "value": 578
     },
     {
       "teamId": "228",
       "name": "possessionTime",
-      "value": 17811
+      "value": 20046
     },
     {
       "teamId": "228",
       "name": "possessionTimeOpponent",
-      "value": 18189
+      "value": 19554
     },
     {
       "teamId": "228",
       "name": "puntReturns",
-      "value": 21
+      "value": 24
     },
     {
       "teamId": "228",
       "name": "puntReturnsOpponent",
-      "value": 8
+      "value": 9
     },
     {
       "teamId": "228",
@@ -14717,47 +14717,47 @@
     {
       "teamId": "228",
       "name": "puntReturnYards",
-      "value": 221
+      "value": 220
     },
     {
       "teamId": "228",
       "name": "puntReturnYardsOpponent",
-      "value": 75
+      "value": 80
     },
     {
       "teamId": "228",
       "name": "rushingAttempts",
-      "value": 375
+      "value": 426
     },
     {
       "teamId": "228",
       "name": "rushingAttemptsOpponent",
-      "value": 360
+      "value": 382
     },
     {
       "teamId": "228",
       "name": "rushingTDs",
-      "value": 11
+      "value": 13
     },
     {
       "teamId": "228",
       "name": "rushingTDsOpponent",
-      "value": 11
+      "value": 12
     },
     {
       "teamId": "228",
       "name": "rushingYards",
-      "value": 1462
+      "value": 1682
     },
     {
       "teamId": "228",
       "name": "rushingYardsOpponent",
-      "value": 1370
+      "value": 1468
     },
     {
       "teamId": "228",
       "name": "sacks",
-      "value": 27
+      "value": 29
     },
     {
       "teamId": "228",
@@ -14767,52 +14767,52 @@
     {
       "teamId": "228",
       "name": "tacklesForLoss",
-      "value": 60
+      "value": 70
     },
     {
       "teamId": "228",
       "name": "tacklesForLossOpponent",
-      "value": 79
+      "value": 87
     },
     {
       "teamId": "228",
       "name": "thirdDownConversions",
-      "value": 45
+      "value": 53
     },
     {
       "teamId": "228",
       "name": "thirdDownConversionsOpponent",
-      "value": 42
+      "value": 48
     },
     {
       "teamId": "228",
       "name": "thirdDowns",
-      "value": 151
+      "value": 169
     },
     {
       "teamId": "228",
       "name": "thirdDownsOpponent",
-      "value": 136
+      "value": 152
     },
     {
       "teamId": "228",
       "name": "totalYards",
-      "value": 3270
+      "value": 3654
     },
     {
       "teamId": "228",
       "name": "totalYardsOpponent",
-      "value": 3421
+      "value": 3668
     },
     {
       "teamId": "228",
       "name": "turnovers",
-      "value": 14
+      "value": 16
     },
     {
       "teamId": "228",
       "name": "turnoversOpponent",
-      "value": 15
+      "value": 16
     },
     {
       "teamId": "2294",
@@ -22062,12 +22062,12 @@
     {
       "teamId": "2483",
       "name": "firstDowns",
-      "value": 201
+      "value": 225
     },
     {
       "teamId": "2483",
       "name": "firstDownsOpponent",
-      "value": 178
+      "value": 191
     },
     {
       "teamId": "2483",
@@ -22087,7 +22087,7 @@
     {
       "teamId": "2483",
       "name": "fourthDownsOpponent",
-      "value": 19
+      "value": 21
     },
     {
       "teamId": "2483",
@@ -22097,12 +22097,12 @@
     {
       "teamId": "2483",
       "name": "fumblesLostOpponent",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "2483",
       "name": "fumblesRecovered",
-      "value": 5
+      "value": 6
     },
     {
       "teamId": "2483",
@@ -22112,7 +22112,7 @@
     {
       "teamId": "2483",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2483",
@@ -22122,7 +22122,7 @@
     {
       "teamId": "2483",
       "name": "interceptionsOpponent",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2483",
@@ -22137,7 +22137,7 @@
     {
       "teamId": "2483",
       "name": "interceptionYards",
-      "value": 113
+      "value": 116
     },
     {
       "teamId": "2483",
@@ -22147,12 +22147,12 @@
     {
       "teamId": "2483",
       "name": "kickReturns",
-      "value": 12
+      "value": 13
     },
     {
       "teamId": "2483",
       "name": "kickReturnsOpponent",
-      "value": 15
+      "value": 22
     },
     {
       "teamId": "2483",
@@ -22167,47 +22167,47 @@
     {
       "teamId": "2483",
       "name": "kickReturnYards",
-      "value": 229
+      "value": 244
     },
     {
       "teamId": "2483",
       "name": "kickReturnYardsOpponent",
-      "value": 223
+      "value": 356
     },
     {
       "teamId": "2483",
       "name": "netPassingYards",
-      "value": 2910
+      "value": 3144
     },
     {
       "teamId": "2483",
       "name": "netPassingYardsOpponent",
-      "value": 2095
+      "value": 2215
     },
     {
       "teamId": "2483",
       "name": "passAttempts",
-      "value": 359
+      "value": 393
     },
     {
       "teamId": "2483",
       "name": "passAttemptsOpponent",
-      "value": 318
+      "value": 341
     },
     {
       "teamId": "2483",
       "name": "passCompletions",
-      "value": 236
+      "value": 257
     },
     {
       "teamId": "2483",
       "name": "passCompletionsOpponent",
-      "value": 179
+      "value": 191
     },
     {
       "teamId": "2483",
       "name": "passesIntercepted",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2483",
@@ -22217,7 +22217,7 @@
     {
       "teamId": "2483",
       "name": "passingTDs",
-      "value": 25
+      "value": 26
     },
     {
       "teamId": "2483",
@@ -22227,42 +22227,42 @@
     {
       "teamId": "2483",
       "name": "penalties",
-      "value": 56
+      "value": 65
     },
     {
       "teamId": "2483",
       "name": "penaltiesOpponent",
-      "value": 54
+      "value": 60
     },
     {
       "teamId": "2483",
       "name": "penaltyYards",
-      "value": 487
+      "value": 562
     },
     {
       "teamId": "2483",
       "name": "penaltyYardsOpponent",
-      "value": 425
+      "value": 480
     },
     {
       "teamId": "2483",
       "name": "possessionTime",
-      "value": 17326
+      "value": 19015
     },
     {
       "teamId": "2483",
       "name": "possessionTimeOpponent",
-      "value": 18674
+      "value": 20585
     },
     {
       "teamId": "2483",
       "name": "puntReturns",
-      "value": 16
+      "value": 18
     },
     {
       "teamId": "2483",
       "name": "puntReturnsOpponent",
-      "value": 8
+      "value": 9
     },
     {
       "teamId": "2483",
@@ -22277,7 +22277,7 @@
     {
       "teamId": "2483",
       "name": "puntReturnYards",
-      "value": 111
+      "value": 118
     },
     {
       "teamId": "2483",
@@ -22287,82 +22287,82 @@
     {
       "teamId": "2483",
       "name": "rushingAttempts",
-      "value": 333
+      "value": 371
     },
     {
       "teamId": "2483",
       "name": "rushingAttemptsOpponent",
-      "value": 342
+      "value": 379
     },
     {
       "teamId": "2483",
       "name": "rushingTDs",
-      "value": 16
+      "value": 21
     },
     {
       "teamId": "2483",
       "name": "rushingTDsOpponent",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2483",
       "name": "rushingYards",
-      "value": 1341
+      "value": 1529
     },
     {
       "teamId": "2483",
       "name": "rushingYardsOpponent",
-      "value": 1338
+      "value": 1418
     },
     {
       "teamId": "2483",
       "name": "sacks",
-      "value": 22
+      "value": 23
     },
     {
       "teamId": "2483",
       "name": "sacksOpponent",
-      "value": 13
+      "value": 16
     },
     {
       "teamId": "2483",
       "name": "tacklesForLoss",
-      "value": 48
+      "value": 53
     },
     {
       "teamId": "2483",
       "name": "tacklesForLossOpponent",
-      "value": 61
+      "value": 65
     },
     {
       "teamId": "2483",
       "name": "thirdDownConversions",
-      "value": 54
+      "value": 64
     },
     {
       "teamId": "2483",
       "name": "thirdDownConversionsOpponent",
-      "value": 47
+      "value": 53
     },
     {
       "teamId": "2483",
       "name": "thirdDowns",
-      "value": 142
+      "value": 157
     },
     {
       "teamId": "2483",
       "name": "thirdDownsOpponent",
-      "value": 145
+      "value": 160
     },
     {
       "teamId": "2483",
       "name": "totalYards",
-      "value": 4251
+      "value": 4673
     },
     {
       "teamId": "2483",
       "name": "totalYardsOpponent",
-      "value": 3433
+      "value": 3633
     },
     {
       "teamId": "2483",
@@ -22372,7 +22372,7 @@
     {
       "teamId": "2483",
       "name": "turnoversOpponent",
-      "value": 15
+      "value": 17
     },
     {
       "teamId": "249",
@@ -28047,12 +28047,12 @@
     {
       "teamId": "2638",
       "name": "firstDowns",
-      "value": 142
+      "value": 148
     },
     {
       "teamId": "2638",
       "name": "firstDownsOpponent",
-      "value": 208
+      "value": 235
     },
     {
       "teamId": "2638",
@@ -28062,22 +28062,22 @@
     {
       "teamId": "2638",
       "name": "fourthDownConversionsOpponent",
-      "value": 11
+      "value": 12
     },
     {
       "teamId": "2638",
       "name": "fourthDowns",
-      "value": 24
+      "value": 25
     },
     {
       "teamId": "2638",
       "name": "fourthDownsOpponent",
-      "value": 13
+      "value": 15
     },
     {
       "teamId": "2638",
       "name": "fumblesLost",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "2638",
@@ -28092,17 +28092,17 @@
     {
       "teamId": "2638",
       "name": "fumblesRecoveredOpponent",
-      "value": 9
-    },
-    {
-      "teamId": "2638",
-      "name": "games",
       "value": 10
     },
     {
       "teamId": "2638",
+      "name": "games",
+      "value": 11
+    },
+    {
+      "teamId": "2638",
       "name": "interceptions",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "2638",
@@ -28127,7 +28127,7 @@
     {
       "teamId": "2638",
       "name": "interceptionYardsOpponent",
-      "value": 126
+      "value": 132
     },
     {
       "teamId": "2638",
@@ -28162,32 +28162,32 @@
     {
       "teamId": "2638",
       "name": "netPassingYards",
-      "value": 1350
+      "value": 1442
     },
     {
       "teamId": "2638",
       "name": "netPassingYardsOpponent",
-      "value": 2269
+      "value": 2426
     },
     {
       "teamId": "2638",
       "name": "passAttempts",
-      "value": 216
+      "value": 236
     },
     {
       "teamId": "2638",
       "name": "passAttemptsOpponent",
-      "value": 269
+      "value": 275
     },
     {
       "teamId": "2638",
       "name": "passCompletions",
-      "value": 136
+      "value": 150
     },
     {
       "teamId": "2638",
       "name": "passCompletionsOpponent",
-      "value": 180
+      "value": 184
     },
     {
       "teamId": "2638",
@@ -28197,7 +28197,7 @@
     {
       "teamId": "2638",
       "name": "passesInterceptedOpponent",
-      "value": 7
+      "value": 8
     },
     {
       "teamId": "2638",
@@ -28207,37 +28207,37 @@
     {
       "teamId": "2638",
       "name": "passingTDsOpponent",
-      "value": 18
+      "value": 21
     },
     {
       "teamId": "2638",
       "name": "penalties",
-      "value": 60
+      "value": 62
     },
     {
       "teamId": "2638",
       "name": "penaltiesOpponent",
-      "value": 63
+      "value": 66
     },
     {
       "teamId": "2638",
       "name": "penaltyYards",
-      "value": 547
+      "value": 567
     },
     {
       "teamId": "2638",
       "name": "penaltyYardsOpponent",
-      "value": 562
+      "value": 577
     },
     {
       "teamId": "2638",
       "name": "possessionTime",
-      "value": 16710
+      "value": 17924
     },
     {
       "teamId": "2638",
       "name": "possessionTimeOpponent",
-      "value": 19290
+      "value": 21676
     },
     {
       "teamId": "2638",
@@ -28272,12 +28272,12 @@
     {
       "teamId": "2638",
       "name": "rushingAttempts",
-      "value": 350
+      "value": 373
     },
     {
       "teamId": "2638",
       "name": "rushingAttemptsOpponent",
-      "value": 383
+      "value": 447
     },
     {
       "teamId": "2638",
@@ -28287,17 +28287,17 @@
     {
       "teamId": "2638",
       "name": "rushingTDsOpponent",
-      "value": 18
+      "value": 22
     },
     {
       "teamId": "2638",
       "name": "rushingYards",
-      "value": 1485
+      "value": 1509
     },
     {
       "teamId": "2638",
       "name": "rushingYardsOpponent",
-      "value": 1767
+      "value": 2196
     },
     {
       "teamId": "2638",
@@ -28307,52 +28307,52 @@
     {
       "teamId": "2638",
       "name": "sacksOpponent",
-      "value": 41
+      "value": 44
     },
     {
       "teamId": "2638",
       "name": "tacklesForLoss",
-      "value": 47
+      "value": 49
     },
     {
       "teamId": "2638",
       "name": "tacklesForLossOpponent",
-      "value": 87
+      "value": 94
     },
     {
       "teamId": "2638",
       "name": "thirdDownConversions",
-      "value": 34
+      "value": 37
     },
     {
       "teamId": "2638",
       "name": "thirdDownConversionsOpponent",
-      "value": 57
+      "value": 66
     },
     {
       "teamId": "2638",
       "name": "thirdDowns",
-      "value": 125
+      "value": 136
     },
     {
       "teamId": "2638",
       "name": "thirdDownsOpponent",
-      "value": 128
+      "value": 141
     },
     {
       "teamId": "2638",
       "name": "totalYards",
-      "value": 2835
+      "value": 2951
     },
     {
       "teamId": "2638",
       "name": "totalYardsOpponent",
-      "value": 4036
+      "value": 4622
     },
     {
       "teamId": "2638",
       "name": "turnovers",
-      "value": 16
+      "value": 18
     },
     {
       "teamId": "2638",
@@ -30882,12 +30882,12 @@
     {
       "teamId": "2751",
       "name": "firstDowns",
-      "value": 179
+      "value": 189
     },
     {
       "teamId": "2751",
       "name": "firstDownsOpponent",
-      "value": 189
+      "value": 215
     },
     {
       "teamId": "2751",
@@ -30897,7 +30897,7 @@
     {
       "teamId": "2751",
       "name": "fourthDownConversionsOpponent",
-      "value": 13
+      "value": 16
     },
     {
       "teamId": "2751",
@@ -30907,7 +30907,7 @@
     {
       "teamId": "2751",
       "name": "fourthDownsOpponent",
-      "value": 25
+      "value": 29
     },
     {
       "teamId": "2751",
@@ -30917,12 +30917,12 @@
     {
       "teamId": "2751",
       "name": "fumblesLostOpponent",
-      "value": 6
+      "value": 8
     },
     {
       "teamId": "2751",
       "name": "fumblesRecovered",
-      "value": 6
+      "value": 8
     },
     {
       "teamId": "2751",
@@ -30932,7 +30932,7 @@
     {
       "teamId": "2751",
       "name": "games",
-      "value": 10
+      "value": 11
     },
     {
       "teamId": "2751",
@@ -30972,7 +30972,7 @@
     {
       "teamId": "2751",
       "name": "kickReturnsOpponent",
-      "value": 12
+      "value": 13
     },
     {
       "teamId": "2751",
@@ -30992,37 +30992,37 @@
     {
       "teamId": "2751",
       "name": "kickReturnYardsOpponent",
-      "value": 283
+      "value": 309
     },
     {
       "teamId": "2751",
       "name": "netPassingYards",
-      "value": 1562
+      "value": 1704
     },
     {
       "teamId": "2751",
       "name": "netPassingYardsOpponent",
-      "value": 1671
+      "value": 1905
     },
     {
       "teamId": "2751",
       "name": "passAttempts",
-      "value": 214
+      "value": 237
     },
     {
       "teamId": "2751",
       "name": "passAttemptsOpponent",
-      "value": 275
+      "value": 315
     },
     {
       "teamId": "2751",
       "name": "passCompletions",
-      "value": 136
+      "value": 149
     },
     {
       "teamId": "2751",
       "name": "passCompletionsOpponent",
-      "value": 162
+      "value": 184
     },
     {
       "teamId": "2751",
@@ -31037,52 +31037,52 @@
     {
       "teamId": "2751",
       "name": "passingTDs",
-      "value": 9
+      "value": 10
     },
     {
       "teamId": "2751",
       "name": "passingTDsOpponent",
-      "value": 11
+      "value": 12
     },
     {
       "teamId": "2751",
       "name": "penalties",
-      "value": 54
+      "value": 63
     },
     {
       "teamId": "2751",
       "name": "penaltiesOpponent",
-      "value": 55
+      "value": 60
     },
     {
       "teamId": "2751",
       "name": "penaltyYards",
-      "value": 432
+      "value": 482
     },
     {
       "teamId": "2751",
       "name": "penaltyYardsOpponent",
-      "value": 465
+      "value": 515
     },
     {
       "teamId": "2751",
       "name": "possessionTime",
-      "value": 18054
+      "value": 19373
     },
     {
       "teamId": "2751",
       "name": "possessionTimeOpponent",
-      "value": 17946
+      "value": 20227
     },
     {
       "teamId": "2751",
       "name": "puntReturns",
-      "value": 18
+      "value": 19
     },
     {
       "teamId": "2751",
       "name": "puntReturnsOpponent",
-      "value": 11
+      "value": 16
     },
     {
       "teamId": "2751",
@@ -31097,92 +31097,92 @@
     {
       "teamId": "2751",
       "name": "puntReturnYards",
-      "value": 158
+      "value": 171
     },
     {
       "teamId": "2751",
       "name": "puntReturnYardsOpponent",
-      "value": 108
+      "value": 144
     },
     {
       "teamId": "2751",
       "name": "rushingAttempts",
-      "value": 379
+      "value": 404
     },
     {
       "teamId": "2751",
       "name": "rushingAttemptsOpponent",
-      "value": 391
+      "value": 431
     },
     {
       "teamId": "2751",
       "name": "rushingTDs",
-      "value": 17
-    },
-    {
-      "teamId": "2751",
-      "name": "rushingTDsOpponent",
-      "value": 13
-    },
-    {
-      "teamId": "2751",
-      "name": "rushingYards",
-      "value": 1988
-    },
-    {
-      "teamId": "2751",
-      "name": "rushingYardsOpponent",
-      "value": 1890
-    },
-    {
-      "teamId": "2751",
-      "name": "sacks",
-      "value": 26
-    },
-    {
-      "teamId": "2751",
-      "name": "sacksOpponent",
       "value": 18
     },
     {
       "teamId": "2751",
+      "name": "rushingTDsOpponent",
+      "value": 15
+    },
+    {
+      "teamId": "2751",
+      "name": "rushingYards",
+      "value": 2034
+    },
+    {
+      "teamId": "2751",
+      "name": "rushingYardsOpponent",
+      "value": 2089
+    },
+    {
+      "teamId": "2751",
+      "name": "sacks",
+      "value": 27
+    },
+    {
+      "teamId": "2751",
+      "name": "sacksOpponent",
+      "value": 21
+    },
+    {
+      "teamId": "2751",
       "name": "tacklesForLoss",
-      "value": 59
+      "value": 68
     },
     {
       "teamId": "2751",
       "name": "tacklesForLossOpponent",
-      "value": 41
+      "value": 49
     },
     {
       "teamId": "2751",
       "name": "thirdDownConversions",
-      "value": 36
+      "value": 39
     },
     {
       "teamId": "2751",
       "name": "thirdDownConversionsOpponent",
-      "value": 55
+      "value": 62
     },
     {
       "teamId": "2751",
       "name": "thirdDowns",
-      "value": 112
+      "value": 124
     },
     {
       "teamId": "2751",
       "name": "thirdDownsOpponent",
-      "value": 135
+      "value": 151
     },
     {
       "teamId": "2751",
       "name": "totalYards",
-      "value": 3550
+      "value": 3738
     },
     {
       "teamId": "2751",
       "name": "totalYardsOpponent",
-      "value": 3561
+      "value": 3994
     },
     {
       "teamId": "2751",
@@ -31192,7 +31192,7 @@
     {
       "teamId": "2751",
       "name": "turnoversOpponent",
-      "value": 11
+      "value": 13
     },
     {
       "teamId": "276",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T03:59:18.434Z",
+  "generatedAt": "2026-11-21T16:12:09.303Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -341,9 +341,9 @@
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401856869",
+          "gameId": "cfbd-401864545",
           "teamId": null,
-          "description": "UCF won by 31 points."
+          "description": "Air Force won by 49 points."
         },
         {
           "category": "ranking-mover",
