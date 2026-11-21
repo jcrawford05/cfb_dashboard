@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T03:59:22.364Z",
+  "generatedAt": "2026-11-21T03:59:18.434Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -341,9 +341,9 @@
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866469",
+          "gameId": "cfbd-401856869",
           "teamId": null,
-          "description": "Buffalo won by 19 points."
+          "description": "UCF won by 31 points."
         },
         {
           "category": "ranking-mover",

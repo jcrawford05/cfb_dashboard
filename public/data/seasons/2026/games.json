@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T03:59:22.364Z",
+  "generatedAt": "2026-11-21T03:59:18.434Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -3624,9 +3624,9 @@
       "awayId": "66",
       "homeName": "UCF",
       "awayName": "Iowa State",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 48,
+      "awayScore": 17,
+      "status": "final",
       "venue": "FBC Mortgage Stadium",
       "neutralSite": false
     },
@@ -12719,9 +12719,9 @@
       "awayId": "189",
       "homeName": "Toledo",
       "awayName": "Bowling Green",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 19,
+      "awayScore": 0,
+      "status": "final",
       "venue": "Glass Bowl",
       "neutralSite": false
     },
