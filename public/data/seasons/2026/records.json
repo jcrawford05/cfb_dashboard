@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:12:09.303Z",
+  "generatedAt": "2026-11-21T20:32:43.767Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -18,8 +18,8 @@
     },
     {
       "teamId": "107",
-      "games": 11,
-      "wins": 6,
+      "games": 12,
+      "wins": 7,
       "losses": 5,
       "ties": 0
     },
@@ -74,8 +74,8 @@
     },
     {
       "teamId": "135",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
@@ -88,8 +88,8 @@
     },
     {
       "teamId": "145",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "losses": 4,
       "ties": 0
     },
@@ -116,8 +116,8 @@
     },
     {
       "teamId": "151",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "losses": 4,
       "ties": 0
     },
@@ -375,9 +375,9 @@
     },
     {
       "teamId": "2115",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     {
@@ -410,8 +410,8 @@
     },
     {
       "teamId": "2132",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
@@ -438,8 +438,8 @@
     },
     {
       "teamId": "2184",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
@@ -508,9 +508,9 @@
     },
     {
       "teamId": "2230",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     {
@@ -529,9 +529,9 @@
     },
     {
       "teamId": "2261",
-      "games": 11,
+      "games": 12,
       "wins": 1,
-      "losses": 10,
+      "losses": 11,
       "ties": 0
     },
     {
@@ -599,8 +599,8 @@
     },
     {
       "teamId": "231",
-      "games": 11,
-      "wins": 3,
+      "games": 12,
+      "wins": 4,
       "losses": 8,
       "ties": 0
     },
@@ -676,8 +676,8 @@
     },
     {
       "teamId": "2385",
-      "games": 11,
-      "wins": 1,
+      "games": 12,
+      "wins": 2,
       "losses": 10,
       "ties": 0
     },
@@ -788,9 +788,9 @@
     },
     {
       "teamId": "2448",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     {
@@ -809,8 +809,8 @@
     },
     {
       "teamId": "2450",
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "losses": 7,
       "ties": 0
     },
@@ -872,9 +872,9 @@
     },
     {
       "teamId": "249",
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     {
@@ -900,9 +900,9 @@
     },
     {
       "teamId": "2509",
-      "games": 10,
+      "games": 11,
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     {
@@ -928,8 +928,8 @@
     },
     {
       "teamId": "2529",
-      "games": 10,
-      "wins": 4,
+      "games": 11,
+      "wins": 5,
       "losses": 6,
       "ties": 0
     },
@@ -991,8 +991,8 @@
     },
     {
       "teamId": "257",
-      "games": 11,
-      "wins": 6,
+      "games": 12,
+      "wins": 7,
       "losses": 5,
       "ties": 0
     },
@@ -1047,8 +1047,8 @@
     },
     {
       "teamId": "2619",
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "losses": 6,
       "ties": 0
     },
@@ -1166,22 +1166,22 @@
     },
     {
       "teamId": "2655",
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
     {
       "teamId": "2678",
-      "games": 11,
+      "games": 12,
       "wins": 0,
-      "losses": 11,
+      "losses": 12,
       "ties": 0
     },
     {
       "teamId": "2681",
-      "games": 11,
-      "wins": 3,
+      "games": 12,
+      "wins": 4,
       "losses": 8,
       "ties": 0
     },
@@ -1222,22 +1222,22 @@
     },
     {
       "teamId": "2729",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     {
       "teamId": "2747",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     {
       "teamId": "275",
-      "games": 10,
-      "wins": 6,
+      "games": 11,
+      "wins": 7,
       "losses": 4,
       "ties": 0
     },
@@ -1278,9 +1278,9 @@
     },
     {
       "teamId": "2771",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     {
@@ -1320,9 +1320,9 @@
     },
     {
       "teamId": "284",
-      "games": 11,
+      "games": 12,
       "wins": 4,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     {
@@ -1453,9 +1453,9 @@
     },
     {
       "teamId": "349",
-      "games": 9,
+      "games": 10,
       "wins": 5,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     {
@@ -1474,15 +1474,15 @@
     },
     {
       "teamId": "38",
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     {
       "teamId": "399",
-      "games": 11,
-      "wins": 7,
+      "games": 12,
+      "wins": 8,
       "losses": 4,
       "ties": 0
     },
@@ -1495,9 +1495,9 @@
     },
     {
       "teamId": "47",
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     {
@@ -1600,9 +1600,9 @@
     },
     {
       "teamId": "77",
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     {

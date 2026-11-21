@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:12:09.303Z",
+  "generatedAt": "2026-11-21T20:32:43.767Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -68,6 +68,14 @@
       "value": 2992
     },
     {
+      "playerId": "4911529",
+      "name": "Trinidad Chambliss",
+      "teamId": "145",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 2853
+    },
+    {
       "playerId": "5165807",
       "name": "Marcus Stokes",
       "teamId": "235",
@@ -84,14 +92,6 @@
       "value": 2836
     },
     {
-      "playerId": "5078810",
-      "name": "Sam Leavitt",
-      "teamId": "99",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2795
-    },
-    {
       "playerId": "5219258",
       "name": "Aiden Flora",
       "teamId": "66",
@@ -106,6 +106,14 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1436
+    },
+    {
+      "playerId": "4911971",
+      "name": "Jahiem White",
+      "teamId": "249",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1362
     },
     {
       "playerId": "5151369",
@@ -130,14 +138,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1225
-    },
-    {
-      "playerId": "4911971",
-      "name": "Jahiem White",
-      "teamId": "249",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1214
     },
     {
       "playerId": "5258016",
@@ -196,6 +196,14 @@
       "value": 1045
     },
     {
+      "playerId": "5189530",
+      "name": "Joseph Williams",
+      "teamId": "38",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1045
+    },
+    {
       "playerId": "5153074",
       "name": "Carlos Hernandez",
       "teamId": "154",
@@ -242,14 +250,6 @@
       "category": "receiving",
       "stat": "YDS",
       "value": 950
-    },
-    {
-      "playerId": "4923226",
-      "name": "Collin Dixon",
-      "teamId": "356",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 941
     }
   ]
 }

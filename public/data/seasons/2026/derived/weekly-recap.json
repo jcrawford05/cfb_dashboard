@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:12:09.303Z",
+  "generatedAt": "2026-11-21T20:32:43.767Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -335,9 +335,9 @@
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401866467",
+          "gameId": "cfbd-401856749",
           "teamId": null,
-          "description": "Akron and Massachusetts combined for 67 points."
+          "description": "Wofford and Ole Miss combined for 76 points."
         },
         {
           "category": "largest-margin",

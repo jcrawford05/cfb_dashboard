@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T16:12:09.303Z",
+  "generatedAt": "2026-11-21T20:32:43.767Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -275,7 +275,7 @@
       "averageMargin": -11.4,
       "averagePointsFor": 13.4,
       "averagePointsAgainst": 24.8,
-      "opponentWinPercentage": 0.67
+      "opponentWinPercentage": 0.66
     },
     {
       "teamId": "13",
@@ -344,6 +344,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401858530",
+          "opponentId": "77",
+          "outcome": "W",
+          "pointsFor": 20,
+          "pointsAgainst": 17
+        },
+        {
           "gameId": "cfbd-401858524",
           "opponentId": "213",
           "outcome": "L",
@@ -370,19 +377,12 @@
           "outcome": "W",
           "pointsFor": 13,
           "pointsAgainst": 10
-        },
-        {
-          "gameId": "cfbd-401858486",
-          "opponentId": "2509",
-          "outcome": "L",
-          "pointsFor": 13,
-          "pointsAgainst": 41
         }
       ],
-      "averageMargin": -14.8,
-      "averagePointsFor": 15.2,
-      "averagePointsAgainst": 30,
-      "opponentWinPercentage": 0.71
+      "averageMargin": -8.6,
+      "averagePointsFor": 16.6,
+      "averagePointsAgainst": 25.2,
+      "opponentWinPercentage": 0.79
     },
     {
       "teamId": "142",
@@ -427,12 +427,19 @@
       "averageMargin": -4.8,
       "averagePointsFor": 21,
       "averagePointsAgainst": 25.8,
-      "opponentWinPercentage": 0.62
+      "opponentWinPercentage": 0.63
     },
     {
       "teamId": "145",
       "sampleSize": 5,
       "results": [
+        {
+          "gameId": "cfbd-401856749",
+          "opponentId": "2747",
+          "outcome": "W",
+          "pointsFor": 59,
+          "pointsAgainst": 17
+        },
         {
           "gameId": "cfbd-401856887",
           "opponentId": "201",
@@ -460,19 +467,12 @@
           "outcome": "L",
           "pointsFor": 27,
           "pointsAgainst": 34
-        },
-        {
-          "gameId": "cfbd-401856721",
-          "opponentId": "142",
-          "outcome": "W",
-          "pointsFor": 31,
-          "pointsAgainst": 3
         }
       ],
-      "averageMargin": 1.8,
-      "averagePointsFor": 25.4,
-      "averagePointsAgainst": 23.6,
-      "opponentWinPercentage": 0.71
+      "averageMargin": 4.6,
+      "averagePointsFor": 31,
+      "averagePointsAgainst": 26.4,
+      "opponentWinPercentage": 0.67
     },
     {
       "teamId": "147",
@@ -558,6 +558,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401862831",
+          "opponentId": "349",
+          "outcome": "W",
+          "pointsFor": 10,
+          "pointsAgainst": 6
+        },
+        {
           "gameId": "cfbd-401862825",
           "opponentId": "2429",
           "outcome": "W",
@@ -584,18 +591,11 @@
           "outcome": "L",
           "pointsFor": 34,
           "pointsAgainst": 41
-        },
-        {
-          "gameId": "cfbd-401862800",
-          "opponentId": "5",
-          "outcome": "L",
-          "pointsFor": 17,
-          "pointsAgainst": 30
         }
       ],
-      "averageMargin": -1.6,
-      "averagePointsFor": 21,
-      "averagePointsAgainst": 22.6,
+      "averageMargin": 1.8,
+      "averagePointsFor": 19.6,
+      "averagePointsAgainst": 17.8,
       "opponentWinPercentage": 0.46
     },
     {
@@ -731,7 +731,7 @@
       "averageMargin": 44.2,
       "averagePointsFor": 51.2,
       "averagePointsAgainst": 7,
-      "opponentWinPercentage": 0.52
+      "opponentWinPercentage": 0.51
     },
     {
       "teamId": "155",
@@ -1170,7 +1170,7 @@
       "averageMargin": 3.4,
       "averagePointsFor": 27.6,
       "averagePointsAgainst": 24.2,
-      "opponentWinPercentage": 0.7
+      "opponentWinPercentage": 0.68
     },
     {
       "teamId": "195",
@@ -1260,7 +1260,7 @@
       "averageMargin": 8.2,
       "averagePointsFor": 46.2,
       "averagePointsAgainst": 38,
-      "opponentWinPercentage": 0.57
+      "opponentWinPercentage": 0.56
     },
     {
       "teamId": "2",
@@ -1305,7 +1305,7 @@
       "averageMargin": -2.6,
       "averagePointsFor": 25.2,
       "averagePointsAgainst": 27.8,
-      "opponentWinPercentage": 0.6
+      "opponentWinPercentage": 0.61
     },
     {
       "teamId": "2000",
@@ -1367,7 +1367,7 @@
       "averageMargin": 13.6,
       "averagePointsFor": 29.8,
       "averagePointsAgainst": 16.2,
-      "opponentWinPercentage": 0.48
+      "opponentWinPercentage": 0.46
     },
     {
       "teamId": "2006",
@@ -1457,7 +1457,7 @@
       "averageMargin": 1.2,
       "averagePointsFor": 21.6,
       "averagePointsAgainst": 20.4,
-      "opponentWinPercentage": 0.6
+      "opponentWinPercentage": 0.61
     },
     {
       "teamId": "2011",
@@ -2084,12 +2084,19 @@
       "averageMargin": 6.8,
       "averagePointsFor": 28.4,
       "averagePointsAgainst": 21.6,
-      "opponentWinPercentage": 0.53
+      "opponentWinPercentage": 0.54
     },
     {
       "teamId": "2132",
       "sampleSize": 5,
       "results": [
+        {
+          "gameId": "cfbd-401856867",
+          "opponentId": "38",
+          "outcome": "W",
+          "pointsFor": 35,
+          "pointsAgainst": 28
+        },
         {
           "gameId": "cfbd-401856859",
           "opponentId": "66",
@@ -2117,19 +2124,12 @@
           "outcome": "W",
           "pointsFor": 37,
           "pointsAgainst": 24
-        },
-        {
-          "gameId": "cfbd-401856829",
-          "opponentId": "277",
-          "outcome": "L",
-          "pointsFor": 42,
-          "pointsAgainst": 45
         }
       ],
-      "averageMargin": -9.8,
-      "averagePointsFor": 28.2,
-      "averagePointsAgainst": 38,
-      "opponentWinPercentage": 0.7
+      "averageMargin": -7.8,
+      "averagePointsFor": 26.8,
+      "averagePointsAgainst": 34.6,
+      "opponentWinPercentage": 0.69
     },
     {
       "teamId": "2142",
@@ -2208,7 +2208,7 @@
       "averageMargin": -10.4,
       "averagePointsFor": 22.4,
       "averagePointsAgainst": 32.8,
-      "opponentWinPercentage": 0.29
+      "opponentWinPercentage": 0.3
     },
     {
       "teamId": "2184",
@@ -2266,7 +2266,7 @@
       "averageMargin": -52,
       "averagePointsFor": 7,
       "averagePointsAgainst": 59,
-      "opponentWinPercentage": 0.44
+      "opponentWinPercentage": 0.5
     },
     {
       "teamId": "2198",
@@ -2452,7 +2452,7 @@
       "averageMargin": -4.6,
       "averagePointsFor": 39.4,
       "averagePointsAgainst": 44,
-      "opponentWinPercentage": 0.56
+      "opponentWinPercentage": 0.54
     },
     {
       "teamId": "2229",
@@ -2648,7 +2648,7 @@
       "averageMargin": -38.5,
       "averagePointsFor": 8.5,
       "averagePointsAgainst": 47,
-      "opponentWinPercentage": 0.38
+      "opponentWinPercentage": 0.35
     },
     {
       "teamId": "228",
@@ -2755,7 +2755,7 @@
       "averageMargin": 15.8,
       "averagePointsFor": 26.6,
       "averagePointsAgainst": 10.8,
-      "opponentWinPercentage": 0.56
+      "opponentWinPercentage": 0.55
     },
     {
       "teamId": "23",
@@ -2890,7 +2890,7 @@
       "averageMargin": -10.2,
       "averagePointsFor": 22.8,
       "averagePointsAgainst": 33,
-      "opponentWinPercentage": 0.47
+      "opponentWinPercentage": 0.46
     },
     {
       "teamId": "2309",
@@ -3145,7 +3145,7 @@
       "averageMargin": 11.2,
       "averagePointsFor": 39.4,
       "averagePointsAgainst": 28.2,
-      "opponentWinPercentage": 0.61
+      "opponentWinPercentage": 0.62
     },
     {
       "teamId": "236",
@@ -3585,7 +3585,7 @@
       "averageMargin": -4.2,
       "averagePointsFor": 32.4,
       "averagePointsAgainst": 36.6,
-      "opponentWinPercentage": 0.64
+      "opponentWinPercentage": 0.63
     },
     {
       "teamId": "2428",
@@ -3602,7 +3602,7 @@
       "averageMargin": -33,
       "averagePointsFor": 9,
       "averagePointsAgainst": 42,
-      "opponentWinPercentage": 0.56
+      "opponentWinPercentage": 0.6
     },
     {
       "teamId": "2429",
@@ -3647,7 +3647,7 @@
       "averageMargin": -10.4,
       "averagePointsFor": 21.4,
       "averagePointsAgainst": 31.8,
-      "opponentWinPercentage": 0.48
+      "opponentWinPercentage": 0.49
     },
     {
       "teamId": "2433",
@@ -4157,12 +4157,19 @@
       "averageMargin": 14.4,
       "averagePointsFor": 32.2,
       "averagePointsAgainst": 17.8,
-      "opponentWinPercentage": 0.57
+      "opponentWinPercentage": 0.56
     },
     {
       "teamId": "249",
       "sampleSize": 5,
       "results": [
+        {
+          "gameId": "cfbd-401862835",
+          "opponentId": "2655",
+          "outcome": "L",
+          "pointsFor": 24,
+          "pointsAgainst": 28
+        },
         {
           "gameId": "cfbd-401862827",
           "opponentId": "2636",
@@ -4190,19 +4197,12 @@
           "outcome": "W",
           "pointsFor": 49,
           "pointsAgainst": 39
-        },
-        {
-          "gameId": "cfbd-401862796",
-          "opponentId": "2429",
-          "outcome": "W",
-          "pointsFor": 50,
-          "pointsAgainst": 10
         }
       ],
-      "averageMargin": 13.4,
-      "averagePointsFor": 43,
-      "averagePointsAgainst": 29.6,
-      "opponentWinPercentage": 0.43
+      "averageMargin": 4.6,
+      "averagePointsFor": 37.8,
+      "averagePointsAgainst": 33.2,
+      "opponentWinPercentage": 0.5
     },
     {
       "teamId": "25",
@@ -4295,6 +4295,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401858533",
+          "opponentId": "275",
+          "outcome": "L",
+          "pointsFor": 10,
+          "pointsAgainst": 42
+        },
+        {
           "gameId": "cfbd-401858519",
           "opponentId": "2294",
           "outcome": "L",
@@ -4321,18 +4328,11 @@
           "outcome": "L",
           "pointsFor": 26,
           "pointsAgainst": 38
-        },
-        {
-          "gameId": "cfbd-401858486",
-          "opponentId": "135",
-          "outcome": "W",
-          "pointsFor": 41,
-          "pointsAgainst": 13
         }
       ],
-      "averageMargin": -4.8,
-      "averagePointsFor": 24,
-      "averagePointsAgainst": 28.8,
+      "averageMargin": -16.8,
+      "averagePointsFor": 17.8,
+      "averagePointsAgainst": 34.6,
       "opponentWinPercentage": 0.56
     },
     {
@@ -4378,7 +4378,7 @@
       "averageMargin": 9.4,
       "averagePointsFor": 29,
       "averagePointsAgainst": 19.6,
-      "opponentWinPercentage": 0.6
+      "opponentWinPercentage": 0.61
     },
     {
       "teamId": "252",
@@ -4753,7 +4753,7 @@
       "averageMargin": -16,
       "averagePointsFor": 18,
       "averagePointsAgainst": 34,
-      "opponentWinPercentage": 0.56
+      "opponentWinPercentage": 0.5
     },
     {
       "teamId": "2572",
@@ -4995,7 +4995,7 @@
       "averageMargin": 15.4,
       "averagePointsFor": 25.6,
       "averagePointsAgainst": 10.2,
-      "opponentWinPercentage": 0.53
+      "opponentWinPercentage": 0.54
     },
     {
       "teamId": "2619",
@@ -5259,7 +5259,7 @@
       "averageMargin": 4.4,
       "averagePointsFor": 35,
       "averagePointsAgainst": 30.6,
-      "opponentWinPercentage": 0.59
+      "opponentWinPercentage": 0.58
     },
     {
       "teamId": "2638",
@@ -5349,7 +5349,7 @@
       "averageMargin": 1.2,
       "averagePointsFor": 25,
       "averagePointsAgainst": 23.8,
-      "opponentWinPercentage": 0.53
+      "opponentWinPercentage": 0.52
     },
     {
       "teamId": "2640",
@@ -5418,7 +5418,7 @@
       "averageMargin": 10.6,
       "averagePointsFor": 43.2,
       "averagePointsAgainst": 32.6,
-      "opponentWinPercentage": 0.62
+      "opponentWinPercentage": 0.63
     },
     {
       "teamId": "2643",
@@ -5584,6 +5584,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401862835",
+          "opponentId": "249",
+          "outcome": "W",
+          "pointsFor": 28,
+          "pointsAgainst": 24
+        },
+        {
           "gameId": "cfbd-401862828",
           "opponentId": "242",
           "outcome": "W",
@@ -5610,19 +5617,12 @@
           "outcome": "L",
           "pointsFor": 19,
           "pointsAgainst": 42
-        },
-        {
-          "gameId": "cfbd-401862801",
-          "opponentId": "235",
-          "outcome": "W",
-          "pointsFor": 31,
-          "pointsAgainst": 17
         }
       ],
-      "averageMargin": -9.8,
-      "averagePointsFor": 23.6,
-      "averagePointsAgainst": 33.4,
-      "opponentWinPercentage": 0.51
+      "averageMargin": -11.8,
+      "averagePointsFor": 23,
+      "averagePointsAgainst": 34.8,
+      "opponentWinPercentage": 0.47
     },
     {
       "teamId": "2678",
@@ -5680,7 +5680,7 @@
       "averageMargin": -31,
       "averagePointsFor": 21,
       "averagePointsAgainst": 52,
-      "opponentWinPercentage": 0.33
+      "opponentWinPercentage": 0.3
     },
     {
       "teamId": "2698",
@@ -5721,7 +5721,7 @@
       "averageMargin": -27,
       "averagePointsFor": 9,
       "averagePointsAgainst": 36,
-      "opponentWinPercentage": 0.56
+      "opponentWinPercentage": 0.6
     },
     {
       "teamId": "2711",
@@ -5783,7 +5783,7 @@
       "averageMargin": -52,
       "averagePointsFor": 10,
       "averagePointsAgainst": 62,
-      "opponentWinPercentage": 0.44
+      "opponentWinPercentage": 0.5
     },
     {
       "teamId": "2729",
@@ -5804,8 +5804,15 @@
     },
     {
       "teamId": "2747",
-      "sampleSize": 1,
+      "sampleSize": 2,
       "results": [
+        {
+          "gameId": "cfbd-401856749",
+          "opponentId": "145",
+          "outcome": "L",
+          "pointsFor": 17,
+          "pointsAgainst": 59
+        },
         {
           "gameId": "cfbd-401866416",
           "opponentId": "2309",
@@ -5814,15 +5821,22 @@
           "pointsAgainst": 36
         }
       ],
-      "averageMargin": -21,
-      "averagePointsFor": 15,
-      "averagePointsAgainst": 36,
-      "opponentWinPercentage": 0.2
+      "averageMargin": -31.5,
+      "averagePointsFor": 16,
+      "averagePointsAgainst": 47.5,
+      "opponentWinPercentage": 0.4
     },
     {
       "teamId": "275",
       "sampleSize": 5,
       "results": [
+        {
+          "gameId": "cfbd-401858533",
+          "opponentId": "2509",
+          "outcome": "W",
+          "pointsFor": 42,
+          "pointsAgainst": 10
+        },
         {
           "gameId": "cfbd-401858520",
           "opponentId": "120",
@@ -5850,19 +5864,12 @@
           "outcome": "W",
           "pointsFor": 24,
           "pointsAgainst": 7
-        },
-        {
-          "gameId": "cfbd-401858494",
-          "opponentId": "26",
-          "outcome": "L",
-          "pointsFor": 7,
-          "pointsAgainst": 17
         }
       ],
-      "averageMargin": -1,
-      "averagePointsFor": 16.6,
-      "averagePointsAgainst": 17.6,
-      "opponentWinPercentage": 0.62
+      "averageMargin": 7.4,
+      "averagePointsFor": 23.6,
+      "averagePointsAgainst": 16.2,
+      "opponentWinPercentage": 0.48
     },
     {
       "teamId": "2751",
@@ -6031,7 +6038,7 @@
       "averageMargin": -8.4,
       "averagePointsFor": 32.4,
       "averagePointsAgainst": 40.8,
-      "opponentWinPercentage": 0.6
+      "opponentWinPercentage": 0.61
     },
     {
       "teamId": "2771",
@@ -6117,7 +6124,7 @@
       "averageMargin": -56,
       "averagePointsFor": 3,
       "averagePointsAgainst": 59,
-      "opponentWinPercentage": 0.5
+      "opponentWinPercentage": 0.44
     },
     {
       "teamId": "2815",
@@ -6158,7 +6165,7 @@
       "averageMargin": -25,
       "averagePointsFor": 19,
       "averagePointsAgainst": 44,
-      "opponentWinPercentage": 0.22
+      "opponentWinPercentage": 0.2
     },
     {
       "teamId": "2837",
@@ -6368,7 +6375,7 @@
       "averageMargin": -1.4,
       "averagePointsFor": 21.2,
       "averagePointsAgainst": 22.6,
-      "opponentWinPercentage": 0.71
+      "opponentWinPercentage": 0.72
     },
     {
       "teamId": "302",
@@ -6799,6 +6806,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401862831",
+          "opponentId": "151",
+          "outcome": "L",
+          "pointsFor": 6,
+          "pointsAgainst": 10
+        },
+        {
           "gameId": "cfbd-401862823",
           "opponentId": "2005",
           "outcome": "L",
@@ -6825,19 +6839,12 @@
           "outcome": "W",
           "pointsFor": 56,
           "pointsAgainst": 24
-        },
-        {
-          "gameId": "cfbd-401862795",
-          "opponentId": "2655",
-          "outcome": "W",
-          "pointsFor": 20,
-          "pointsAgainst": 17
         }
       ],
-      "averageMargin": 1.6,
-      "averagePointsFor": 31.4,
-      "averagePointsAgainst": 29.8,
-      "opponentWinPercentage": 0.69
+      "averageMargin": 0.2,
+      "averagePointsFor": 28.6,
+      "averagePointsAgainst": 28.4,
+      "opponentWinPercentage": 0.7
     },
     {
       "teamId": "356",
@@ -6934,6 +6941,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401856867",
+          "opponentId": "2132",
+          "outcome": "L",
+          "pointsFor": 28,
+          "pointsAgainst": 35
+        },
+        {
           "gameId": "cfbd-401856860",
           "opponentId": "248",
           "outcome": "W",
@@ -6960,19 +6974,12 @@
           "outcome": "L",
           "pointsFor": 24,
           "pointsAgainst": 57
-        },
-        {
-          "gameId": "cfbd-401856833",
-          "opponentId": "254",
-          "outcome": "L",
-          "pointsFor": 24,
-          "pointsAgainst": 27
         }
       ],
-      "averageMargin": -6.6,
-      "averagePointsFor": 25.4,
-      "averagePointsAgainst": 32,
-      "opponentWinPercentage": 0.67
+      "averageMargin": -7.4,
+      "averagePointsFor": 26.2,
+      "averagePointsAgainst": 33.6,
+      "opponentWinPercentage": 0.57
     },
     {
       "teamId": "399",
@@ -7148,7 +7155,7 @@
       "averageMargin": 1,
       "averagePointsFor": 22.4,
       "averagePointsAgainst": 21.4,
-      "opponentWinPercentage": 0.46
+      "opponentWinPercentage": 0.47
     },
     {
       "teamId": "50",
@@ -7480,7 +7487,7 @@
       "averageMargin": 16.2,
       "averagePointsFor": 32.2,
       "averagePointsAgainst": 16,
-      "opponentWinPercentage": 0.69
+      "opponentWinPercentage": 0.7
     },
     {
       "teamId": "62",
@@ -7570,7 +7577,7 @@
       "averageMargin": -9.6,
       "averagePointsFor": 28.6,
       "averagePointsAgainst": 38.2,
-      "opponentWinPercentage": 0.59
+      "opponentWinPercentage": 0.6
     },
     {
       "teamId": "68",
@@ -7639,6 +7646,13 @@
       "sampleSize": 5,
       "results": [
         {
+          "gameId": "cfbd-401858530",
+          "opponentId": "135",
+          "outcome": "L",
+          "pointsFor": 17,
+          "pointsAgainst": 20
+        },
+        {
           "gameId": "cfbd-401858522",
           "opponentId": "194",
           "outcome": "L",
@@ -7665,19 +7679,12 @@
           "outcome": "W",
           "pointsFor": 42,
           "pointsAgainst": 14
-        },
-        {
-          "gameId": "cfbd-401858491",
-          "opponentId": "127",
-          "outcome": "W",
-          "pointsFor": 24,
-          "pointsAgainst": 21
         }
       ],
-      "averageMargin": 0,
-      "averagePointsFor": 24.2,
-      "averagePointsAgainst": 24.2,
-      "opponentWinPercentage": 0.53
+      "averageMargin": -1.2,
+      "averagePointsFor": 22.8,
+      "averagePointsAgainst": 24,
+      "opponentWinPercentage": 0.57
     },
     {
       "teamId": "79",
@@ -7784,7 +7791,7 @@
       "averageMargin": 5.4,
       "averagePointsFor": 19.6,
       "averagePointsAgainst": 14.2,
-      "opponentWinPercentage": 0.64
+      "opponentWinPercentage": 0.65
     },
     {
       "teamId": "87",
@@ -7874,7 +7881,7 @@
       "averageMargin": -0.2,
       "averagePointsFor": 23.8,
       "averagePointsAgainst": 24,
-      "opponentWinPercentage": 0.63
+      "opponentWinPercentage": 0.62
     },
     {
       "teamId": "93",
