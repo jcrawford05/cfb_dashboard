@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T20:32:43.767Z",
+  "generatedAt": "2026-11-22T03:12:21.805Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -14,7 +14,7 @@
     ],
     "coverage": "FBS",
     "requestCount": 7,
-    "contentHash": "ea94b6b85aa4a5eda4ad1e02b86cac9ed62ca09de746471c828418547deaca86",
+    "contentHash": "c2e6454ef0057a5bda5b764f87f6a9224c1655c4e7b519dc5ddb59bdffd2738b",
     "files": [
       "conferences.json",
       "seasons/2026/derived/playoff-picture.json",

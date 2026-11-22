@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T20:32:43.767Z",
+  "generatedAt": "2026-11-22T03:12:21.805Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -11,6 +11,14 @@
     "Top 10 per category: passing, rushing, receiving yards. No rate-stat leaders."
   ],
   "data": [
+    {
+      "playerId": "4869991",
+      "name": "Caden Veltkamp",
+      "teamId": "2226",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3470
+    },
     {
       "playerId": "5219834",
       "name": "Drew Mestemaker",
@@ -36,20 +44,36 @@
       "value": 3133
     },
     {
-      "playerId": "4869991",
-      "name": "Caden Veltkamp",
-      "teamId": "2226",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 3084
-    },
-    {
       "playerId": "5121169",
       "name": "Darian Mensah",
       "teamId": "2390",
       "category": "passing",
       "stat": "YDS",
       "value": 3083
+    },
+    {
+      "playerId": "4685454",
+      "name": "Jayden Maiava",
+      "teamId": "30",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3073
+    },
+    {
+      "playerId": "5165807",
+      "name": "Marcus Stokes",
+      "teamId": "235",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3038
+    },
+    {
+      "playerId": "5078810",
+      "name": "Sam Leavitt",
+      "teamId": "99",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3017
     },
     {
       "playerId": "4801307",
@@ -68,30 +92,6 @@
       "value": 2992
     },
     {
-      "playerId": "4911529",
-      "name": "Trinidad Chambliss",
-      "teamId": "145",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2853
-    },
-    {
-      "playerId": "5165807",
-      "name": "Marcus Stokes",
-      "teamId": "235",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2845
-    },
-    {
-      "playerId": "4685454",
-      "name": "Jayden Maiava",
-      "teamId": "30",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2836
-    },
-    {
       "playerId": "5219258",
       "name": "Aiden Flora",
       "teamId": "66",
@@ -106,6 +106,22 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1436
+    },
+    {
+      "playerId": "5220473",
+      "name": "Jackson Gutierrez",
+      "teamId": "2426",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1403
+    },
+    {
+      "playerId": "5088888",
+      "name": "Torrance Burgess Jr.",
+      "teamId": "326",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1371
     },
     {
       "playerId": "4911971",
@@ -132,20 +148,12 @@
       "value": 1291
     },
     {
-      "playerId": "5088888",
-      "name": "Torrance Burgess Jr.",
-      "teamId": "326",
+      "playerId": "5222671",
+      "name": "Jaylin Carter",
+      "teamId": "235",
       "category": "rushing",
       "stat": "YDS",
-      "value": 1225
-    },
-    {
-      "playerId": "5258016",
-      "name": "Caleb Hawkins",
-      "teamId": "197",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1172
+      "value": 1267
     },
     {
       "playerId": "4921108",
@@ -153,23 +161,23 @@
       "teamId": "2633",
       "category": "rushing",
       "stat": "YDS",
-      "value": 1163
+      "value": 1232
     },
     {
-      "playerId": "5220473",
-      "name": "Jackson Gutierrez",
-      "teamId": "2426",
+      "playerId": "4918103",
+      "name": "Cam Cook",
+      "teamId": "277",
       "category": "rushing",
       "stat": "YDS",
-      "value": 1162
+      "value": 1215
     },
     {
-      "playerId": "4921116",
-      "name": "Jamal Roberts",
-      "teamId": "142",
-      "category": "rushing",
+      "playerId": "5079720",
+      "name": "Jeremiah Smith",
+      "teamId": "194",
+      "category": "receiving",
       "stat": "YDS",
-      "value": 1133
+      "value": 1482
     },
     {
       "playerId": "5289510",
@@ -180,20 +188,52 @@
       "value": 1349
     },
     {
-      "playerId": "5079720",
-      "name": "Jeremiah Smith",
-      "teamId": "194",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 1317
-    },
-    {
       "playerId": "4691315",
       "name": "Umari Hatcher",
       "teamId": "183",
       "category": "receiving",
       "stat": "YDS",
-      "value": 1045
+      "value": 1257
+    },
+    {
+      "playerId": "5153074",
+      "name": "Carlos Hernandez",
+      "teamId": "154",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1184
+    },
+    {
+      "playerId": "5146735",
+      "name": "Charlie Becker",
+      "teamId": "84",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1117
+    },
+    {
+      "playerId": "4914830",
+      "name": "Easton Messer",
+      "teamId": "2226",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1090
+    },
+    {
+      "playerId": "4923226",
+      "name": "Collin Dixon",
+      "teamId": "356",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1083
+    },
+    {
+      "playerId": "5219476",
+      "name": "Isaiah Myers",
+      "teamId": "2623",
+      "category": "receiving",
+      "stat": "YDS",
+      "value": 1064
     },
     {
       "playerId": "5189530",
@@ -204,52 +244,12 @@
       "value": 1045
     },
     {
-      "playerId": "5153074",
-      "name": "Carlos Hernandez",
-      "teamId": "154",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 1039
-    },
-    {
-      "playerId": "5219476",
-      "name": "Isaiah Myers",
-      "teamId": "2623",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 1029
-    },
-    {
-      "playerId": "5159175",
-      "name": "Malachi Toney",
-      "teamId": "2390",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 1027
-    },
-    {
-      "playerId": "4914830",
-      "name": "Easton Messer",
+      "playerId": "4920163",
+      "name": "Kelby Valsin",
       "teamId": "2226",
       "category": "receiving",
       "stat": "YDS",
-      "value": 1026
-    },
-    {
-      "playerId": "5031157",
-      "name": "Reed Harris",
-      "teamId": "9",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 987
-    },
-    {
-      "playerId": "5146735",
-      "name": "Charlie Becker",
-      "teamId": "84",
-      "category": "receiving",
-      "stat": "YDS",
-      "value": 950
+      "value": 1035
     }
   ]
 }
