@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T16:20:24.661Z",
+  "generatedAt": "2026-11-23T20:17:12.128Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -350,12 +350,17 @@
           "gameId": "cfbd-401864545",
           "teamId": null,
           "description": "Air Force won by 49 points."
-        },
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "cards": [
         {
           "category": "ranking-mover",
           "gameId": null,
-          "teamId": "194",
-          "description": "Ohio State moved up 5 places in the AP Top 25."
+          "teamId": "251",
+          "description": "Texas moved up 3 places in the AP Top 25."
         }
       ]
     }

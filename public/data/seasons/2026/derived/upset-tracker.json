@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T16:20:24.661Z",
+  "generatedAt": "2026-11-23T20:17:12.128Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -259,7 +259,7 @@
       "challengerId": "245",
       "rankedTeamId": "251",
       "winnerPregameRank": null,
-      "loserPregameRank": 8,
+      "loserPregameRank": 5,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -273,7 +273,7 @@
       "challengerId": "2",
       "rankedTeamId": "333",
       "winnerPregameRank": null,
-      "loserPregameRank": 7,
+      "loserPregameRank": 6,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -287,7 +287,7 @@
       "challengerId": "52",
       "rankedTeamId": "57",
       "winnerPregameRank": null,
-      "loserPregameRank": 23,
+      "loserPregameRank": 20,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -312,12 +312,12 @@
       "state": "watch",
       "winnerId": null,
       "loserId": null,
-      "challengerId": "97",
-      "rankedTeamId": "96",
+      "challengerId": "96",
+      "rankedTeamId": "97",
       "winnerPregameRank": null,
-      "loserPregameRank": 17,
-      "rankGap": 4,
-      "trigger": "lower-ranked-over-higher-ranked"
+      "loserPregameRank": 18,
+      "rankGap": null,
+      "trigger": "unranked-over-ranked"
     },
     {
       "gameId": "cfbd-401856762",
@@ -329,9 +329,23 @@
       "challengerId": "344",
       "rankedTeamId": "145",
       "winnerPregameRank": null,
-      "loserPregameRank": 25,
+      "loserPregameRank": 23,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
+    },
+    {
+      "gameId": "cfbd-401856763",
+      "week": 13,
+      "seasonType": "regular",
+      "state": "watch",
+      "winnerId": null,
+      "loserId": null,
+      "challengerId": "142",
+      "rankedTeamId": "201",
+      "winnerPregameRank": null,
+      "loserPregameRank": 19,
+      "rankGap": 5,
+      "trigger": "lower-ranked-over-higher-ranked"
     },
     {
       "gameId": "cfbd-401856765",
@@ -343,7 +357,7 @@
       "challengerId": "238",
       "rankedTeamId": "2633",
       "winnerPregameRank": null,
-      "loserPregameRank": 9,
+      "loserPregameRank": 7,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -455,7 +469,7 @@
       "challengerId": "9",
       "rankedTeamId": "12",
       "winnerPregameRank": null,
-      "loserPregameRank": 19,
+      "loserPregameRank": 16,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -469,7 +483,7 @@
       "challengerId": "239",
       "rankedTeamId": "248",
       "winnerPregameRank": null,
-      "loserPregameRank": 20,
+      "loserPregameRank": 17,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -483,7 +497,7 @@
       "challengerId": "2132",
       "rankedTeamId": "252",
       "winnerPregameRank": null,
-      "loserPregameRank": 12,
+      "loserPregameRank": 11,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -497,7 +511,7 @@
       "challengerId": "2628",
       "rankedTeamId": "2641",
       "winnerPregameRank": null,
-      "loserPregameRank": 11,
+      "loserPregameRank": 9,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -651,7 +665,7 @@
       "challengerId": "103",
       "rankedTeamId": "2390",
       "winnerPregameRank": null,
-      "loserPregameRank": 5,
+      "loserPregameRank": 4,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -665,7 +679,7 @@
       "challengerId": "150",
       "rankedTeamId": "154",
       "winnerPregameRank": null,
-      "loserPregameRank": 10,
+      "loserPregameRank": 8,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -693,8 +707,8 @@
       "challengerId": "154",
       "rankedTeamId": "2390",
       "winnerPregameRank": null,
-      "loserPregameRank": 5,
-      "rankGap": 5,
+      "loserPregameRank": 4,
+      "rankGap": 4,
       "trigger": "lower-ranked-over-higher-ranked"
     },
     {
@@ -917,7 +931,7 @@
       "challengerId": "2509",
       "rankedTeamId": "84",
       "winnerPregameRank": null,
-      "loserPregameRank": 6,
+      "loserPregameRank": 12,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -931,7 +945,7 @@
       "challengerId": "130",
       "rankedTeamId": "194",
       "winnerPregameRank": null,
-      "loserPregameRank": 16,
+      "loserPregameRank": 25,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -959,8 +973,8 @@
       "challengerId": "30",
       "rankedTeamId": "26",
       "winnerPregameRank": null,
-      "loserPregameRank": 4,
-      "rankGap": 14,
+      "loserPregameRank": 10,
+      "rankGap": 5,
       "trigger": "lower-ranked-over-higher-ranked"
     },
     {
@@ -987,21 +1001,7 @@
       "challengerId": "36",
       "rankedTeamId": "68",
       "winnerPregameRank": null,
-      "loserPregameRank": 15,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
-    },
-    {
-      "gameId": "cfbd-401862838",
-      "week": 13,
-      "seasonType": "regular",
-      "state": "watch",
-      "winnerId": null,
-      "loserId": null,
-      "challengerId": "218",
-      "rankedTeamId": "235",
-      "winnerPregameRank": null,
-      "loserPregameRank": 24,
+      "loserPregameRank": 22,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1029,7 +1029,7 @@
       "challengerId": "55",
       "rankedTeamId": "2335",
       "winnerPregameRank": null,
-      "loserPregameRank": 22,
+      "loserPregameRank": 21,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1043,7 +1043,7 @@
       "challengerId": "21",
       "rankedTeamId": "68",
       "winnerPregameRank": null,
-      "loserPregameRank": 15,
+      "loserPregameRank": 22,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },
@@ -1057,7 +1057,7 @@
       "challengerId": "2623",
       "rankedTeamId": "2335",
       "winnerPregameRank": null,
-      "loserPregameRank": 22,
+      "loserPregameRank": 21,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     }
