@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T20:17:12.128Z",
+  "generatedAt": "2026-11-25T18:40:34.446Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -12838,9 +12838,9 @@
       "awayId": "2309",
       "homeName": "Eastern Michigan",
       "awayName": "Kent State",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 17,
+      "awayScore": 12,
+      "status": "final",
       "venue": "Rynearson Stadium",
       "neutralSite": false
     },
@@ -12855,9 +12855,9 @@
       "awayId": "193",
       "homeName": "Western Michigan",
       "awayName": "Miami (OH)",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 24,
+      "awayScore": 28,
+      "status": "final",
       "venue": "Waldo Stadium",
       "neutralSite": false
     },
