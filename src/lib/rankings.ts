@@ -10,3 +10,5 @@ export function previousPoll(options: PollSnapshot[], current?: PollSnapshot) {
 }
 export function rankMap(snapshot?: PollSnapshot) { return new Map(snapshot?.entries.map(entry => [entry.teamId, entry.rank]) ?? []); }
 export function rankMovement(previous: number | undefined, current: number) { return previous === undefined ? null : previous - current; }
+export function isApPoll(p: PollSnapshot) { return /^(ap top 25|ap poll)$/i.test(p.poll); }
+export function latestApRanks(rankings: PollSnapshot[]) { return rankMap([...rankings].filter(isApPoll).sort(pollOrder).at(-1)); }
