@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T18:14:49.691Z",
+  "generatedAt": "2026-11-27T22:43:54.529Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -60,6 +60,14 @@
       "value": 3148
     },
     {
+      "playerId": "4911529",
+      "name": "Trinidad Chambliss",
+      "teamId": "145",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3090
+    },
+    {
       "playerId": "4685454",
       "name": "Jayden Maiava",
       "teamId": "30",
@@ -84,20 +92,20 @@
       "value": 3017
     },
     {
-      "playerId": "4801307",
-      "name": "Tayven Jackson",
-      "teamId": "249",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 2996
-    },
-    {
       "playerId": "5219258",
       "name": "Aiden Flora",
       "teamId": "66",
       "category": "rushing",
       "stat": "YDS",
       "value": 1506
+    },
+    {
+      "playerId": "5151369",
+      "name": "Messiah Burch",
+      "teamId": "2084",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1440
     },
     {
       "playerId": "5164332",
@@ -138,14 +146,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1360
-    },
-    {
-      "playerId": "5151369",
-      "name": "Messiah Burch",
-      "teamId": "2084",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1310
     },
     {
       "playerId": "5258016",

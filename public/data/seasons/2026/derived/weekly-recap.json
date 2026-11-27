@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T18:14:49.691Z",
+  "generatedAt": "2026-11-27T22:43:54.529Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -358,9 +358,9 @@
       "cards": [
         {
           "category": "closest-game",
-          "gameId": "cfbd-401866471",
+          "gameId": "cfbd-401866473",
           "teamId": null,
-          "description": "Miami (OH) at Western Michigan finished with a 4-point margin."
+          "description": "Toledo at Ohio finished with a 3-point margin."
         },
         {
           "category": "highest-scoring",
@@ -370,9 +370,9 @@
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401856879",
+          "gameId": "cfbd-401856762",
           "teamId": null,
-          "description": "Texas Tech won by 21 points."
+          "description": "Ole Miss won by 24 points."
         },
         {
           "category": "ranking-mover",

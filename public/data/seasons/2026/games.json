@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T18:14:49.691Z",
+  "generatedAt": "2026-11-27T22:43:54.529Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -1822,9 +1822,9 @@
       "awayId": "344",
       "homeName": "Ole Miss",
       "awayName": "Mississippi State",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 41,
+      "awayScore": 17,
+      "status": "final",
       "venue": "Vaught-Hemingway Stadium",
       "neutralSite": false
     },
@@ -7874,9 +7874,9 @@
       "awayId": "158",
       "homeName": "Iowa",
       "awayName": "Nebraska",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 31,
+      "awayScore": 7,
+      "status": "final",
       "venue": "Kinnick Stadium",
       "neutralSite": false
     },
@@ -10509,9 +10509,9 @@
       "awayId": "202",
       "homeName": "UTSA",
       "awayName": "Tulsa",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 28,
+      "awayScore": 22,
+      "status": "final",
       "venue": "Alamodome",
       "neutralSite": false
     },
@@ -12872,9 +12872,9 @@
       "awayId": "2084",
       "homeName": "Akron",
       "awayName": "Buffalo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 9,
+      "awayScore": 17,
+      "status": "final",
       "venue": "InfoCision Stadium",
       "neutralSite": false
     },
@@ -12889,9 +12889,9 @@
       "awayId": "2649",
       "homeName": "Ohio",
       "awayName": "Toledo",
-      "homeScore": null,
-      "awayScore": null,
-      "status": "scheduled",
+      "homeScore": 31,
+      "awayScore": 34,
+      "status": "final",
       "venue": "Peden Stadium",
       "neutralSite": false
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T18:14:49.691Z",
+  "generatedAt": "2026-11-27T22:43:54.529Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -91,9 +91,9 @@
       "winPercentage": 0.82,
       "scheduleStrength": 0.56,
       "pointDifferential": 16.82,
-      "pointDifferentialPercentile": 95.36,
-      "performanceScore": 78.13,
-      "gap": 2.13
+      "pointDifferentialPercentile": 94.94,
+      "performanceScore": 78.01,
+      "gap": 2.01
     },
     {
       "teamId": "154",
@@ -127,9 +127,9 @@
       "winPercentage": 0.91,
       "scheduleStrength": 0.51,
       "pointDifferential": 16.45,
-      "pointDifferentialPercentile": 94.94,
-      "performanceScore": 80.14,
-      "gap": 16.14
+      "pointDifferentialPercentile": 94.51,
+      "performanceScore": 80.02,
+      "gap": 16.02
     },
     {
       "teamId": "252",
@@ -139,9 +139,9 @@
       "winPercentage": 0.82,
       "scheduleStrength": 0.57,
       "pointDifferential": 11.27,
-      "pointDifferentialPercentile": 86.5,
-      "performanceScore": 75.78,
-      "gap": 15.78
+      "pointDifferentialPercentile": 87.34,
+      "performanceScore": 76.03,
+      "gap": 16.03
     },
     {
       "teamId": "84",
@@ -149,23 +149,23 @@
       "rank": 12,
       "rankPercentile": 56,
       "winPercentage": 0.82,
-      "scheduleStrength": 0.58,
+      "scheduleStrength": 0.57,
       "pointDifferential": 17.36,
       "pointDifferentialPercentile": 96.2,
-      "performanceScore": 78.99,
-      "gap": 22.99
+      "performanceScore": 78.69,
+      "gap": 22.69
     },
     {
       "teamId": "2294",
       "teamName": "Iowa",
       "rank": 13,
       "rankPercentile": 52,
-      "winPercentage": 0.82,
-      "scheduleStrength": 0.5,
-      "pointDifferential": 16.18,
-      "pointDifferentialPercentile": 94.51,
-      "performanceScore": 76.08,
-      "gap": 24.08
+      "winPercentage": 0.83,
+      "scheduleStrength": 0.51,
+      "pointDifferential": 16.83,
+      "pointDifferentialPercentile": 95.36,
+      "performanceScore": 77.24,
+      "gap": 25.24
     },
     {
       "teamId": "2483",
@@ -199,9 +199,9 @@
       "winPercentage": 0.73,
       "scheduleStrength": 0.56,
       "pointDifferential": 12.27,
-      "pointDifferentialPercentile": 88.82,
-      "performanceScore": 72.54,
-      "gap": 32.54
+      "pointDifferentialPercentile": 90.08,
+      "performanceScore": 72.92,
+      "gap": 32.92
     },
     {
       "teamId": "248",
@@ -235,9 +235,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.61,
       "pointDifferential": 4.91,
-      "pointDifferentialPercentile": 73.42,
-      "performanceScore": 65.78,
-      "gap": 37.78
+      "pointDifferentialPercentile": 73.84,
+      "performanceScore": 65.91,
+      "gap": 37.91
     },
     {
       "teamId": "57",
@@ -247,9 +247,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.68,
       "pointDifferential": 5.27,
-      "pointDifferentialPercentile": 75.11,
-      "performanceScore": 68.39,
-      "gap": 44.39
+      "pointDifferentialPercentile": 75.53,
+      "performanceScore": 68.51,
+      "gap": 44.51
     },
     {
       "teamId": "2335",
@@ -271,21 +271,21 @@
       "winPercentage": 0.82,
       "scheduleStrength": 0.58,
       "pointDifferential": 11.55,
-      "pointDifferentialPercentile": 86.92,
-      "performanceScore": 76.2,
-      "gap": 60.2
+      "pointDifferentialPercentile": 87.76,
+      "performanceScore": 76.46,
+      "gap": 60.46
     },
     {
       "teamId": "145",
       "teamName": "Ole Miss",
       "rank": 23,
       "rankPercentile": 12,
-      "winPercentage": 0.64,
-      "scheduleStrength": 0.6,
-      "pointDifferential": 9.55,
-      "pointDifferentialPercentile": 84.39,
-      "performanceScore": 68.77,
-      "gap": 56.77
+      "winPercentage": 0.67,
+      "scheduleStrength": 0.59,
+      "pointDifferential": 10.75,
+      "pointDifferentialPercentile": 85.65,
+      "performanceScore": 70.06,
+      "gap": 58.06
     },
     {
       "teamId": "142",
@@ -305,11 +305,11 @@
       "rank": 25,
       "rankPercentile": 4,
       "winPercentage": 0.64,
-      "scheduleStrength": 0.62,
+      "scheduleStrength": 0.61,
       "pointDifferential": 14.73,
       "pointDifferentialPercentile": 92.41,
-      "performanceScore": 71.78,
-      "gap": 67.78
+      "performanceScore": 71.48,
+      "gap": 67.48
     }
   ]
 }
