@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T05:04:42.266Z",
+  "generatedAt": "2026-11-27T18:14:49.691Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -30,9 +30,9 @@
       "losses": 0,
       "ties": 0,
       "conference": "Big 12",
-      "remainingGames": 1,
-      "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.45,
+      "remainingGames": 2,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": 0.69,
       "recentForm": "WWWWW"
     },
     {
@@ -138,9 +138,9 @@
       "losses": 1,
       "ties": 0,
       "conference": "Big 12",
-      "remainingGames": 0,
-      "rankedOpponentsRemaining": 0,
-      "remainingStrength": null,
+      "remainingGames": 1,
+      "rankedOpponentsRemaining": 1,
+      "remainingStrength": 1,
       "recentForm": "WWWWW"
     },
     {

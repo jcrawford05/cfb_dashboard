@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T05:04:42.266Z",
+  "generatedAt": "2026-11-27T18:14:49.691Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -7868,7 +7868,7 @@
       "season": 2026,
       "week": 13,
       "seasonType": "regular",
-      "startDate": "2026-11-27T17:00:00.000Z",
+      "startDate": "2026-11-27T17:08:00.000Z",
       "startTimeTBD": false,
       "homeId": "2294",
       "awayId": "158",
@@ -13319,6 +13319,23 @@
       "status": "final",
       "venue": "Cajun Field",
       "neutralSite": false
+    },
+    {
+      "id": "cfbd-401869533",
+      "season": 2026,
+      "week": 14,
+      "seasonType": "regular",
+      "startDate": "2026-12-05T01:00:00.000Z",
+      "startTimeTBD": false,
+      "homeId": "254",
+      "awayId": "2641",
+      "homeName": "Utah",
+      "awayName": "Texas Tech",
+      "homeScore": null,
+      "awayScore": null,
+      "status": "scheduled",
+      "venue": "AT&T Stadium",
+      "neutralSite": true
     },
     {
       "id": "cfbd-401869535",
