@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:40:34.446Z",
+  "generatedAt": "2026-11-27T05:04:42.266Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -134,14 +134,14 @@
     {
       "teamId": "2641",
       "rank": 11,
-      "wins": 10,
+      "wins": 11,
       "losses": 1,
       "ties": 0,
       "conference": "Big 12",
-      "remainingGames": 1,
+      "remainingGames": 0,
       "rankedOpponentsRemaining": 0,
-      "remainingStrength": 0.45,
-      "recentForm": "WWWWL"
+      "remainingStrength": null,
+      "recentForm": "WWWWW"
     },
     {
       "teamId": "2483",

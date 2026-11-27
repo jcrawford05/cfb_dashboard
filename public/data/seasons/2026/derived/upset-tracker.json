@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:40:34.446Z",
+  "generatedAt": "2026-11-27T05:04:42.266Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -498,20 +498,6 @@
       "rankedTeamId": "252",
       "winnerPregameRank": null,
       "loserPregameRank": 11,
-      "rankGap": null,
-      "trigger": "unranked-over-ranked"
-    },
-    {
-      "gameId": "cfbd-401856879",
-      "week": 13,
-      "seasonType": "regular",
-      "state": "watch",
-      "winnerId": null,
-      "loserId": null,
-      "challengerId": "2628",
-      "rankedTeamId": "2641",
-      "winnerPregameRank": null,
-      "loserPregameRank": 9,
       "rankGap": null,
       "trigger": "unranked-over-ranked"
     },

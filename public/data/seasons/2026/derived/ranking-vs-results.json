@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:40:34.446Z",
+  "generatedAt": "2026-11-27T05:04:42.266Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -112,12 +112,12 @@
       "teamName": "Texas Tech",
       "rank": 9,
       "rankPercentile": 68,
-      "winPercentage": 0.91,
-      "scheduleStrength": 0.56,
-      "pointDifferential": 14.18,
-      "pointDifferentialPercentile": 90.72,
-      "performanceScore": 80.38,
-      "gap": 12.38
+      "winPercentage": 0.92,
+      "scheduleStrength": 0.55,
+      "pointDifferential": 14.75,
+      "pointDifferentialPercentile": 92.83,
+      "performanceScore": 81.01,
+      "gap": 13.01
     },
     {
       "teamId": "26",
@@ -197,11 +197,11 @@
       "rank": 16,
       "rankPercentile": 40,
       "winPercentage": 0.73,
-      "scheduleStrength": 0.57,
+      "scheduleStrength": 0.56,
       "pointDifferential": 12.27,
       "pointDifferentialPercentile": 88.82,
-      "performanceScore": 72.84,
-      "gap": 32.84
+      "performanceScore": 72.54,
+      "gap": 32.54
     },
     {
       "teamId": "248",
@@ -235,9 +235,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.61,
       "pointDifferential": 4.91,
-      "pointDifferentialPercentile": 73,
-      "performanceScore": 65.65,
-      "gap": 37.65
+      "pointDifferentialPercentile": 73.42,
+      "performanceScore": 65.78,
+      "gap": 37.78
     },
     {
       "teamId": "57",
@@ -247,9 +247,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.68,
       "pointDifferential": 5.27,
-      "pointDifferentialPercentile": 74.68,
-      "performanceScore": 68.26,
-      "gap": 44.26
+      "pointDifferentialPercentile": 75.11,
+      "performanceScore": 68.39,
+      "gap": 44.39
     },
     {
       "teamId": "2335",
@@ -307,9 +307,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.62,
       "pointDifferential": 14.73,
-      "pointDifferentialPercentile": 92.83,
-      "performanceScore": 71.9,
-      "gap": 67.9
+      "pointDifferentialPercentile": 92.41,
+      "performanceScore": 71.78,
+      "gap": 67.78
     }
   ]
 }

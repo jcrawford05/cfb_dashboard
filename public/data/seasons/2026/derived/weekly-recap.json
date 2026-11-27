@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:40:34.446Z",
+  "generatedAt": "2026-11-27T05:04:42.266Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -364,15 +364,15 @@
         },
         {
           "category": "highest-scoring",
-          "gameId": "cfbd-401866471",
+          "gameId": "cfbd-401856879",
           "teamId": null,
-          "description": "Miami (OH) and Western Michigan combined for 52 points."
+          "description": "TCU and Texas Tech combined for 75 points."
         },
         {
           "category": "largest-margin",
-          "gameId": "cfbd-401866470",
+          "gameId": "cfbd-401856879",
           "teamId": null,
-          "description": "Eastern Michigan won by 5 points."
+          "description": "Texas Tech won by 21 points."
         },
         {
           "category": "ranking-mover",

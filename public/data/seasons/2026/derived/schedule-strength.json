@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:40:34.446Z",
+  "generatedAt": "2026-11-27T05:04:42.266Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -46,7 +46,7 @@
     },
     {
       "teamId": "12",
-      "completedScore": 0.57,
+      "completedScore": 0.56,
       "remainingScore": 0.55,
       "completedSample": 11,
       "remainingSample": 1,
@@ -278,7 +278,7 @@
     },
     {
       "teamId": "2000",
-      "completedScore": 0.9,
+      "completedScore": 0.91,
       "remainingScore": null,
       "completedSample": 1,
       "remainingSample": 0,
@@ -1222,10 +1222,10 @@
     },
     {
       "teamId": "2628",
-      "completedScore": 0.56,
-      "remainingScore": 0.91,
-      "completedSample": 11,
-      "remainingSample": 1,
+      "completedScore": 0.59,
+      "remainingScore": null,
+      "completedSample": 12,
+      "remainingSample": 0,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
@@ -1294,10 +1294,10 @@
     },
     {
       "teamId": "2641",
-      "completedScore": 0.56,
-      "remainingScore": 0.45,
-      "completedSample": 11,
-      "remainingSample": 1,
+      "completedScore": 0.55,
+      "remainingScore": null,
+      "completedSample": 12,
+      "remainingSample": 0,
       "formulaVersion": "opponent-win-pct-v1"
     },
     {
@@ -1438,7 +1438,7 @@
     },
     {
       "teamId": "2755",
-      "completedScore": 0.4,
+      "completedScore": 0.36,
       "remainingScore": null,
       "completedSample": 1,
       "remainingSample": 0,
@@ -1454,7 +1454,7 @@
     },
     {
       "teamId": "277",
-      "completedScore": 0.57,
+      "completedScore": 0.56,
       "remainingScore": 1,
       "completedSample": 11,
       "remainingSample": 1,
