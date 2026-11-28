@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T22:43:54.529Z",
+  "generatedAt": "2026-11-28T04:44:37.539Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -64,12 +64,12 @@
       "teamName": "Texas",
       "rank": 5,
       "rankPercentile": 84,
-      "winPercentage": 0.82,
-      "scheduleStrength": 0.66,
-      "pointDifferential": 15.09,
-      "pointDifferentialPercentile": 93.25,
-      "performanceScore": 80.5,
-      "gap": -3.5
+      "winPercentage": 0.83,
+      "scheduleStrength": 0.64,
+      "pointDifferential": 14.67,
+      "pointDifferentialPercentile": 92.41,
+      "performanceScore": 80.25,
+      "gap": -3.75
     },
     {
       "teamId": "333",
@@ -77,11 +77,11 @@
       "rank": 6,
       "rankPercentile": 80,
       "winPercentage": 0.82,
-      "scheduleStrength": 0.61,
+      "scheduleStrength": 0.6,
       "pointDifferential": 19.64,
-      "pointDifferentialPercentile": 98.1,
-      "performanceScore": 80.46,
-      "gap": 0.46
+      "pointDifferentialPercentile": 97.89,
+      "performanceScore": 80.09,
+      "gap": 0.09
     },
     {
       "teamId": "2633",
@@ -115,9 +115,9 @@
       "winPercentage": 0.92,
       "scheduleStrength": 0.55,
       "pointDifferential": 14.75,
-      "pointDifferentialPercentile": 92.83,
-      "performanceScore": 81.01,
-      "gap": 13.01
+      "pointDifferentialPercentile": 93.25,
+      "performanceScore": 81.14,
+      "gap": 13.14
     },
     {
       "teamId": "26",
@@ -139,9 +139,9 @@
       "winPercentage": 0.82,
       "scheduleStrength": 0.57,
       "pointDifferential": 11.27,
-      "pointDifferentialPercentile": 87.34,
-      "performanceScore": 76.03,
-      "gap": 16.03
+      "pointDifferentialPercentile": 88.19,
+      "performanceScore": 76.28,
+      "gap": 16.28
     },
     {
       "teamId": "84",
@@ -199,9 +199,9 @@
       "winPercentage": 0.73,
       "scheduleStrength": 0.56,
       "pointDifferential": 12.27,
-      "pointDifferentialPercentile": 90.08,
-      "performanceScore": 72.92,
-      "gap": 32.92
+      "pointDifferentialPercentile": 90.3,
+      "performanceScore": 72.98,
+      "gap": 32.98
     },
     {
       "teamId": "248",
@@ -211,9 +211,9 @@
       "winPercentage": 0.73,
       "scheduleStrength": 0.63,
       "pointDifferential": 10.91,
-      "pointDifferentialPercentile": 86.08,
-      "performanceScore": 73.81,
-      "gap": 37.81
+      "pointDifferentialPercentile": 86.92,
+      "performanceScore": 74.07,
+      "gap": 38.07
     },
     {
       "teamId": "97",
@@ -244,12 +244,12 @@
       "teamName": "Florida",
       "rank": 20,
       "rankPercentile": 24,
-      "winPercentage": 0.64,
-      "scheduleStrength": 0.68,
-      "pointDifferential": 5.27,
-      "pointDifferentialPercentile": 75.53,
-      "performanceScore": 68.51,
-      "gap": 44.51
+      "winPercentage": 0.67,
+      "scheduleStrength": 0.66,
+      "pointDifferential": 6.17,
+      "pointDifferentialPercentile": 78.06,
+      "performanceScore": 69.88,
+      "gap": 45.88
     },
     {
       "teamId": "2335",
@@ -269,11 +269,11 @@
       "rank": 22,
       "rankPercentile": 16,
       "winPercentage": 0.82,
-      "scheduleStrength": 0.58,
+      "scheduleStrength": 0.57,
       "pointDifferential": 11.55,
-      "pointDifferentialPercentile": 87.76,
-      "performanceScore": 76.46,
-      "gap": 60.46
+      "pointDifferentialPercentile": 88.61,
+      "performanceScore": 76.41,
+      "gap": 60.41
     },
     {
       "teamId": "145",
@@ -281,11 +281,11 @@
       "rank": 23,
       "rankPercentile": 12,
       "winPercentage": 0.67,
-      "scheduleStrength": 0.59,
+      "scheduleStrength": 0.6,
       "pointDifferential": 10.75,
-      "pointDifferentialPercentile": 85.65,
-      "performanceScore": 70.06,
-      "gap": 58.06
+      "pointDifferentialPercentile": 86.29,
+      "performanceScore": 70.55,
+      "gap": 58.55
     },
     {
       "teamId": "142",
@@ -307,9 +307,9 @@
       "winPercentage": 0.64,
       "scheduleStrength": 0.61,
       "pointDifferential": 14.73,
-      "pointDifferentialPercentile": 92.41,
-      "performanceScore": 71.48,
-      "gap": 67.48
+      "pointDifferentialPercentile": 92.83,
+      "performanceScore": 71.6,
+      "gap": 67.6
     }
   ]
 }

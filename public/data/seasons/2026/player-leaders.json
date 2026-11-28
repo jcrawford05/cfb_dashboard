@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T22:43:54.529Z",
+  "generatedAt": "2026-11-28T04:44:37.539Z",
   "season": 2026,
   "sources": [
     "cfbd"
@@ -44,6 +44,14 @@
       "value": 3324
     },
     {
+      "playerId": "5165807",
+      "name": "Marcus Stokes",
+      "teamId": "235",
+      "category": "passing",
+      "stat": "YDS",
+      "value": 3307
+    },
+    {
       "playerId": "5084084",
       "name": "Kevin Jennings",
       "teamId": "2567",
@@ -74,14 +82,6 @@
       "category": "passing",
       "stat": "YDS",
       "value": 3073
-    },
-    {
-      "playerId": "5165807",
-      "name": "Marcus Stokes",
-      "teamId": "235",
-      "category": "passing",
-      "stat": "YDS",
-      "value": 3047
     },
     {
       "playerId": "5078810",
@@ -132,6 +132,14 @@
       "value": 1371
     },
     {
+      "playerId": "5222671",
+      "name": "Jaylin Carter",
+      "teamId": "235",
+      "category": "rushing",
+      "stat": "YDS",
+      "value": 1370
+    },
+    {
       "playerId": "4911971",
       "name": "Jahiem White",
       "teamId": "249",
@@ -154,14 +162,6 @@
       "category": "rushing",
       "stat": "YDS",
       "value": 1270
-    },
-    {
-      "playerId": "5222671",
-      "name": "Jaylin Carter",
-      "teamId": "235",
-      "category": "rushing",
-      "stat": "YDS",
-      "value": 1267
     },
     {
       "playerId": "4918103",
